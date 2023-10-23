@@ -1,5 +1,5 @@
 # PythonAnnotations
-This was the code used to analyze Python type annotations in my bachelor thesis at the proglang chair at the University of Freiburg.
+This was the code used to analyze Python type annotations in a bachelor thesis at the proglang chair at the University of Freiburg.
 https://proglang.informatik.uni-freiburg.de/
 
 The thesis has three analysis parts:
