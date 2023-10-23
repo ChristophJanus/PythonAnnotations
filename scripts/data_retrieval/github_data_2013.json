@@ -1,0 +1,6002 @@
+[
+    {
+        "name": "home-assistant/core",
+        "url": "https://github.com/home-assistant/core.git",
+        "stars": 63508,
+        "created_at": "2013-09-17T07:29:48Z"
+    },
+    {
+        "name": "getredash/redash",
+        "url": "https://github.com/getredash/redash.git",
+        "stars": 23992,
+        "created_at": "2013-10-28T13:19:39Z"
+    },
+    {
+        "name": "cookiecutter/cookiecutter",
+        "url": "https://github.com/cookiecutter/cookiecutter.git",
+        "stars": 20455,
+        "created_at": "2013-07-14T18:31:22Z"
+    },
+    {
+        "name": "saleor/saleor",
+        "url": "https://github.com/saleor/saleor.git",
+        "stars": 19170,
+        "created_at": "2013-02-12T16:46:39Z"
+    },
+    {
+        "name": "kovidgoyal/calibre",
+        "url": "https://github.com/kovidgoyal/calibre.git",
+        "stars": 16667,
+        "created_at": "2013-05-28T10:03:23Z"
+    },
+    {
+        "name": "plotly/plotly.py",
+        "url": "https://github.com/plotly/plotly.py.git",
+        "stars": 14303,
+        "created_at": "2013-11-21T05:53:08Z"
+    },
+    {
+        "name": "aio-libs/aiohttp",
+        "url": "https://github.com/aio-libs/aiohttp.git",
+        "stars": 14018,
+        "created_at": "2013-10-01T23:04:01Z"
+    },
+    {
+        "name": "lra/mackup",
+        "url": "https://github.com/lra/mackup.git",
+        "stars": 13726,
+        "created_at": "2013-04-06T19:22:54Z"
+    },
+    {
+        "name": "codelucas/newspaper",
+        "url": "https://github.com/codelucas/newspaper.git",
+        "stars": 13194,
+        "created_at": "2013-11-25T09:50:50Z"
+    },
+    {
+        "name": "searx/searx",
+        "url": "https://github.com/searx/searx.git",
+        "stars": 13180,
+        "created_at": "2013-10-15T16:20:51Z"
+    },
+    {
+        "name": "mail-in-a-box/mailinabox",
+        "url": "https://github.com/mail-in-a-box/mailinabox.git",
+        "stars": 12412,
+        "created_at": "2013-08-21T13:56:50Z"
+    },
+    {
+        "name": "idank/explainshell",
+        "url": "https://github.com/idank/explainshell.git",
+        "stars": 12341,
+        "created_at": "2013-08-30T11:20:11Z"
+    },
+    {
+        "name": "SFTtech/openage",
+        "url": "https://github.com/SFTtech/openage.git",
+        "stars": 12035,
+        "created_at": "2013-11-03T22:35:23Z"
+    },
+    {
+        "name": "dbader/schedule",
+        "url": "https://github.com/dbader/schedule.git",
+        "stars": 11156,
+        "created_at": "2013-05-19T12:51:20Z"
+    },
+    {
+        "name": "Zulko/moviepy",
+        "url": "https://github.com/Zulko/moviepy.git",
+        "stars": 11013,
+        "created_at": "2013-08-12T09:39:28Z"
+    },
+    {
+        "name": "cookiecutter/cookiecutter-django",
+        "url": "https://github.com/cookiecutter/cookiecutter-django.git",
+        "stars": 10938,
+        "created_at": "2013-08-14T17:43:31Z"
+    },
+    {
+        "name": "Gallopsled/pwntools",
+        "url": "https://github.com/Gallopsled/pwntools.git",
+        "stars": 10719,
+        "created_at": "2013-04-29T14:43:03Z"
+    },
+    {
+        "name": "maurosoria/dirsearch",
+        "url": "https://github.com/maurosoria/dirsearch.git",
+        "stars": 10419,
+        "created_at": "2013-04-30T15:57:40Z"
+    },
+    {
+        "name": "ocrmypdf/OCRmyPDF",
+        "url": "https://github.com/ocrmypdf/OCRmyPDF.git",
+        "stars": 10174,
+        "created_at": "2013-12-20T08:26:28Z"
+    },
+    {
+        "name": "Nuitka/Nuitka",
+        "url": "https://github.com/Nuitka/Nuitka.git",
+        "stars": 9879,
+        "created_at": "2013-04-23T15:40:33Z"
+    },
+    {
+        "name": "ReFirmLabs/binwalk",
+        "url": "https://github.com/ReFirmLabs/binwalk.git",
+        "stars": 9695,
+        "created_at": "2013-11-15T20:45:40Z"
+    },
+    {
+        "name": "sloria/TextBlob",
+        "url": "https://github.com/sloria/TextBlob.git",
+        "stars": 8720,
+        "created_at": "2013-06-30T18:29:18Z"
+    },
+    {
+        "name": "miguelgrinberg/flasky",
+        "url": "https://github.com/miguelgrinberg/flasky.git",
+        "stars": 8290,
+        "created_at": "2013-12-24T05:38:12Z"
+    },
+    {
+        "name": "gelstudios/gitfiti",
+        "url": "https://github.com/gelstudios/gitfiti.git",
+        "stars": 7830,
+        "created_at": "2013-04-23T19:32:02Z"
+    },
+    {
+        "name": "houtianze/bypy",
+        "url": "https://github.com/houtianze/bypy.git",
+        "stars": 7091,
+        "created_at": "2013-12-30T17:47:38Z"
+    },
+    {
+        "name": "getmoto/moto",
+        "url": "https://github.com/getmoto/moto.git",
+        "stars": 7038,
+        "created_at": "2013-02-18T21:10:59Z"
+    },
+    {
+        "name": "HypothesisWorks/hypothesis",
+        "url": "https://github.com/HypothesisWorks/hypothesis.git",
+        "stars": 6964,
+        "created_at": "2013-03-10T13:51:19Z"
+    },
+    {
+        "name": "lutris/lutris",
+        "url": "https://github.com/lutris/lutris.git",
+        "stars": 6879,
+        "created_at": "2013-10-08T16:37:26Z"
+    },
+    {
+        "name": "detailyang/awesome-cheatsheet",
+        "url": "https://github.com/detailyang/awesome-cheatsheet.git",
+        "stars": 6830,
+        "created_at": "2013-10-22T08:35:19Z"
+    },
+    {
+        "name": "taobao/nginx-book",
+        "url": "https://github.com/taobao/nginx-book.git",
+        "stars": 6756,
+        "created_at": "2013-01-18T03:40:20Z"
+    },
+    {
+        "name": "belluzj/fantasque-sans",
+        "url": "https://github.com/belluzj/fantasque-sans.git",
+        "stars": 6714,
+        "created_at": "2013-11-18T09:47:04Z"
+    },
+    {
+        "name": "openedx/edx-platform",
+        "url": "https://github.com/openedx/edx-platform.git",
+        "stars": 6714,
+        "created_at": "2013-05-30T20:20:38Z"
+    },
+    {
+        "name": "marshmallow-code/marshmallow",
+        "url": "https://github.com/marshmallow-code/marshmallow.git",
+        "stars": 6696,
+        "created_at": "2013-11-10T21:32:24Z"
+    },
+    {
+        "name": "python-visualization/folium",
+        "url": "https://github.com/python-visualization/folium.git",
+        "stars": 6435,
+        "created_at": "2013-05-09T04:21:35Z"
+    },
+    {
+        "name": "docker/docker-py",
+        "url": "https://github.com/docker/docker-py.git",
+        "stars": 6413,
+        "created_at": "2013-05-23T16:15:07Z"
+    },
+    {
+        "name": "numenta/nupic-legacy",
+        "url": "https://github.com/numenta/nupic-legacy.git",
+        "stars": 6327,
+        "created_at": "2013-04-05T23:14:27Z"
+    },
+    {
+        "name": "mahmoud/boltons",
+        "url": "https://github.com/mahmoud/boltons.git",
+        "stars": 6276,
+        "created_at": "2013-02-20T06:17:12Z"
+    },
+    {
+        "name": "isnowfy/snownlp",
+        "url": "https://github.com/isnowfy/snownlp.git",
+        "stars": 6188,
+        "created_at": "2013-11-26T11:46:56Z"
+    },
+    {
+        "name": "msiemens/tinydb",
+        "url": "https://github.com/msiemens/tinydb.git",
+        "stars": 6173,
+        "created_at": "2013-07-12T23:31:13Z"
+    },
+    {
+        "name": "worldveil/dejavu",
+        "url": "https://github.com/worldveil/dejavu.git",
+        "stars": 6144,
+        "created_at": "2013-11-19T02:50:35Z"
+    },
+    {
+        "name": "PyCQA/isort",
+        "url": "https://github.com/PyCQA/isort.git",
+        "stars": 6100,
+        "created_at": "2013-09-02T22:22:53Z"
+    },
+    {
+        "name": "deis/deis",
+        "url": "https://github.com/deis/deis.git",
+        "stars": 6066,
+        "created_at": "2013-07-22T19:02:40Z"
+    },
+    {
+        "name": "snare/voltron",
+        "url": "https://github.com/snare/voltron.git",
+        "stars": 6016,
+        "created_at": "2013-06-25T09:32:23Z"
+    },
+    {
+        "name": "pyca/cryptography",
+        "url": "https://github.com/pyca/cryptography.git",
+        "stars": 5840,
+        "created_at": "2013-08-07T02:23:38Z"
+    },
+    {
+        "name": "Dman95/SASM",
+        "url": "https://github.com/Dman95/SASM.git",
+        "stars": 5705,
+        "created_at": "2013-06-03T20:46:24Z"
+    },
+    {
+        "name": "adamchainz/django-cors-headers",
+        "url": "https://github.com/adamchainz/django-cors-headers.git",
+        "stars": 5109,
+        "created_at": "2013-01-19T08:39:17Z"
+    },
+    {
+        "name": "openstack/openstack",
+        "url": "https://github.com/openstack/openstack.git",
+        "stars": 4950,
+        "created_at": "2013-10-24T17:38:08Z"
+    },
+    {
+        "name": "ajalt/fuckitpy",
+        "url": "https://github.com/ajalt/fuckitpy.git",
+        "stars": 4844,
+        "created_at": "2013-06-21T18:52:33Z"
+    },
+    {
+        "name": "pypa/sampleproject",
+        "url": "https://github.com/pypa/sampleproject.git",
+        "stars": 4821,
+        "created_at": "2013-12-03T16:43:27Z"
+    },
+    {
+        "name": "python-websockets/websockets",
+        "url": "https://github.com/python-websockets/websockets.git",
+        "stars": 4743,
+        "created_at": "2013-03-30T08:59:30Z"
+    },
+    {
+        "name": "JakeWharton/pidcat",
+        "url": "https://github.com/JakeWharton/pidcat.git",
+        "stars": 4735,
+        "created_at": "2013-06-12T05:59:37Z"
+    },
+    {
+        "name": "pudo/dataset",
+        "url": "https://github.com/pudo/dataset.git",
+        "stars": 4648,
+        "created_at": "2013-04-01T14:57:55Z"
+    },
+    {
+        "name": "nameko/nameko",
+        "url": "https://github.com/nameko/nameko.git",
+        "stars": 4587,
+        "created_at": "2013-02-26T11:59:08Z"
+    },
+    {
+        "name": "ReactiveX/RxPY",
+        "url": "https://github.com/ReactiveX/RxPY.git",
+        "stars": 4565,
+        "created_at": "2013-03-22T06:16:54Z"
+    },
+    {
+        "name": "google/grr",
+        "url": "https://github.com/google/grr.git",
+        "stars": 4511,
+        "created_at": "2013-12-04T00:17:53Z"
+    },
+    {
+        "name": "mozillazg/python-pinyin",
+        "url": "https://github.com/mozillazg/python-pinyin.git",
+        "stars": 4486,
+        "created_at": "2013-09-14T14:01:40Z"
+    },
+    {
+        "name": "cookiecutter-flask/cookiecutter-flask",
+        "url": "https://github.com/cookiecutter-flask/cookiecutter-flask.git",
+        "stars": 4437,
+        "created_at": "2013-08-16T07:27:55Z"
+    },
+    {
+        "name": "offu/WeRoBot",
+        "url": "https://github.com/offu/WeRoBot.git",
+        "stars": 4413,
+        "created_at": "2013-01-30T16:30:47Z"
+    },
+    {
+        "name": "pytoolz/toolz",
+        "url": "https://github.com/pytoolz/toolz.git",
+        "stars": 4357,
+        "created_at": "2013-09-13T02:18:43Z"
+    },
+    {
+        "name": "Tribler/tribler",
+        "url": "https://github.com/Tribler/tribler.git",
+        "stars": 4349,
+        "created_at": "2013-02-25T14:51:58Z"
+    },
+    {
+        "name": "dpgaspar/Flask-AppBuilder",
+        "url": "https://github.com/dpgaspar/Flask-AppBuilder.git",
+        "stars": 4336,
+        "created_at": "2013-11-09T21:13:29Z"
+    },
+    {
+        "name": "biolab/orange3",
+        "url": "https://github.com/biolab/orange3.git",
+        "stars": 4310,
+        "created_at": "2013-02-22T12:52:56Z"
+    },
+    {
+        "name": "infobyte/faraday",
+        "url": "https://github.com/infobyte/faraday.git",
+        "stars": 4251,
+        "created_at": "2013-11-06T02:07:23Z"
+    },
+    {
+        "name": "arsenetar/dupeguru",
+        "url": "https://github.com/arsenetar/dupeguru.git",
+        "stars": 4166,
+        "created_at": "2013-06-22T01:07:43Z"
+    },
+    {
+        "name": "pritunl/pritunl",
+        "url": "https://github.com/pritunl/pritunl.git",
+        "stars": 4147,
+        "created_at": "2013-09-13T00:30:53Z"
+    },
+    {
+        "name": "facebookarchive/huxley",
+        "url": "https://github.com/facebookarchive/huxley.git",
+        "stars": 4080,
+        "created_at": "2013-07-30T06:01:12Z"
+    },
+    {
+        "name": "elastic/elasticsearch-py",
+        "url": "https://github.com/elastic/elasticsearch-py.git",
+        "stars": 4040,
+        "created_at": "2013-05-01T22:47:39Z"
+    },
+    {
+        "name": "audreyfeldroy/cookiecutter-pypackage",
+        "url": "https://github.com/audreyfeldroy/cookiecutter-pypackage.git",
+        "stars": 3978,
+        "created_at": "2013-07-14T18:52:05Z"
+    },
+    {
+        "name": "getsentry/responses",
+        "url": "https://github.com/getsentry/responses.git",
+        "stars": 3957,
+        "created_at": "2013-11-15T23:28:18Z"
+    },
+    {
+        "name": "emre/storm",
+        "url": "https://github.com/emre/storm.git",
+        "stars": 3948,
+        "created_at": "2013-05-20T18:30:39Z"
+    },
+    {
+        "name": "scrapinghub/splash",
+        "url": "https://github.com/scrapinghub/splash.git",
+        "stars": 3917,
+        "created_at": "2013-05-20T21:20:33Z"
+    },
+    {
+        "name": "geopandas/geopandas",
+        "url": "https://github.com/geopandas/geopandas.git",
+        "stars": 3885,
+        "created_at": "2013-06-27T17:03:47Z"
+    },
+    {
+        "name": "fonttools/fonttools",
+        "url": "https://github.com/fonttools/fonttools.git",
+        "stars": 3831,
+        "created_at": "2013-07-24T16:28:35Z"
+    },
+    {
+        "name": "python-openxml/python-docx",
+        "url": "https://github.com/python-openxml/python-docx.git",
+        "stars": 3822,
+        "created_at": "2013-10-15T14:50:41Z"
+    },
+    {
+        "name": "tmux-python/tmuxp",
+        "url": "https://github.com/tmux-python/tmuxp.git",
+        "stars": 3795,
+        "created_at": "2013-08-27T05:51:11Z"
+    },
+    {
+        "name": "dabeaz/python-cookbook",
+        "url": "https://github.com/dabeaz/python-cookbook.git",
+        "stars": 3781,
+        "created_at": "2013-04-08T11:01:19Z"
+    },
+    {
+        "name": "yhat/ggpy",
+        "url": "https://github.com/yhat/ggpy.git",
+        "stars": 3660,
+        "created_at": "2013-10-07T13:30:53Z"
+    },
+    {
+        "name": "trustedsec/unicorn",
+        "url": "https://github.com/trustedsec/unicorn.git",
+        "stars": 3520,
+        "created_at": "2013-06-19T08:38:06Z"
+    },
+    {
+        "name": "boppreh/keyboard",
+        "url": "https://github.com/boppreh/keyboard.git",
+        "stars": 3517,
+        "created_at": "2013-05-07T22:55:07Z"
+    },
+    {
+        "name": "zzzeek/sqlalchemy",
+        "url": "https://github.com/zzzeek/sqlalchemy.git",
+        "stars": 3461,
+        "created_at": "2013-05-25T20:05:42Z"
+    },
+    {
+        "name": "ronreiter/interactive-tutorials",
+        "url": "https://github.com/ronreiter/interactive-tutorials.git",
+        "stars": 3437,
+        "created_at": "2013-11-03T04:41:29Z"
+    },
+    {
+        "name": "pyqtgraph/pyqtgraph",
+        "url": "https://github.com/pyqtgraph/pyqtgraph.git",
+        "stars": 3430,
+        "created_at": "2013-09-12T07:18:21Z"
+    },
+    {
+        "name": "scottrogowski/code2flow",
+        "url": "https://github.com/scottrogowski/code2flow.git",
+        "stars": 3425,
+        "created_at": "2013-05-24T04:17:43Z"
+    },
+    {
+        "name": "wal-e/wal-e",
+        "url": "https://github.com/wal-e/wal-e.git",
+        "stars": 3409,
+        "created_at": "2013-01-18T22:35:56Z"
+    },
+    {
+        "name": "pypi/warehouse",
+        "url": "https://github.com/pypi/warehouse.git",
+        "stars": 3367,
+        "created_at": "2013-03-30T19:03:53Z"
+    },
+    {
+        "name": "jmcnamara/XlsxWriter",
+        "url": "https://github.com/jmcnamara/XlsxWriter.git",
+        "stars": 3347,
+        "created_at": "2013-01-04T01:07:06Z"
+    },
+    {
+        "name": "ponyorm/pony",
+        "url": "https://github.com/ponyorm/pony.git",
+        "stars": 3332,
+        "created_at": "2013-02-08T04:56:00Z"
+    },
+    {
+        "name": "kachayev/fn.py",
+        "url": "https://github.com/kachayev/fn.py.git",
+        "stars": 3311,
+        "created_at": "2013-01-13T15:06:02Z"
+    },
+    {
+        "name": "miso-belica/sumy",
+        "url": "https://github.com/miso-belica/sumy.git",
+        "stars": 3268,
+        "created_at": "2013-02-20T12:56:48Z"
+    },
+    {
+        "name": "gnemoug/distribute_crawler",
+        "url": "https://github.com/gnemoug/distribute_crawler.git",
+        "stars": 3230,
+        "created_at": "2013-04-17T09:14:02Z"
+    },
+    {
+        "name": "fake-useragent/fake-useragent",
+        "url": "https://github.com/fake-useragent/fake-useragent.git",
+        "stars": 3222,
+        "created_at": "2013-03-04T07:14:29Z"
+    },
+    {
+        "name": "pydata/xarray",
+        "url": "https://github.com/pydata/xarray.git",
+        "stars": 3203,
+        "created_at": "2013-09-30T17:21:10Z"
+    },
+    {
+        "name": "secretsquirrel/the-backdoor-factory",
+        "url": "https://github.com/secretsquirrel/the-backdoor-factory.git",
+        "stars": 3188,
+        "created_at": "2013-05-30T01:04:24Z"
+    },
+    {
+        "name": "Anorov/cloudflare-scrape",
+        "url": "https://github.com/Anorov/cloudflare-scrape.git",
+        "stars": 3188,
+        "created_at": "2013-02-28T23:44:53Z"
+    },
+    {
+        "name": "ansible/ansible-lint",
+        "url": "https://github.com/ansible/ansible-lint.git",
+        "stars": 3166,
+        "created_at": "2013-08-14T11:08:00Z"
+    },
+    {
+        "name": "vispy/vispy",
+        "url": "https://github.com/vispy/vispy.git",
+        "stars": 3128,
+        "created_at": "2013-03-21T18:43:22Z"
+    },
+    {
+        "name": "thearn/webcam-pulse-detector",
+        "url": "https://github.com/thearn/webcam-pulse-detector.git",
+        "stars": 3099,
+        "created_at": "2013-04-15T15:02:07Z"
+    },
+    {
+        "name": "pyload/pyload",
+        "url": "https://github.com/pyload/pyload.git",
+        "stars": 3018,
+        "created_at": "2013-02-10T13:12:02Z"
+    },
+    {
+        "name": "elastic/curator",
+        "url": "https://github.com/elastic/curator.git",
+        "stars": 3014,
+        "created_at": "2013-08-20T05:45:34Z"
+    },
+    {
+        "name": "eliben/pycparser",
+        "url": "https://github.com/eliben/pycparser.git",
+        "stars": 2998,
+        "created_at": "2013-06-09T22:01:56Z"
+    },
+    {
+        "name": "scrapy-plugins/scrapy-splash",
+        "url": "https://github.com/scrapy-plugins/scrapy-splash.git",
+        "stars": 2995,
+        "created_at": "2013-05-13T20:40:11Z"
+    },
+    {
+        "name": "jaredks/rumps",
+        "url": "https://github.com/jaredks/rumps.git",
+        "stars": 2960,
+        "created_at": "2013-07-31T09:12:53Z"
+    },
+    {
+        "name": "pinry/pinry",
+        "url": "https://github.com/pinry/pinry.git",
+        "stars": 2919,
+        "created_at": "2013-03-05T00:17:31Z"
+    },
+    {
+        "name": "jazzband/django-oauth-toolkit",
+        "url": "https://github.com/jazzband/django-oauth-toolkit.git",
+        "stars": 2909,
+        "created_at": "2013-05-20T15:46:18Z"
+    },
+    {
+        "name": "crypto101/book",
+        "url": "https://github.com/crypto101/book.git",
+        "stars": 2891,
+        "created_at": "2013-12-27T11:44:49Z"
+    },
+    {
+        "name": "docker-archive/docker-registry",
+        "url": "https://github.com/docker-archive/docker-registry.git",
+        "stars": 2880,
+        "created_at": "2013-04-16T01:04:54Z"
+    },
+    {
+        "name": "joke2k/django-environ",
+        "url": "https://github.com/joke2k/django-environ.git",
+        "stars": 2833,
+        "created_at": "2013-04-02T13:50:07Z"
+    },
+    {
+        "name": "munificent/vigil",
+        "url": "https://github.com/munificent/vigil.git",
+        "stars": 2795,
+        "created_at": "2013-01-03T08:05:26Z"
+    },
+    {
+        "name": "rougier/matplotlib-tutorial",
+        "url": "https://github.com/rougier/matplotlib-tutorial.git",
+        "stars": 2794,
+        "created_at": "2013-05-12T07:22:19Z"
+    },
+    {
+        "name": "noamraph/tqdm",
+        "url": "https://github.com/noamraph/tqdm.git",
+        "stars": 2789,
+        "created_at": "2013-10-26T18:50:04Z"
+    },
+    {
+        "name": "hynek/structlog",
+        "url": "https://github.com/hynek/structlog.git",
+        "stars": 2785,
+        "created_at": "2013-08-13T15:55:58Z"
+    },
+    {
+        "name": "scikit-learn-contrib/sklearn-pandas",
+        "url": "https://github.com/scikit-learn-contrib/sklearn-pandas.git",
+        "stars": 2755,
+        "created_at": "2013-04-22T22:55:20Z"
+    },
+    {
+        "name": "scrapy/scrapyd",
+        "url": "https://github.com/scrapy/scrapyd.git",
+        "stars": 2712,
+        "created_at": "2013-02-01T19:06:43Z"
+    },
+    {
+        "name": "goldsmith/Wikipedia",
+        "url": "https://github.com/goldsmith/Wikipedia.git",
+        "stars": 2710,
+        "created_at": "2013-08-20T06:39:09Z"
+    },
+    {
+        "name": "modoboa/modoboa",
+        "url": "https://github.com/modoboa/modoboa.git",
+        "stars": 2698,
+        "created_at": "2013-04-16T09:43:55Z"
+    },
+    {
+        "name": "abhinavsingh/proxy.py",
+        "url": "https://github.com/abhinavsingh/proxy.py.git",
+        "stars": 2649,
+        "created_at": "2013-08-19T21:33:51Z"
+    },
+    {
+        "name": "emscripten-core/emsdk",
+        "url": "https://github.com/emscripten-core/emsdk.git",
+        "stars": 2632,
+        "created_at": "2013-09-05T09:22:26Z"
+    },
+    {
+        "name": "cdhigh/KindleEar",
+        "url": "https://github.com/cdhigh/KindleEar.git",
+        "stars": 2618,
+        "created_at": "2013-07-04T23:30:15Z"
+    },
+    {
+        "name": "mhagger/git-imerge",
+        "url": "https://github.com/mhagger/git-imerge.git",
+        "stars": 2613,
+        "created_at": "2013-05-01T05:09:36Z"
+    },
+    {
+        "name": "marcgibbons/django-rest-swagger",
+        "url": "https://github.com/marcgibbons/django-rest-swagger.git",
+        "stars": 2592,
+        "created_at": "2013-06-13T19:28:32Z"
+    },
+    {
+        "name": "codingo/NoSQLMap",
+        "url": "https://github.com/codingo/NoSQLMap.git",
+        "stars": 2551,
+        "created_at": "2013-09-24T15:01:30Z"
+    },
+    {
+        "name": "DanMcInerney/LANs.py",
+        "url": "https://github.com/DanMcInerney/LANs.py.git",
+        "stars": 2531,
+        "created_at": "2013-01-03T19:33:52Z"
+    },
+    {
+        "name": "hzlzh/AlfredWorkflow.com",
+        "url": "https://github.com/hzlzh/AlfredWorkflow.com.git",
+        "stars": 2530,
+        "created_at": "2013-03-19T11:47:59Z"
+    },
+    {
+        "name": "mikedh/trimesh",
+        "url": "https://github.com/mikedh/trimesh.git",
+        "stars": 2517,
+        "created_at": "2013-07-29T17:25:42Z"
+    },
+    {
+        "name": "MobileChromeApps/mobile-chrome-apps",
+        "url": "https://github.com/MobileChromeApps/mobile-chrome-apps.git",
+        "stars": 2505,
+        "created_at": "2013-05-14T01:41:07Z"
+    },
+    {
+        "name": "pgmpy/pgmpy",
+        "url": "https://github.com/pgmpy/pgmpy.git",
+        "stars": 2493,
+        "created_at": "2013-09-20T08:18:58Z"
+    },
+    {
+        "name": "wger-project/wger",
+        "url": "https://github.com/wger-project/wger.git",
+        "stars": 2492,
+        "created_at": "2013-01-19T16:34:38Z"
+    },
+    {
+        "name": "ros/ros",
+        "url": "https://github.com/ros/ros.git",
+        "stars": 2463,
+        "created_at": "2013-01-24T03:44:36Z"
+    },
+    {
+        "name": "viewflow/viewflow",
+        "url": "https://github.com/viewflow/viewflow.git",
+        "stars": 2456,
+        "created_at": "2013-09-10T10:16:35Z"
+    },
+    {
+        "name": "flaskbb/flaskbb",
+        "url": "https://github.com/flaskbb/flaskbb.git",
+        "stars": 2450,
+        "created_at": "2013-09-11T08:39:17Z"
+    },
+    {
+        "name": "home-assistant-libs/pychromecast",
+        "url": "https://github.com/home-assistant-libs/pychromecast.git",
+        "stars": 2444,
+        "created_at": "2013-10-02T07:58:34Z"
+    },
+    {
+        "name": "pexpect/pexpect",
+        "url": "https://github.com/pexpect/pexpect.git",
+        "stars": 2444,
+        "created_at": "2013-09-17T17:36:44Z"
+    },
+    {
+        "name": "sokolovstas/SublimeWebInspector",
+        "url": "https://github.com/sokolovstas/SublimeWebInspector.git",
+        "stars": 2355,
+        "created_at": "2013-01-18T09:15:39Z"
+    },
+    {
+        "name": "lorien/grab",
+        "url": "https://github.com/lorien/grab.git",
+        "stars": 2323,
+        "created_at": "2013-05-01T08:10:22Z"
+    },
+    {
+        "name": "zostera/django-bootstrap3",
+        "url": "https://github.com/zostera/django-bootstrap3.git",
+        "stars": 2322,
+        "created_at": "2013-08-13T13:48:04Z"
+    },
+    {
+        "name": "jeffknupp/sandman",
+        "url": "https://github.com/jeffknupp/sandman.git",
+        "stars": 2321,
+        "created_at": "2013-07-20T19:52:21Z"
+    },
+    {
+        "name": "evansd/whitenoise",
+        "url": "https://github.com/evansd/whitenoise.git",
+        "stars": 2310,
+        "created_at": "2013-08-08T11:02:06Z"
+    },
+    {
+        "name": "maxme/bitcoin-arbitrage",
+        "url": "https://github.com/maxme/bitcoin-arbitrage.git",
+        "stars": 2307,
+        "created_at": "2013-01-31T11:43:42Z"
+    },
+    {
+        "name": "pimutils/khal",
+        "url": "https://github.com/pimutils/khal.git",
+        "stars": 2295,
+        "created_at": "2013-08-25T11:22:27Z"
+    },
+    {
+        "name": "jameslyons/python_speech_features",
+        "url": "https://github.com/jameslyons/python_speech_features.git",
+        "stars": 2287,
+        "created_at": "2013-10-31T02:42:08Z"
+    },
+    {
+        "name": "mjhea0/flaskr-tdd",
+        "url": "https://github.com/mjhea0/flaskr-tdd.git",
+        "stars": 2272,
+        "created_at": "2013-11-09T23:41:32Z"
+    },
+    {
+        "name": "phillipberndt/autorandr",
+        "url": "https://github.com/phillipberndt/autorandr.git",
+        "stars": 2267,
+        "created_at": "2013-11-29T06:40:40Z"
+    },
+    {
+        "name": "miguelgrinberg/Flask-Migrate",
+        "url": "https://github.com/miguelgrinberg/Flask-Migrate.git",
+        "stars": 2253,
+        "created_at": "2013-09-08T19:24:57Z"
+    },
+    {
+        "name": "quokkaproject/quokka",
+        "url": "https://github.com/quokkaproject/quokka.git",
+        "stars": 2228,
+        "created_at": "2013-07-07T00:42:27Z"
+    },
+    {
+        "name": "mongodb/motor",
+        "url": "https://github.com/mongodb/motor.git",
+        "stars": 2226,
+        "created_at": "2013-01-11T21:34:44Z"
+    },
+    {
+        "name": "josiahcarlson/redis-in-action",
+        "url": "https://github.com/josiahcarlson/redis-in-action.git",
+        "stars": 2212,
+        "created_at": "2013-01-16T18:39:11Z"
+    },
+    {
+        "name": "DamnWidget/anaconda",
+        "url": "https://github.com/DamnWidget/anaconda.git",
+        "stars": 2194,
+        "created_at": "2013-07-21T15:14:07Z"
+    },
+    {
+        "name": "CamDavidsonPilon/lifelines",
+        "url": "https://github.com/CamDavidsonPilon/lifelines.git",
+        "stars": 2186,
+        "created_at": "2013-08-28T00:16:42Z"
+    },
+    {
+        "name": "groveco/django-sql-explorer",
+        "url": "https://github.com/groveco/django-sql-explorer.git",
+        "stars": 2151,
+        "created_at": "2013-12-22T20:58:37Z"
+    },
+    {
+        "name": "jazzband/django-push-notifications",
+        "url": "https://github.com/jazzband/django-push-notifications.git",
+        "stars": 2150,
+        "created_at": "2013-03-15T00:57:33Z"
+    },
+    {
+        "name": "truenas/middleware",
+        "url": "https://github.com/truenas/middleware.git",
+        "stars": 2133,
+        "created_at": "2013-03-07T13:23:20Z"
+    },
+    {
+        "name": "etsy/skyline",
+        "url": "https://github.com/etsy/skyline.git",
+        "stars": 2131,
+        "created_at": "2013-06-10T15:44:49Z"
+    },
+    {
+        "name": "vmware/pyvmomi",
+        "url": "https://github.com/vmware/pyvmomi.git",
+        "stars": 2123,
+        "created_at": "2013-12-13T17:30:30Z"
+    },
+    {
+        "name": "luispedro/BuildingMachineLearningSystemsWithPython",
+        "url": "https://github.com/luispedro/BuildingMachineLearningSystemsWithPython.git",
+        "stars": 2111,
+        "created_at": "2013-09-25T07:10:26Z"
+    },
+    {
+        "name": "Komodo/KomodoEdit",
+        "url": "https://github.com/Komodo/KomodoEdit.git",
+        "stars": 2107,
+        "created_at": "2013-07-31T21:57:20Z"
+    },
+    {
+        "name": "nortikin/sverchok",
+        "url": "https://github.com/nortikin/sverchok.git",
+        "stars": 2081,
+        "created_at": "2013-10-26T20:23:40Z"
+    },
+    {
+        "name": "python-gitlab/python-gitlab",
+        "url": "https://github.com/python-gitlab/python-gitlab.git",
+        "stars": 2074,
+        "created_at": "2013-02-07T17:23:16Z"
+    },
+    {
+        "name": "ross/requests-futures",
+        "url": "https://github.com/ross/requests-futures.git",
+        "stars": 2061,
+        "created_at": "2013-03-21T14:20:03Z"
+    },
+    {
+        "name": "ckreibich/scholar.py",
+        "url": "https://github.com/ckreibich/scholar.py.git",
+        "stars": 2050,
+        "created_at": "2013-11-07T02:06:15Z"
+    },
+    {
+        "name": "Yggdroot/LeaderF",
+        "url": "https://github.com/Yggdroot/LeaderF.git",
+        "stars": 2045,
+        "created_at": "2013-12-30T05:43:36Z"
+    },
+    {
+        "name": "crossbario/crossbar",
+        "url": "https://github.com/crossbario/crossbar.git",
+        "stars": 2045,
+        "created_at": "2013-10-14T11:10:50Z"
+    },
+    {
+        "name": "wrobstory/vincent",
+        "url": "https://github.com/wrobstory/vincent.git",
+        "stars": 2043,
+        "created_at": "2013-04-11T02:44:53Z"
+    },
+    {
+        "name": "pydata/numexpr",
+        "url": "https://github.com/pydata/numexpr.git",
+        "stars": 2036,
+        "created_at": "2013-11-30T22:33:48Z"
+    },
+    {
+        "name": "rasterio/rasterio",
+        "url": "https://github.com/rasterio/rasterio.git",
+        "stars": 2035,
+        "created_at": "2013-11-04T16:36:27Z"
+    },
+    {
+        "name": "uqfoundation/dill",
+        "url": "https://github.com/uqfoundation/dill.git",
+        "stars": 2006,
+        "created_at": "2013-06-28T16:42:27Z"
+    },
+    {
+        "name": "vim-awesome/vim-awesome",
+        "url": "https://github.com/vim-awesome/vim-awesome.git",
+        "stars": 2003,
+        "created_at": "2013-05-27T02:57:40Z"
+    },
+    {
+        "name": "SublimeLinter/SublimeLinter",
+        "url": "https://github.com/SublimeLinter/SublimeLinter.git",
+        "stars": 1993,
+        "created_at": "2013-10-22T18:27:36Z"
+    },
+    {
+        "name": "KimiNewt/pyshark",
+        "url": "https://github.com/KimiNewt/pyshark.git",
+        "stars": 1977,
+        "created_at": "2013-12-28T14:38:22Z"
+    },
+    {
+        "name": "Exa-Networks/exabgp",
+        "url": "https://github.com/Exa-Networks/exabgp.git",
+        "stars": 1977,
+        "created_at": "2013-08-27T13:56:08Z"
+    },
+    {
+        "name": "crista/exercises-in-programming-style",
+        "url": "https://github.com/crista/exercises-in-programming-style.git",
+        "stars": 1966,
+        "created_at": "2013-09-22T14:50:27Z"
+    },
+    {
+        "name": "xiaocong/uiautomator",
+        "url": "https://github.com/xiaocong/uiautomator.git",
+        "stars": 1945,
+        "created_at": "2013-08-18T03:38:50Z"
+    },
+    {
+        "name": "hydrusnetwork/hydrus",
+        "url": "https://github.com/hydrusnetwork/hydrus.git",
+        "stars": 1940,
+        "created_at": "2013-02-19T08:08:04Z"
+    },
+    {
+        "name": "jmespath/jmespath.py",
+        "url": "https://github.com/jmespath/jmespath.py.git",
+        "stars": 1938,
+        "created_at": "2013-02-19T22:16:36Z"
+    },
+    {
+        "name": "tobgu/pyrsistent",
+        "url": "https://github.com/tobgu/pyrsistent.git",
+        "stars": 1921,
+        "created_at": "2013-06-20T14:11:13Z"
+    },
+    {
+        "name": "mozilla/cipherscan",
+        "url": "https://github.com/mozilla/cipherscan.git",
+        "stars": 1915,
+        "created_at": "2013-07-17T18:50:06Z"
+    },
+    {
+        "name": "iBaa/PlexConnect",
+        "url": "https://github.com/iBaa/PlexConnect.git",
+        "stars": 1903,
+        "created_at": "2013-04-14T08:02:23Z"
+    },
+    {
+        "name": "GrahamDumpleton/wrapt",
+        "url": "https://github.com/GrahamDumpleton/wrapt.git",
+        "stars": 1901,
+        "created_at": "2013-05-29T10:22:45Z"
+    },
+    {
+        "name": "GNS3/gns3-gui",
+        "url": "https://github.com/GNS3/gns3-gui.git",
+        "stars": 1900,
+        "created_at": "2013-09-26T02:48:01Z"
+    },
+    {
+        "name": "rholder/retrying",
+        "url": "https://github.com/rholder/retrying.git",
+        "stars": 1893,
+        "created_at": "2013-01-22T06:13:26Z"
+    },
+    {
+        "name": "alejandroautalan/pygubu",
+        "url": "https://github.com/alejandroautalan/pygubu.git",
+        "stars": 1882,
+        "created_at": "2013-02-13T00:02:24Z"
+    },
+    {
+        "name": "JazzCore/python-pdfkit",
+        "url": "https://github.com/JazzCore/python-pdfkit.git",
+        "stars": 1872,
+        "created_at": "2013-01-06T10:16:40Z"
+    },
+    {
+        "name": "gitless-vcs/gitless",
+        "url": "https://github.com/gitless-vcs/gitless.git",
+        "stars": 1867,
+        "created_at": "2013-06-06T21:33:27Z"
+    },
+    {
+        "name": "landscapeio/prospector",
+        "url": "https://github.com/landscapeio/prospector.git",
+        "stars": 1859,
+        "created_at": "2013-08-05T07:26:30Z"
+    },
+    {
+        "name": "cuthbertLab/music21",
+        "url": "https://github.com/cuthbertLab/music21.git",
+        "stars": 1858,
+        "created_at": "2013-11-04T19:31:59Z"
+    },
+    {
+        "name": "amscanne/huptime",
+        "url": "https://github.com/amscanne/huptime.git",
+        "stars": 1856,
+        "created_at": "2013-10-03T00:20:13Z"
+    },
+    {
+        "name": "pypyjs/pypyjs",
+        "url": "https://github.com/pypyjs/pypyjs.git",
+        "stars": 1852,
+        "created_at": "2013-12-08T12:14:39Z"
+    },
+    {
+        "name": "ternjs/tern_for_vim",
+        "url": "https://github.com/ternjs/tern_for_vim.git",
+        "stars": 1837,
+        "created_at": "2013-04-29T11:53:51Z"
+    },
+    {
+        "name": "andikleen/pmu-tools",
+        "url": "https://github.com/andikleen/pmu-tools.git",
+        "stars": 1832,
+        "created_at": "2013-05-10T21:48:14Z"
+    },
+    {
+        "name": "timsutton/brigadier",
+        "url": "https://github.com/timsutton/brigadier.git",
+        "stars": 1830,
+        "created_at": "2013-01-28T21:59:27Z"
+    },
+    {
+        "name": "Veil-Framework/Veil-Evasion",
+        "url": "https://github.com/Veil-Framework/Veil-Evasion.git",
+        "stars": 1797,
+        "created_at": "2013-05-18T21:03:01Z"
+    },
+    {
+        "name": "PyWavelets/pywt",
+        "url": "https://github.com/PyWavelets/pywt.git",
+        "stars": 1793,
+        "created_at": "2013-07-22T20:10:04Z"
+    },
+    {
+        "name": "fossasia/meilix",
+        "url": "https://github.com/fossasia/meilix.git",
+        "stars": 1771,
+        "created_at": "2013-12-26T13:34:52Z"
+    },
+    {
+        "name": "eliben/pyelftools",
+        "url": "https://github.com/eliben/pyelftools.git",
+        "stars": 1767,
+        "created_at": "2013-06-08T22:55:54Z"
+    },
+    {
+        "name": "QuantEcon/QuantEcon.py",
+        "url": "https://github.com/QuantEcon/QuantEcon.py.git",
+        "stars": 1757,
+        "created_at": "2013-03-22T00:27:36Z"
+    },
+    {
+        "name": "heroku-python/flask-sockets",
+        "url": "https://github.com/heroku-python/flask-sockets.git",
+        "stars": 1740,
+        "created_at": "2013-10-01T00:41:09Z"
+    },
+    {
+        "name": "charlierguo/gmail",
+        "url": "https://github.com/charlierguo/gmail.git",
+        "stars": 1736,
+        "created_at": "2013-07-29T03:46:41Z"
+    },
+    {
+        "name": "catherinedevlin/ipython-sql",
+        "url": "https://github.com/catherinedevlin/ipython-sql.git",
+        "stars": 1726,
+        "created_at": "2013-03-20T16:41:10Z"
+    },
+    {
+        "name": "nccgroup/Scout2",
+        "url": "https://github.com/nccgroup/Scout2.git",
+        "stars": 1725,
+        "created_at": "2013-12-06T19:11:19Z"
+    },
+    {
+        "name": "python-diamond/Diamond",
+        "url": "https://github.com/python-diamond/Diamond.git",
+        "stars": 1720,
+        "created_at": "2013-10-11T23:32:13Z"
+    },
+    {
+        "name": "pydicom/pydicom",
+        "url": "https://github.com/pydicom/pydicom.git",
+        "stars": 1717,
+        "created_at": "2013-10-31T02:58:52Z"
+    },
+    {
+        "name": "python-rope/rope",
+        "url": "https://github.com/python-rope/rope.git",
+        "stars": 1697,
+        "created_at": "2013-11-30T15:30:20Z"
+    },
+    {
+        "name": "rpicard/explore-flask",
+        "url": "https://github.com/rpicard/explore-flask.git",
+        "stars": 1687,
+        "created_at": "2013-11-16T12:23:16Z"
+    },
+    {
+        "name": "petertodd/python-bitcoinlib",
+        "url": "https://github.com/petertodd/python-bitcoinlib.git",
+        "stars": 1679,
+        "created_at": "2013-03-14T05:46:34Z"
+    },
+    {
+        "name": "cpfair/tapiriik",
+        "url": "https://github.com/cpfair/tapiriik.git",
+        "stars": 1671,
+        "created_at": "2013-01-25T02:43:42Z"
+    },
+    {
+        "name": "influxdata/influxdb-python",
+        "url": "https://github.com/influxdata/influxdb-python.git",
+        "stars": 1665,
+        "created_at": "2013-11-05T19:27:16Z"
+    },
+    {
+        "name": "olgabot/prettyplotlib",
+        "url": "https://github.com/olgabot/prettyplotlib.git",
+        "stars": 1656,
+        "created_at": "2013-07-18T14:39:58Z"
+    },
+    {
+        "name": "mitmproxy/pdoc",
+        "url": "https://github.com/mitmproxy/pdoc.git",
+        "stars": 1643,
+        "created_at": "2013-08-04T21:12:50Z"
+    },
+    {
+        "name": "guillermooo/Vintageous",
+        "url": "https://github.com/guillermooo/Vintageous.git",
+        "stars": 1640,
+        "created_at": "2013-01-29T19:53:11Z"
+    },
+    {
+        "name": "mre/the-coding-interview",
+        "url": "https://github.com/mre/the-coding-interview.git",
+        "stars": 1634,
+        "created_at": "2013-11-20T22:42:38Z"
+    },
+    {
+        "name": "upbit/pixivpy",
+        "url": "https://github.com/upbit/pixivpy.git",
+        "stars": 1627,
+        "created_at": "2013-06-22T13:26:50Z"
+    },
+    {
+        "name": "citronneur/rdpy",
+        "url": "https://github.com/citronneur/rdpy.git",
+        "stars": 1624,
+        "created_at": "2013-10-12T18:23:10Z"
+    },
+    {
+        "name": "aivarsk/scrapy-proxies",
+        "url": "https://github.com/aivarsk/scrapy-proxies.git",
+        "stars": 1618,
+        "created_at": "2013-01-21T20:42:14Z"
+    },
+    {
+        "name": "VerbalExpressions/PythonVerbalExpressions",
+        "url": "https://github.com/VerbalExpressions/PythonVerbalExpressions.git",
+        "stars": 1615,
+        "created_at": "2013-07-25T16:06:44Z"
+    },
+    {
+        "name": "mailgun/flanker",
+        "url": "https://github.com/mailgun/flanker.git",
+        "stars": 1609,
+        "created_at": "2013-11-14T01:07:11Z"
+    },
+    {
+        "name": "mattupstate/overholt",
+        "url": "https://github.com/mattupstate/overholt.git",
+        "stars": 1592,
+        "created_at": "2013-06-26T16:39:12Z"
+    },
+    {
+        "name": "pallets-eco/blinker",
+        "url": "https://github.com/pallets-eco/blinker.git",
+        "stars": 1585,
+        "created_at": "2013-07-03T10:32:39Z"
+    },
+    {
+        "name": "spotify/dh-virtualenv",
+        "url": "https://github.com/spotify/dh-virtualenv.git",
+        "stars": 1582,
+        "created_at": "2013-10-09T19:03:43Z"
+    },
+    {
+        "name": "corelan/mona",
+        "url": "https://github.com/corelan/mona.git",
+        "stars": 1569,
+        "created_at": "2013-12-20T12:08:31Z"
+    },
+    {
+        "name": "lunixbochs/ActualVim",
+        "url": "https://github.com/lunixbochs/ActualVim.git",
+        "stars": 1563,
+        "created_at": "2013-10-18T11:24:25Z"
+    },
+    {
+        "name": "madisonmay/CommonRegex",
+        "url": "https://github.com/madisonmay/CommonRegex.git",
+        "stars": 1550,
+        "created_at": "2013-12-17T08:43:14Z"
+    },
+    {
+        "name": "MTG/sms-tools",
+        "url": "https://github.com/MTG/sms-tools.git",
+        "stars": 1549,
+        "created_at": "2013-07-26T15:44:13Z"
+    },
+    {
+        "name": "theupdateframework/python-tuf",
+        "url": "https://github.com/theupdateframework/python-tuf.git",
+        "stars": 1546,
+        "created_at": "2013-01-31T18:36:34Z"
+    },
+    {
+        "name": "Dobiasd/articles",
+        "url": "https://github.com/Dobiasd/articles.git",
+        "stars": 1542,
+        "created_at": "2013-11-06T20:43:19Z"
+    },
+    {
+        "name": "alanjds/drf-nested-routers",
+        "url": "https://github.com/alanjds/drf-nested-routers.git",
+        "stars": 1540,
+        "created_at": "2013-09-30T20:33:52Z"
+    },
+    {
+        "name": "fossasia/meilix-systemlock",
+        "url": "https://github.com/fossasia/meilix-systemlock.git",
+        "stars": 1537,
+        "created_at": "2013-03-20T08:42:51Z"
+    },
+    {
+        "name": "waveform80/picamera",
+        "url": "https://github.com/waveform80/picamera.git",
+        "stars": 1532,
+        "created_at": "2013-09-24T11:09:25Z"
+    },
+    {
+        "name": "json-schema-org/understanding-json-schema",
+        "url": "https://github.com/json-schema-org/understanding-json-schema.git",
+        "stars": 1528,
+        "created_at": "2013-09-05T13:55:21Z"
+    },
+    {
+        "name": "viper-framework/viper",
+        "url": "https://github.com/viper-framework/viper.git",
+        "stars": 1524,
+        "created_at": "2013-11-09T18:24:38Z"
+    },
+    {
+        "name": "simple-salesforce/simple-salesforce",
+        "url": "https://github.com/simple-salesforce/simple-salesforce.git",
+        "stars": 1500,
+        "created_at": "2013-01-17T20:08:57Z"
+    },
+    {
+        "name": "pyfa-org/Pyfa",
+        "url": "https://github.com/pyfa-org/Pyfa.git",
+        "stars": 1499,
+        "created_at": "2013-06-10T20:00:53Z"
+    },
+    {
+        "name": "nucleic/enaml",
+        "url": "https://github.com/nucleic/enaml.git",
+        "stars": 1488,
+        "created_at": "2013-03-06T21:29:01Z"
+    },
+    {
+        "name": "peritus/bumpversion",
+        "url": "https://github.com/peritus/bumpversion.git",
+        "stars": 1485,
+        "created_at": "2013-03-16T17:22:24Z"
+    },
+    {
+        "name": "qinxuye/cola",
+        "url": "https://github.com/qinxuye/cola.git",
+        "stars": 1483,
+        "created_at": "2013-05-15T06:41:01Z"
+    },
+    {
+        "name": "pypa/twine",
+        "url": "https://github.com/pypa/twine.git",
+        "stars": 1473,
+        "created_at": "2013-08-13T15:39:39Z"
+    },
+    {
+        "name": "dj-stripe/dj-stripe",
+        "url": "https://github.com/dj-stripe/dj-stripe.git",
+        "stars": 1470,
+        "created_at": "2013-08-05T15:31:30Z"
+    },
+    {
+        "name": "hyperopt/hyperopt-sklearn",
+        "url": "https://github.com/hyperopt/hyperopt-sklearn.git",
+        "stars": 1468,
+        "created_at": "2013-02-19T16:09:53Z"
+    },
+    {
+        "name": "kivy/plyer",
+        "url": "https://github.com/kivy/plyer.git",
+        "stars": 1466,
+        "created_at": "2013-01-23T00:27:33Z"
+    },
+    {
+        "name": "cocotb/cocotb",
+        "url": "https://github.com/cocotb/cocotb.git",
+        "stars": 1462,
+        "created_at": "2013-06-12T20:07:15Z"
+    },
+    {
+        "name": "pixelb/ps_mem",
+        "url": "https://github.com/pixelb/ps_mem.git",
+        "stars": 1455,
+        "created_at": "2013-09-06T16:15:41Z"
+    },
+    {
+        "name": "lepture/flask-oauthlib",
+        "url": "https://github.com/lepture/flask-oauthlib.git",
+        "stars": 1447,
+        "created_at": "2013-05-16T14:19:29Z"
+    },
+    {
+        "name": "mdhiggins/sickbeard_mp4_automator",
+        "url": "https://github.com/mdhiggins/sickbeard_mp4_automator.git",
+        "stars": 1442,
+        "created_at": "2013-02-16T04:27:05Z"
+    },
+    {
+        "name": "bslatkin/dpxdt",
+        "url": "https://github.com/bslatkin/dpxdt.git",
+        "stars": 1436,
+        "created_at": "2013-02-18T05:39:14Z"
+    },
+    {
+        "name": "realpython/flask-boilerplate",
+        "url": "https://github.com/realpython/flask-boilerplate.git",
+        "stars": 1433,
+        "created_at": "2013-02-23T22:47:05Z"
+    },
+    {
+        "name": "SoCo/SoCo",
+        "url": "https://github.com/SoCo/SoCo.git",
+        "stars": 1418,
+        "created_at": "2013-03-13T22:56:39Z"
+    },
+    {
+        "name": "wtforms/wtforms",
+        "url": "https://github.com/wtforms/wtforms.git",
+        "stars": 1416,
+        "created_at": "2013-09-11T01:53:07Z"
+    },
+    {
+        "name": "davidaurelio/hashids-python",
+        "url": "https://github.com/davidaurelio/hashids-python.git",
+        "stars": 1402,
+        "created_at": "2013-05-24T19:51:31Z"
+    },
+    {
+        "name": "dz0ny/leapcast",
+        "url": "https://github.com/dz0ny/leapcast.git",
+        "stars": 1402,
+        "created_at": "2013-07-26T12:43:33Z"
+    },
+    {
+        "name": "chibisov/drf-extensions",
+        "url": "https://github.com/chibisov/drf-extensions.git",
+        "stars": 1401,
+        "created_at": "2013-07-25T07:06:04Z"
+    },
+    {
+        "name": "ronf/asyncssh",
+        "url": "https://github.com/ronf/asyncssh.git",
+        "stars": 1401,
+        "created_at": "2013-12-29T03:44:51Z"
+    },
+    {
+        "name": "Miserlou/SoundScrape",
+        "url": "https://github.com/Miserlou/SoundScrape.git",
+        "stars": 1396,
+        "created_at": "2013-12-29T22:32:46Z"
+    },
+    {
+        "name": "selwin/python-user-agents",
+        "url": "https://github.com/selwin/python-user-agents.git",
+        "stars": 1380,
+        "created_at": "2013-01-05T00:44:11Z"
+    },
+    {
+        "name": "JasperSnoek/spearmint",
+        "url": "https://github.com/JasperSnoek/spearmint.git",
+        "stars": 1376,
+        "created_at": "2013-01-18T05:44:37Z"
+    },
+    {
+        "name": "olipo186/Git-Auto-Deploy",
+        "url": "https://github.com/olipo186/Git-Auto-Deploy.git",
+        "stars": 1363,
+        "created_at": "2013-06-06T19:25:38Z"
+    },
+    {
+        "name": "django-hijack/django-hijack",
+        "url": "https://github.com/django-hijack/django-hijack.git",
+        "stars": 1356,
+        "created_at": "2013-10-14T15:34:40Z"
+    },
+    {
+        "name": "richardkiss/pycoin",
+        "url": "https://github.com/richardkiss/pycoin.git",
+        "stars": 1356,
+        "created_at": "2013-06-24T19:17:52Z"
+    },
+    {
+        "name": "foxmask/django-th",
+        "url": "https://github.com/foxmask/django-th.git",
+        "stars": 1351,
+        "created_at": "2013-01-16T21:23:41Z"
+    },
+    {
+        "name": "datastax/python-driver",
+        "url": "https://github.com/datastax/python-driver.git",
+        "stars": 1351,
+        "created_at": "2013-07-08T19:02:31Z"
+    },
+    {
+        "name": "v3n0m-Scanner/V3n0M-Scanner",
+        "url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner.git",
+        "stars": 1349,
+        "created_at": "2013-10-21T06:05:17Z"
+    },
+    {
+        "name": "mps-youtube/pafy",
+        "url": "https://github.com/mps-youtube/pafy.git",
+        "stars": 1348,
+        "created_at": "2013-06-24T13:19:26Z"
+    },
+    {
+        "name": "Neo23x0/yarGen",
+        "url": "https://github.com/Neo23x0/yarGen.git",
+        "stars": 1348,
+        "created_at": "2013-12-28T15:10:05Z"
+    },
+    {
+        "name": "scikit-learn-contrib/metric-learn",
+        "url": "https://github.com/scikit-learn-contrib/metric-learn.git",
+        "stars": 1347,
+        "created_at": "2013-11-02T08:29:47Z"
+    },
+    {
+        "name": "google/pinject",
+        "url": "https://github.com/google/pinject.git",
+        "stars": 1342,
+        "created_at": "2013-06-20T23:46:50Z"
+    },
+    {
+        "name": "brandon-rhodes/fopnp",
+        "url": "https://github.com/brandon-rhodes/fopnp.git",
+        "stars": 1334,
+        "created_at": "2013-12-10T19:21:57Z"
+    },
+    {
+        "name": "quandl/quandl-python",
+        "url": "https://github.com/quandl/quandl-python.git",
+        "stars": 1334,
+        "created_at": "2013-03-24T12:53:23Z"
+    },
+    {
+        "name": "pupil-labs/pupil",
+        "url": "https://github.com/pupil-labs/pupil.git",
+        "stars": 1331,
+        "created_at": "2013-08-17T04:40:25Z"
+    },
+    {
+        "name": "DocNow/twarc",
+        "url": "https://github.com/DocNow/twarc.git",
+        "stars": 1325,
+        "created_at": "2013-01-14T14:35:40Z"
+    },
+    {
+        "name": "imageio/imageio",
+        "url": "https://github.com/imageio/imageio.git",
+        "stars": 1325,
+        "created_at": "2013-05-04T22:56:45Z"
+    },
+    {
+        "name": "mdipierro/nlib",
+        "url": "https://github.com/mdipierro/nlib.git",
+        "stars": 1322,
+        "created_at": "2013-05-06T18:45:52Z"
+    },
+    {
+        "name": "SmileyChris/django-countries",
+        "url": "https://github.com/SmileyChris/django-countries.git",
+        "stars": 1310,
+        "created_at": "2013-06-21T20:02:58Z"
+    },
+    {
+        "name": "googlearchive/PyDrive",
+        "url": "https://github.com/googlearchive/PyDrive.git",
+        "stars": 1298,
+        "created_at": "2013-08-16T17:39:54Z"
+    },
+    {
+        "name": "uqfoundation/pathos",
+        "url": "https://github.com/uqfoundation/pathos.git",
+        "stars": 1297,
+        "created_at": "2013-06-28T06:31:38Z"
+    },
+    {
+        "name": "JustGlowing/minisom",
+        "url": "https://github.com/JustGlowing/minisom.git",
+        "stars": 1295,
+        "created_at": "2013-07-03T10:10:06Z"
+    },
+    {
+        "name": "elvanderb/TCP-32764",
+        "url": "https://github.com/elvanderb/TCP-32764.git",
+        "stars": 1289,
+        "created_at": "2013-12-31T15:57:31Z"
+    },
+    {
+        "name": "python273/vk_api",
+        "url": "https://github.com/python273/vk_api.git",
+        "stars": 1285,
+        "created_at": "2013-01-13T18:03:07Z"
+    },
+    {
+        "name": "JackStouffer/Flask-Foundation",
+        "url": "https://github.com/JackStouffer/Flask-Foundation.git",
+        "stars": 1283,
+        "created_at": "2013-09-15T06:34:48Z"
+    },
+    {
+        "name": "rhiever/TwitterFollowBot",
+        "url": "https://github.com/rhiever/TwitterFollowBot.git",
+        "stars": 1272,
+        "created_at": "2013-11-06T05:06:56Z"
+    },
+    {
+        "name": "yhat/pandasql",
+        "url": "https://github.com/yhat/pandasql.git",
+        "stars": 1271,
+        "created_at": "2013-02-18T01:53:56Z"
+    },
+    {
+        "name": "psypanda/hashID",
+        "url": "https://github.com/psypanda/hashID.git",
+        "stars": 1260,
+        "created_at": "2013-01-10T17:14:22Z"
+    },
+    {
+        "name": "grayhatacademy/ida",
+        "url": "https://github.com/grayhatacademy/ida.git",
+        "stars": 1259,
+        "created_at": "2013-10-16T18:52:21Z"
+    },
+    {
+        "name": "zestyping/q",
+        "url": "https://github.com/zestyping/q.git",
+        "stars": 1255,
+        "created_at": "2013-03-18T20:22:52Z"
+    },
+    {
+        "name": "nedbat/byterun",
+        "url": "https://github.com/nedbat/byterun.git",
+        "stars": 1249,
+        "created_at": "2013-01-15T01:49:53Z"
+    },
+    {
+        "name": "mido/mido",
+        "url": "https://github.com/mido/mido.git",
+        "stars": 1249,
+        "created_at": "2013-06-23T18:11:38Z"
+    },
+    {
+        "name": "aerkalov/ebooklib",
+        "url": "https://github.com/aerkalov/ebooklib.git",
+        "stars": 1241,
+        "created_at": "2013-05-04T17:10:18Z"
+    },
+    {
+        "name": "abidrahmank/OpenCV2-Python-Tutorials",
+        "url": "https://github.com/abidrahmank/OpenCV2-Python-Tutorials.git",
+        "stars": 1236,
+        "created_at": "2013-04-24T18:58:50Z"
+    },
+    {
+        "name": "koalalorenzo/python-digitalocean",
+        "url": "https://github.com/koalalorenzo/python-digitalocean.git",
+        "stars": 1235,
+        "created_at": "2013-02-13T11:09:49Z"
+    },
+    {
+        "name": "nicotine-plus/nicotine-plus",
+        "url": "https://github.com/nicotine-plus/nicotine-plus.git",
+        "stars": 1229,
+        "created_at": "2013-08-13T19:52:13Z"
+    },
+    {
+        "name": "MagerValp/AutoDMG",
+        "url": "https://github.com/MagerValp/AutoDMG.git",
+        "stars": 1221,
+        "created_at": "2013-09-20T11:51:58Z"
+    },
+    {
+        "name": "llazzaro/django-scheduler",
+        "url": "https://github.com/llazzaro/django-scheduler.git",
+        "stars": 1220,
+        "created_at": "2013-04-11T13:24:19Z"
+    },
+    {
+        "name": "kevinburke/hamms",
+        "url": "https://github.com/kevinburke/hamms.git",
+        "stars": 1216,
+        "created_at": "2013-08-12T03:58:35Z"
+    },
+    {
+        "name": "miguelgrinberg/Flask-HTTPAuth",
+        "url": "https://github.com/miguelgrinberg/Flask-HTTPAuth.git",
+        "stars": 1214,
+        "created_at": "2013-05-18T05:10:52Z"
+    },
+    {
+        "name": "pytest-dev/pytest-bdd",
+        "url": "https://github.com/pytest-dev/pytest-bdd.git",
+        "stars": 1213,
+        "created_at": "2013-03-29T07:27:43Z"
+    },
+    {
+        "name": "mintapi/mintapi",
+        "url": "https://github.com/mintapi/mintapi.git",
+        "stars": 1209,
+        "created_at": "2013-02-15T04:51:50Z"
+    },
+    {
+        "name": "autopkg/autopkg",
+        "url": "https://github.com/autopkg/autopkg.git",
+        "stars": 1209,
+        "created_at": "2013-08-06T02:17:43Z"
+    },
+    {
+        "name": "python-babel/babel",
+        "url": "https://github.com/python-babel/babel.git",
+        "stars": 1203,
+        "created_at": "2013-07-03T12:25:10Z"
+    },
+    {
+        "name": "dgilland/pydash",
+        "url": "https://github.com/dgilland/pydash.git",
+        "stars": 1183,
+        "created_at": "2013-05-14T04:24:02Z"
+    },
+    {
+        "name": "osirislab/Hack-Night",
+        "url": "https://github.com/osirislab/Hack-Night.git",
+        "stars": 1183,
+        "created_at": "2013-05-20T21:20:12Z"
+    },
+    {
+        "name": "nicodv/kmodes",
+        "url": "https://github.com/nicodv/kmodes.git",
+        "stars": 1183,
+        "created_at": "2013-08-01T11:54:40Z"
+    },
+    {
+        "name": "jazzband/django-admin2",
+        "url": "https://github.com/jazzband/django-admin2.git",
+        "stars": 1178,
+        "created_at": "2013-05-14T12:11:48Z"
+    },
+    {
+        "name": "rcaloras/bashhub-client",
+        "url": "https://github.com/rcaloras/bashhub-client.git",
+        "stars": 1177,
+        "created_at": "2013-09-16T04:54:15Z"
+    },
+    {
+        "name": "hannes-brt/hebel",
+        "url": "https://github.com/hannes-brt/hebel.git",
+        "stars": 1170,
+        "created_at": "2013-11-20T07:01:18Z"
+    },
+    {
+        "name": "xiaoxu193/PyTeaser",
+        "url": "https://github.com/xiaoxu193/PyTeaser.git",
+        "stars": 1167,
+        "created_at": "2013-11-24T14:20:52Z"
+    },
+    {
+        "name": "PythonCharmers/python-future",
+        "url": "https://github.com/PythonCharmers/python-future.git",
+        "stars": 1167,
+        "created_at": "2013-07-14T13:57:47Z"
+    },
+    {
+        "name": "josegonzalez/python-github-backup",
+        "url": "https://github.com/josegonzalez/python-github-backup.git",
+        "stars": 1163,
+        "created_at": "2013-12-02T21:56:07Z"
+    },
+    {
+        "name": "pew-org/pew",
+        "url": "https://github.com/pew-org/pew.git",
+        "stars": 1160,
+        "created_at": "2013-05-15T09:02:21Z"
+    },
+    {
+        "name": "kronenthaler/mod-pbxproj",
+        "url": "https://github.com/kronenthaler/mod-pbxproj.git",
+        "stars": 1153,
+        "created_at": "2013-03-22T10:50:15Z"
+    },
+    {
+        "name": "kvesteri/sqlalchemy-utils",
+        "url": "https://github.com/kvesteri/sqlalchemy-utils.git",
+        "stars": 1147,
+        "created_at": "2013-02-18T16:48:22Z"
+    },
+    {
+        "name": "martinrusev/imbox",
+        "url": "https://github.com/martinrusev/imbox.git",
+        "stars": 1146,
+        "created_at": "2013-07-22T11:40:29Z"
+    },
+    {
+        "name": "Teemu/pytest-sugar",
+        "url": "https://github.com/Teemu/pytest-sugar.git",
+        "stars": 1144,
+        "created_at": "2013-06-25T21:09:27Z"
+    },
+    {
+        "name": "tankywoo/simiki",
+        "url": "https://github.com/tankywoo/simiki.git",
+        "stars": 1139,
+        "created_at": "2013-10-12T02:10:53Z"
+    },
+    {
+        "name": "python-poetry/cleo",
+        "url": "https://github.com/python-poetry/cleo.git",
+        "stars": 1138,
+        "created_at": "2013-12-16T16:01:42Z"
+    },
+    {
+        "name": "CarlosGS/Cyclone-PCB-Factory",
+        "url": "https://github.com/CarlosGS/Cyclone-PCB-Factory.git",
+        "stars": 1134,
+        "created_at": "2013-05-25T12:57:05Z"
+    },
+    {
+        "name": "ZeroQI/Hama.bundle",
+        "url": "https://github.com/ZeroQI/Hama.bundle.git",
+        "stars": 1133,
+        "created_at": "2013-08-13T21:14:12Z"
+    },
+    {
+        "name": "gabomdq/SDL_GameControllerDB",
+        "url": "https://github.com/gabomdq/SDL_GameControllerDB.git",
+        "stars": 1133,
+        "created_at": "2013-11-27T19:42:39Z"
+    },
+    {
+        "name": "mushorg/conpot",
+        "url": "https://github.com/mushorg/conpot.git",
+        "stars": 1133,
+        "created_at": "2013-03-20T13:04:04Z"
+    },
+    {
+        "name": "phodal/iot",
+        "url": "https://github.com/phodal/iot.git",
+        "stars": 1133,
+        "created_at": "2013-12-21T13:01:40Z"
+    },
+    {
+        "name": "eBay/bayesian-belief-networks",
+        "url": "https://github.com/eBay/bayesian-belief-networks.git",
+        "stars": 1124,
+        "created_at": "2013-08-01T17:27:40Z"
+    },
+    {
+        "name": "tomchop/malcom",
+        "url": "https://github.com/tomchop/malcom.git",
+        "stars": 1117,
+        "created_at": "2013-06-04T15:06:25Z"
+    },
+    {
+        "name": "jborg/attic",
+        "url": "https://github.com/jborg/attic.git",
+        "stars": 1115,
+        "created_at": "2013-07-09T18:05:50Z"
+    },
+    {
+        "name": "skyfielders/python-skyfield",
+        "url": "https://github.com/skyfielders/python-skyfield.git",
+        "stars": 1105,
+        "created_at": "2013-01-30T21:19:21Z"
+    },
+    {
+        "name": "Grokzen/redis-py-cluster",
+        "url": "https://github.com/Grokzen/redis-py-cluster.git",
+        "stars": 1094,
+        "created_at": "2013-05-21T06:41:34Z"
+    },
+    {
+        "name": "9miao/Firefly",
+        "url": "https://github.com/9miao/Firefly.git",
+        "stars": 1092,
+        "created_at": "2013-08-09T09:41:29Z"
+    },
+    {
+        "name": "buildinspace/peru",
+        "url": "https://github.com/buildinspace/peru.git",
+        "stars": 1083,
+        "created_at": "2013-10-26T09:14:57Z"
+    },
+    {
+        "name": "shea256/angular-flask",
+        "url": "https://github.com/shea256/angular-flask.git",
+        "stars": 1079,
+        "created_at": "2013-07-19T21:01:30Z"
+    },
+    {
+        "name": "khamidou/kite",
+        "url": "https://github.com/khamidou/kite.git",
+        "stars": 1076,
+        "created_at": "2013-09-24T18:16:03Z"
+    },
+    {
+        "name": "SavinaRoja/PyUserInput",
+        "url": "https://github.com/SavinaRoja/PyUserInput.git",
+        "stars": 1070,
+        "created_at": "2013-01-30T22:07:03Z"
+    },
+    {
+        "name": "BurntSushi/nfldb",
+        "url": "https://github.com/BurntSushi/nfldb.git",
+        "stars": 1064,
+        "created_at": "2013-07-24T23:31:22Z"
+    },
+    {
+        "name": "html5lib/html5lib-python",
+        "url": "https://github.com/html5lib/html5lib-python.git",
+        "stars": 1061,
+        "created_at": "2013-04-09T14:07:42Z"
+    },
+    {
+        "name": "pyca/bcrypt",
+        "url": "https://github.com/pyca/bcrypt.git",
+        "stars": 1057,
+        "created_at": "2013-05-11T02:03:55Z"
+    },
+    {
+        "name": "googleworkspace/python-samples",
+        "url": "https://github.com/googleworkspace/python-samples.git",
+        "stars": 1053,
+        "created_at": "2013-11-06T05:31:01Z"
+    },
+    {
+        "name": "blueman-project/blueman",
+        "url": "https://github.com/blueman-project/blueman.git",
+        "stars": 1052,
+        "created_at": "2013-09-08T08:52:52Z"
+    },
+    {
+        "name": "openwisp/django-rest-framework-gis",
+        "url": "https://github.com/openwisp/django-rest-framework-gis.git",
+        "stars": 1044,
+        "created_at": "2013-02-03T06:11:25Z"
+    },
+    {
+        "name": "kpreid/shinysdr",
+        "url": "https://github.com/kpreid/shinysdr.git",
+        "stars": 1041,
+        "created_at": "2013-11-04T16:31:48Z"
+    },
+    {
+        "name": "dfm/osrc",
+        "url": "https://github.com/dfm/osrc.git",
+        "stars": 1034,
+        "created_at": "2013-04-19T23:14:42Z"
+    },
+    {
+        "name": "victorlei/smop",
+        "url": "https://github.com/victorlei/smop.git",
+        "stars": 1034,
+        "created_at": "2013-06-22T19:21:37Z"
+    },
+    {
+        "name": "Rurik/Noriben",
+        "url": "https://github.com/Rurik/Noriben.git",
+        "stars": 1030,
+        "created_at": "2013-04-10T20:37:37Z"
+    },
+    {
+        "name": "wakatime/legacy-python-cli",
+        "url": "https://github.com/wakatime/legacy-python-cli.git",
+        "stars": 1027,
+        "created_at": "2013-07-06T07:49:30Z"
+    },
+    {
+        "name": "chinoogawa/fbht",
+        "url": "https://github.com/chinoogawa/fbht.git",
+        "stars": 1027,
+        "created_at": "2013-12-16T06:27:55Z"
+    },
+    {
+        "name": "uiri/toml",
+        "url": "https://github.com/uiri/toml.git",
+        "stars": 1026,
+        "created_at": "2013-02-24T06:07:30Z"
+    },
+    {
+        "name": "wemake-services/django-split-settings",
+        "url": "https://github.com/wemake-services/django-split-settings.git",
+        "stars": 1024,
+        "created_at": "2013-05-17T06:04:30Z"
+    },
+    {
+        "name": "authomatic/authomatic",
+        "url": "https://github.com/authomatic/authomatic.git",
+        "stars": 1016,
+        "created_at": "2013-02-07T14:13:35Z"
+    },
+    {
+        "name": "pycurl/pycurl",
+        "url": "https://github.com/pycurl/pycurl.git",
+        "stars": 1014,
+        "created_at": "2013-08-03T20:56:39Z"
+    },
+    {
+        "name": "maxmind/GeoIP2-python",
+        "url": "https://github.com/maxmind/GeoIP2-python.git",
+        "stars": 1003,
+        "created_at": "2013-04-08T15:07:28Z"
+    },
+    {
+        "name": "roshan-research/hazm",
+        "url": "https://github.com/roshan-research/hazm.git",
+        "stars": 1001,
+        "created_at": "2013-10-29T13:10:08Z"
+    },
+    {
+        "name": "rbsec/dnscan",
+        "url": "https://github.com/rbsec/dnscan.git",
+        "stars": 992,
+        "created_at": "2013-03-13T10:42:07Z"
+    },
+    {
+        "name": "cburmeister/flask-bones",
+        "url": "https://github.com/cburmeister/flask-bones.git",
+        "stars": 986,
+        "created_at": "2013-05-26T06:47:04Z"
+    },
+    {
+        "name": "summernote/django-summernote",
+        "url": "https://github.com/summernote/django-summernote.git",
+        "stars": 985,
+        "created_at": "2013-07-16T12:07:21Z"
+    },
+    {
+        "name": "ipython/xkcd-font",
+        "url": "https://github.com/ipython/xkcd-font.git",
+        "stars": 976,
+        "created_at": "2013-08-27T21:50:45Z"
+    },
+    {
+        "name": "pyocd/pyOCD",
+        "url": "https://github.com/pyocd/pyOCD.git",
+        "stars": 973,
+        "created_at": "2013-10-25T14:10:05Z"
+    },
+    {
+        "name": "encode/django-vanilla-views",
+        "url": "https://github.com/encode/django-vanilla-views.git",
+        "stars": 971,
+        "created_at": "2013-09-02T13:41:57Z"
+    },
+    {
+        "name": "nsupdate-info/nsupdate.info",
+        "url": "https://github.com/nsupdate-info/nsupdate.info.git",
+        "stars": 968,
+        "created_at": "2013-10-02T22:01:02Z"
+    },
+    {
+        "name": "chrippa/ds4drv",
+        "url": "https://github.com/chrippa/ds4drv.git",
+        "stars": 966,
+        "created_at": "2013-12-28T03:12:29Z"
+    },
+    {
+        "name": "Mindwerks/worldengine",
+        "url": "https://github.com/Mindwerks/worldengine.git",
+        "stars": 963,
+        "created_at": "2013-11-24T17:49:35Z"
+    },
+    {
+        "name": "YoSmudge/dnsyo",
+        "url": "https://github.com/YoSmudge/dnsyo.git",
+        "stars": 954,
+        "created_at": "2013-10-02T16:10:40Z"
+    },
+    {
+        "name": "requests/toolbelt",
+        "url": "https://github.com/requests/toolbelt.git",
+        "stars": 954,
+        "created_at": "2013-12-29T21:19:08Z"
+    },
+    {
+        "name": "bcbio/bcbio-nextgen",
+        "url": "https://github.com/bcbio/bcbio-nextgen.git",
+        "stars": 951,
+        "created_at": "2013-02-06T11:14:50Z"
+    },
+    {
+        "name": "LordAmit/Brightness",
+        "url": "https://github.com/LordAmit/Brightness.git",
+        "stars": 950,
+        "created_at": "2013-04-06T13:17:17Z"
+    },
+    {
+        "name": "Olivia5k/doge",
+        "url": "https://github.com/Olivia5k/doge.git",
+        "stars": 949,
+        "created_at": "2013-09-29T20:03:43Z"
+    },
+    {
+        "name": "dpallot/simple-websocket-server",
+        "url": "https://github.com/dpallot/simple-websocket-server.git",
+        "stars": 944,
+        "created_at": "2013-04-13T17:44:50Z"
+    },
+    {
+        "name": "ccontavalli/ssh-ident",
+        "url": "https://github.com/ccontavalli/ssh-ident.git",
+        "stars": 944,
+        "created_at": "2013-02-04T17:17:28Z"
+    },
+    {
+        "name": "Netflix/aminator",
+        "url": "https://github.com/Netflix/aminator.git",
+        "stars": 938,
+        "created_at": "2013-02-11T19:34:58Z"
+    },
+    {
+        "name": "mothran/bunny",
+        "url": "https://github.com/mothran/bunny.git",
+        "stars": 931,
+        "created_at": "2013-04-25T18:42:38Z"
+    },
+    {
+        "name": "un33k/django-ipware",
+        "url": "https://github.com/un33k/django-ipware.git",
+        "stars": 927,
+        "created_at": "2013-04-24T22:47:22Z"
+    },
+    {
+        "name": "erichard/SublimePHPCompanion",
+        "url": "https://github.com/erichard/SublimePHPCompanion.git",
+        "stars": 926,
+        "created_at": "2013-03-13T01:36:45Z"
+    },
+    {
+        "name": "geduldig/TwitterAPI",
+        "url": "https://github.com/geduldig/TwitterAPI.git",
+        "stars": 925,
+        "created_at": "2013-02-02T14:47:58Z"
+    },
+    {
+        "name": "1e0ng/simhash",
+        "url": "https://github.com/1e0ng/simhash.git",
+        "stars": 924,
+        "created_at": "2013-09-14T17:30:26Z"
+    },
+    {
+        "name": "Cigaras/IPTV.bundle",
+        "url": "https://github.com/Cigaras/IPTV.bundle.git",
+        "stars": 922,
+        "created_at": "2013-10-11T08:38:41Z"
+    },
+    {
+        "name": "klen/mixer",
+        "url": "https://github.com/klen/mixer.git",
+        "stars": 919,
+        "created_at": "2013-05-19T13:49:50Z"
+    },
+    {
+        "name": "hhatto/nude.py",
+        "url": "https://github.com/hhatto/nude.py.git",
+        "stars": 917,
+        "created_at": "2013-06-09T06:55:55Z"
+    },
+    {
+        "name": "stan-dev/pystan2",
+        "url": "https://github.com/stan-dev/pystan2.git",
+        "stars": 916,
+        "created_at": "2013-05-24T01:21:21Z"
+    },
+    {
+        "name": "jazzband/django-auditlog",
+        "url": "https://github.com/jazzband/django-auditlog.git",
+        "stars": 916,
+        "created_at": "2013-10-20T12:10:40Z"
+    },
+    {
+        "name": "toolswatch/vFeed",
+        "url": "https://github.com/toolswatch/vFeed.git",
+        "stars": 914,
+        "created_at": "2013-05-20T18:51:57Z"
+    },
+    {
+        "name": "skorokithakis/django-annoying",
+        "url": "https://github.com/skorokithakis/django-annoying.git",
+        "stars": 911,
+        "created_at": "2013-01-23T10:50:54Z"
+    },
+    {
+        "name": "miguelgrinberg/REST-auth",
+        "url": "https://github.com/miguelgrinberg/REST-auth.git",
+        "stars": 908,
+        "created_at": "2013-11-27T22:27:12Z"
+    },
+    {
+        "name": "mopidy/mopidy-spotify",
+        "url": "https://github.com/mopidy/mopidy-spotify.git",
+        "stars": 897,
+        "created_at": "2013-10-08T20:30:02Z"
+    },
+    {
+        "name": "sec-edgar/sec-edgar",
+        "url": "https://github.com/sec-edgar/sec-edgar.git",
+        "stars": 889,
+        "created_at": "2013-11-27T21:27:22Z"
+    },
+    {
+        "name": "jrief/django-websocket-redis",
+        "url": "https://github.com/jrief/django-websocket-redis.git",
+        "stars": 888,
+        "created_at": "2013-12-13T07:06:19Z"
+    },
+    {
+        "name": "BoboTiG/python-mss",
+        "url": "https://github.com/BoboTiG/python-mss.git",
+        "stars": 887,
+        "created_at": "2013-07-01T16:14:08Z"
+    },
+    {
+        "name": "GafferHQ/gaffer",
+        "url": "https://github.com/GafferHQ/gaffer.git",
+        "stars": 886,
+        "created_at": "2013-03-27T00:04:53Z"
+    },
+    {
+        "name": "PythonJS/PythonJS",
+        "url": "https://github.com/PythonJS/PythonJS.git",
+        "stars": 884,
+        "created_at": "2013-03-16T21:33:33Z"
+    },
+    {
+        "name": "svinota/pyroute2",
+        "url": "https://github.com/svinota/pyroute2.git",
+        "stars": 883,
+        "created_at": "2013-04-08T05:38:22Z"
+    },
+    {
+        "name": "ubernostrum/django-registration",
+        "url": "https://github.com/ubernostrum/django-registration.git",
+        "stars": 876,
+        "created_at": "2013-09-11T06:47:29Z"
+    },
+    {
+        "name": "logpy/logpy",
+        "url": "https://github.com/logpy/logpy.git",
+        "stars": 875,
+        "created_at": "2013-01-10T02:26:50Z"
+    },
+    {
+        "name": "twoscoops/django-twoscoops-project",
+        "url": "https://github.com/twoscoops/django-twoscoops-project.git",
+        "stars": 871,
+        "created_at": "2013-01-15T20:35:27Z"
+    },
+    {
+        "name": "hopsoft/docker-graphite-statsd",
+        "url": "https://github.com/hopsoft/docker-graphite-statsd.git",
+        "stars": 870,
+        "created_at": "2013-11-18T20:39:04Z"
+    },
+    {
+        "name": "ultrabug/py3status",
+        "url": "https://github.com/ultrabug/py3status.git",
+        "stars": 869,
+        "created_at": "2013-02-19T14:59:13Z"
+    },
+    {
+        "name": "iheanyi/bandcamp-dl",
+        "url": "https://github.com/iheanyi/bandcamp-dl.git",
+        "stars": 869,
+        "created_at": "2013-04-29T23:28:43Z"
+    },
+    {
+        "name": "spotify/snakebite",
+        "url": "https://github.com/spotify/snakebite.git",
+        "stars": 861,
+        "created_at": "2013-05-07T09:44:13Z"
+    },
+    {
+        "name": "pirate/security-growler",
+        "url": "https://github.com/pirate/security-growler.git",
+        "stars": 856,
+        "created_at": "2013-08-03T08:11:06Z"
+    },
+    {
+        "name": "deibit/cansina",
+        "url": "https://github.com/deibit/cansina.git",
+        "stars": 853,
+        "created_at": "2013-02-21T19:52:13Z"
+    },
+    {
+        "name": "workalendar/workalendar",
+        "url": "https://github.com/workalendar/workalendar.git",
+        "stars": 850,
+        "created_at": "2013-11-20T14:46:02Z"
+    },
+    {
+        "name": "JuliaPy/pyjulia",
+        "url": "https://github.com/JuliaPy/pyjulia.git",
+        "stars": 843,
+        "created_at": "2013-11-21T03:40:38Z"
+    },
+    {
+        "name": "alerque/libertinus",
+        "url": "https://github.com/alerque/libertinus.git",
+        "stars": 840,
+        "created_at": "2013-06-23T22:06:11Z"
+    },
+    {
+        "name": "python-validators/validators",
+        "url": "https://github.com/python-validators/validators.git",
+        "stars": 840,
+        "created_at": "2013-10-17T08:16:32Z"
+    },
+    {
+        "name": "corydolphin/flask-cors",
+        "url": "https://github.com/corydolphin/flask-cors.git",
+        "stars": 840,
+        "created_at": "2013-07-28T21:33:57Z"
+    },
+    {
+        "name": "GoogleCloudPlatform/gsutil",
+        "url": "https://github.com/GoogleCloudPlatform/gsutil.git",
+        "stars": 836,
+        "created_at": "2013-02-22T01:15:43Z"
+    },
+    {
+        "name": "golismero/golismero",
+        "url": "https://github.com/golismero/golismero.git",
+        "stars": 835,
+        "created_at": "2013-07-30T10:52:30Z"
+    },
+    {
+        "name": "zenodo/zenodo",
+        "url": "https://github.com/zenodo/zenodo.git",
+        "stars": 835,
+        "created_at": "2013-02-11T09:34:27Z"
+    },
+    {
+        "name": "bchew/dynamodump",
+        "url": "https://github.com/bchew/dynamodump.git",
+        "stars": 828,
+        "created_at": "2013-11-15T05:00:00Z"
+    },
+    {
+        "name": "philipn/django-rest-framework-filters",
+        "url": "https://github.com/philipn/django-rest-framework-filters.git",
+        "stars": 827,
+        "created_at": "2013-12-12T03:59:33Z"
+    },
+    {
+        "name": "viblo/pymunk",
+        "url": "https://github.com/viblo/pymunk.git",
+        "stars": 827,
+        "created_at": "2013-10-02T14:36:46Z"
+    },
+    {
+        "name": "florianfesti/boxes",
+        "url": "https://github.com/florianfesti/boxes.git",
+        "stars": 826,
+        "created_at": "2013-04-01T16:36:53Z"
+    },
+    {
+        "name": "ymattw/ydiff",
+        "url": "https://github.com/ymattw/ydiff.git",
+        "stars": 825,
+        "created_at": "2013-01-29T06:20:34Z"
+    },
+    {
+        "name": "xybu/onedrive-d-old",
+        "url": "https://github.com/xybu/onedrive-d-old.git",
+        "stars": 823,
+        "created_at": "2013-11-23T22:04:04Z"
+    },
+    {
+        "name": "thunder-project/thunder",
+        "url": "https://github.com/thunder-project/thunder.git",
+        "stars": 815,
+        "created_at": "2013-06-11T07:00:47Z"
+    },
+    {
+        "name": "jrfonseca/xdot.py",
+        "url": "https://github.com/jrfonseca/xdot.py.git",
+        "stars": 813,
+        "created_at": "2013-05-12T09:59:58Z"
+    },
+    {
+        "name": "kevinastone/django-api-rest-and-angular",
+        "url": "https://github.com/kevinastone/django-api-rest-and-angular.git",
+        "stars": 807,
+        "created_at": "2013-09-24T23:15:01Z"
+    },
+    {
+        "name": "airspeed-velocity/asv",
+        "url": "https://github.com/airspeed-velocity/asv.git",
+        "stars": 807,
+        "created_at": "2013-11-07T20:43:31Z"
+    },
+    {
+        "name": "ternjs/tern_for_sublime",
+        "url": "https://github.com/ternjs/tern_for_sublime.git",
+        "stars": 806,
+        "created_at": "2013-04-26T13:34:00Z"
+    },
+    {
+        "name": "axitkhurana/buster",
+        "url": "https://github.com/axitkhurana/buster.git",
+        "stars": 801,
+        "created_at": "2013-10-16T14:18:01Z"
+    },
+    {
+        "name": "ericzhang-cn/kindle-open-books",
+        "url": "https://github.com/ericzhang-cn/kindle-open-books.git",
+        "stars": 801,
+        "created_at": "2013-07-10T10:19:36Z"
+    },
+    {
+        "name": "poliastro/poliastro",
+        "url": "https://github.com/poliastro/poliastro.git",
+        "stars": 798,
+        "created_at": "2013-07-04T14:14:45Z"
+    },
+    {
+        "name": "inveniosoftware/dictdiffer",
+        "url": "https://github.com/inveniosoftware/dictdiffer.git",
+        "stars": 797,
+        "created_at": "2013-05-25T17:17:42Z"
+    },
+    {
+        "name": "ebroecker/canmatrix",
+        "url": "https://github.com/ebroecker/canmatrix.git",
+        "stars": 797,
+        "created_at": "2013-04-08T19:08:14Z"
+    },
+    {
+        "name": "googleapis/oauth2client",
+        "url": "https://github.com/googleapis/oauth2client.git",
+        "stars": 795,
+        "created_at": "2013-11-07T18:03:04Z"
+    },
+    {
+        "name": "reingart/pyfpdf",
+        "url": "https://github.com/reingart/pyfpdf.git",
+        "stars": 795,
+        "created_at": "2013-07-31T05:08:41Z"
+    },
+    {
+        "name": "lazybird/django-solo",
+        "url": "https://github.com/lazybird/django-solo.git",
+        "stars": 794,
+        "created_at": "2013-05-22T21:28:08Z"
+    },
+    {
+        "name": "yanunon/NeteaseCloudMusic",
+        "url": "https://github.com/yanunon/NeteaseCloudMusic.git",
+        "stars": 793,
+        "created_at": "2013-11-12T12:59:54Z"
+    },
+    {
+        "name": "clarete/forbiddenfruit",
+        "url": "https://github.com/clarete/forbiddenfruit.git",
+        "stars": 787,
+        "created_at": "2013-04-03T01:55:07Z"
+    },
+    {
+        "name": "biocore/scikit-bio",
+        "url": "https://github.com/biocore/scikit-bio.git",
+        "stars": 785,
+        "created_at": "2013-12-13T16:24:41Z"
+    },
+    {
+        "name": "pymssql/pymssql",
+        "url": "https://github.com/pymssql/pymssql.git",
+        "stars": 783,
+        "created_at": "2013-09-09T15:10:18Z"
+    },
+    {
+        "name": "micheles/decorator",
+        "url": "https://github.com/micheles/decorator.git",
+        "stars": 781,
+        "created_at": "2013-11-24T05:55:49Z"
+    },
+    {
+        "name": "iphelix/dnschef",
+        "url": "https://github.com/iphelix/dnschef.git",
+        "stars": 780,
+        "created_at": "2013-12-03T23:22:09Z"
+    },
+    {
+        "name": "nengo/nengo",
+        "url": "https://github.com/nengo/nengo.git",
+        "stars": 779,
+        "created_at": "2013-04-20T18:46:06Z"
+    },
+    {
+        "name": "joe011/python",
+        "url": "https://github.com/joe011/python.git",
+        "stars": 777,
+        "created_at": "2013-08-07T06:08:24Z"
+    },
+    {
+        "name": "akalongman/sublimetext-codeformatter",
+        "url": "https://github.com/akalongman/sublimetext-codeformatter.git",
+        "stars": 775,
+        "created_at": "2013-03-15T14:19:05Z"
+    },
+    {
+        "name": "numixproject/numix-core",
+        "url": "https://github.com/numixproject/numix-core.git",
+        "stars": 770,
+        "created_at": "2013-11-10T11:20:24Z"
+    },
+    {
+        "name": "django/django-localflavor",
+        "url": "https://github.com/django/django-localflavor.git",
+        "stars": 770,
+        "created_at": "2013-05-24T10:20:36Z"
+    },
+    {
+        "name": "csparpa/pyowm",
+        "url": "https://github.com/csparpa/pyowm.git",
+        "stars": 765,
+        "created_at": "2013-09-02T08:43:51Z"
+    },
+    {
+        "name": "coldfix/udiskie",
+        "url": "https://github.com/coldfix/udiskie.git",
+        "stars": 762,
+        "created_at": "2013-09-10T15:36:32Z"
+    },
+    {
+        "name": "knownsec/RD_Checklist",
+        "url": "https://github.com/knownsec/RD_Checklist.git",
+        "stars": 761,
+        "created_at": "2013-04-23T12:52:26Z"
+    },
+    {
+        "name": "triketora/women-in-software-eng",
+        "url": "https://github.com/triketora/women-in-software-eng.git",
+        "stars": 759,
+        "created_at": "2013-10-21T04:59:31Z"
+    },
+    {
+        "name": "yidao620c/core-algorithm",
+        "url": "https://github.com/yidao620c/core-algorithm.git",
+        "stars": 759,
+        "created_at": "2013-09-23T10:42:19Z"
+    },
+    {
+        "name": "dropbox/changes",
+        "url": "https://github.com/dropbox/changes.git",
+        "stars": 759,
+        "created_at": "2013-09-21T01:41:26Z"
+    },
+    {
+        "name": "gunnery/gunnery",
+        "url": "https://github.com/gunnery/gunnery.git",
+        "stars": 756,
+        "created_at": "2013-12-23T07:49:48Z"
+    },
+    {
+        "name": "0k/shyaml",
+        "url": "https://github.com/0k/shyaml.git",
+        "stars": 756,
+        "created_at": "2013-02-27T10:40:07Z"
+    },
+    {
+        "name": "nilmtk/nilmtk",
+        "url": "https://github.com/nilmtk/nilmtk.git",
+        "stars": 756,
+        "created_at": "2013-12-03T11:39:12Z"
+    },
+    {
+        "name": "trezor/python-mnemonic",
+        "url": "https://github.com/trezor/python-mnemonic.git",
+        "stars": 756,
+        "created_at": "2013-02-18T12:40:34Z"
+    },
+    {
+        "name": "gcovr/gcovr",
+        "url": "https://github.com/gcovr/gcovr.git",
+        "stars": 754,
+        "created_at": "2013-05-15T01:45:20Z"
+    },
+    {
+        "name": "coddingtonbear/python-myfitnesspal",
+        "url": "https://github.com/coddingtonbear/python-myfitnesspal.git",
+        "stars": 750,
+        "created_at": "2013-07-16T05:31:10Z"
+    },
+    {
+        "name": "SALib/SALib",
+        "url": "https://github.com/SALib/SALib.git",
+        "stars": 748,
+        "created_at": "2013-05-30T13:38:10Z"
+    },
+    {
+        "name": "KartikTalwar/Duolingo",
+        "url": "https://github.com/KartikTalwar/Duolingo.git",
+        "stars": 747,
+        "created_at": "2013-07-03T06:37:13Z"
+    },
+    {
+        "name": "pixelogik/NearPy",
+        "url": "https://github.com/pixelogik/NearPy.git",
+        "stars": 746,
+        "created_at": "2013-04-25T09:10:26Z"
+    },
+    {
+        "name": "nschloe/pygmsh",
+        "url": "https://github.com/nschloe/pygmsh.git",
+        "stars": 744,
+        "created_at": "2013-10-03T21:40:30Z"
+    },
+    {
+        "name": "davidadamojr/TextRank",
+        "url": "https://github.com/davidadamojr/TextRank.git",
+        "stars": 740,
+        "created_at": "2013-11-24T16:56:40Z"
+    },
+    {
+        "name": "pwning/public-writeup",
+        "url": "https://github.com/pwning/public-writeup.git",
+        "stars": 738,
+        "created_at": "2013-03-06T20:56:49Z"
+    },
+    {
+        "name": "savoirfairelinux/num2words",
+        "url": "https://github.com/savoirfairelinux/num2words.git",
+        "stars": 737,
+        "created_at": "2013-05-28T16:54:31Z"
+    },
+    {
+        "name": "major/icanhaz",
+        "url": "https://github.com/major/icanhaz.git",
+        "stars": 736,
+        "created_at": "2013-03-16T17:02:11Z"
+    },
+    {
+        "name": "dsnopek/anki-sync-server",
+        "url": "https://github.com/dsnopek/anki-sync-server.git",
+        "stars": 736,
+        "created_at": "2013-04-03T16:53:02Z"
+    },
+    {
+        "name": "mar10/wsgidav",
+        "url": "https://github.com/mar10/wsgidav.git",
+        "stars": 736,
+        "created_at": "2013-12-22T14:38:24Z"
+    },
+    {
+        "name": "vvk-ehk/evalimine",
+        "url": "https://github.com/vvk-ehk/evalimine.git",
+        "stars": 731,
+        "created_at": "2013-07-11T10:47:16Z"
+    },
+    {
+        "name": "FriendCode/gittle",
+        "url": "https://github.com/FriendCode/gittle.git",
+        "stars": 730,
+        "created_at": "2013-07-05T05:48:10Z"
+    },
+    {
+        "name": "infodox/python-pty-shells",
+        "url": "https://github.com/infodox/python-pty-shells.git",
+        "stars": 727,
+        "created_at": "2013-10-19T21:16:05Z"
+    },
+    {
+        "name": "n0fate/chainbreaker",
+        "url": "https://github.com/n0fate/chainbreaker.git",
+        "stars": 725,
+        "created_at": "2013-04-26T11:04:25Z"
+    },
+    {
+        "name": "scikit-fuzzy/scikit-fuzzy",
+        "url": "https://github.com/scikit-fuzzy/scikit-fuzzy.git",
+        "stars": 722,
+        "created_at": "2013-03-19T04:27:23Z"
+    },
+    {
+        "name": "stravalib/stravalib",
+        "url": "https://github.com/stravalib/stravalib.git",
+        "stars": 718,
+        "created_at": "2013-03-17T02:48:54Z"
+    },
+    {
+        "name": "teddziuba/django-sslserver",
+        "url": "https://github.com/teddziuba/django-sslserver.git",
+        "stars": 714,
+        "created_at": "2013-03-01T02:37:27Z"
+    },
+    {
+        "name": "irmen/Pyro4",
+        "url": "https://github.com/irmen/Pyro4.git",
+        "stars": 711,
+        "created_at": "2013-06-28T20:25:58Z"
+    },
+    {
+        "name": "pyvisa/pyvisa",
+        "url": "https://github.com/pyvisa/pyvisa.git",
+        "stars": 710,
+        "created_at": "2013-08-24T05:47:15Z"
+    },
+    {
+        "name": "torproject/torbrowser-launcher",
+        "url": "https://github.com/torproject/torbrowser-launcher.git",
+        "stars": 708,
+        "created_at": "2013-02-07T04:31:02Z"
+    },
+    {
+        "name": "iphelix/pack",
+        "url": "https://github.com/iphelix/pack.git",
+        "stars": 707,
+        "created_at": "2013-07-16T18:40:29Z"
+    },
+    {
+        "name": "tumblr/pytumblr",
+        "url": "https://github.com/tumblr/pytumblr.git",
+        "stars": 704,
+        "created_at": "2013-03-27T15:23:44Z"
+    },
+    {
+        "name": "wallix/PEPS",
+        "url": "https://github.com/wallix/PEPS.git",
+        "stars": 703,
+        "created_at": "2013-11-08T19:43:56Z"
+    },
+    {
+        "name": "scour-project/scour",
+        "url": "https://github.com/scour-project/scour.git",
+        "stars": 701,
+        "created_at": "2013-10-22T14:02:57Z"
+    },
+    {
+        "name": "fffonion/xeHentai",
+        "url": "https://github.com/fffonion/xeHentai.git",
+        "stars": 700,
+        "created_at": "2013-03-23T11:18:34Z"
+    },
+    {
+        "name": "mpi4py/mpi4py",
+        "url": "https://github.com/mpi4py/mpi4py.git",
+        "stars": 700,
+        "created_at": "2013-09-05T14:44:25Z"
+    },
+    {
+        "name": "mgedmin/objgraph",
+        "url": "https://github.com/mgedmin/objgraph.git",
+        "stars": 699,
+        "created_at": "2013-08-09T08:48:21Z"
+    },
+    {
+        "name": "modlinltd/django-advanced-filters",
+        "url": "https://github.com/modlinltd/django-advanced-filters.git",
+        "stars": 698,
+        "created_at": "2013-11-09T07:54:45Z"
+    },
+    {
+        "name": "voxpupuli/puppetboard",
+        "url": "https://github.com/voxpupuli/puppetboard.git",
+        "stars": 695,
+        "created_at": "2013-07-29T18:22:09Z"
+    },
+    {
+        "name": "GNS3/gns3-server",
+        "url": "https://github.com/GNS3/gns3-server.git",
+        "stars": 695,
+        "created_at": "2013-09-26T02:45:09Z"
+    },
+    {
+        "name": "isnowfy/pydown",
+        "url": "https://github.com/isnowfy/pydown.git",
+        "stars": 693,
+        "created_at": "2013-04-14T11:28:07Z"
+    },
+    {
+        "name": "paypal/PayPal-Python-SDK",
+        "url": "https://github.com/paypal/PayPal-Python-SDK.git",
+        "stars": 692,
+        "created_at": "2013-03-08T11:46:28Z"
+    },
+    {
+        "name": "signalfx/maestro-ng",
+        "url": "https://github.com/signalfx/maestro-ng.git",
+        "stars": 683,
+        "created_at": "2013-11-08T23:24:30Z"
+    },
+    {
+        "name": "an0/Letterpress",
+        "url": "https://github.com/an0/Letterpress.git",
+        "stars": 682,
+        "created_at": "2013-02-01T22:28:38Z"
+    },
+    {
+        "name": "myint/cppclean",
+        "url": "https://github.com/myint/cppclean.git",
+        "stars": 681,
+        "created_at": "2013-05-31T14:31:46Z"
+    },
+    {
+        "name": "FZambia/centrifuge",
+        "url": "https://github.com/FZambia/centrifuge.git",
+        "stars": 681,
+        "created_at": "2013-03-03T11:43:39Z"
+    },
+    {
+        "name": "CriticMarkup/CriticMarkup-toolkit",
+        "url": "https://github.com/CriticMarkup/CriticMarkup-toolkit.git",
+        "stars": 675,
+        "created_at": "2013-01-10T20:47:48Z"
+    },
+    {
+        "name": "mwilliamson/python-mammoth",
+        "url": "https://github.com/mwilliamson/python-mammoth.git",
+        "stars": 674,
+        "created_at": "2013-12-01T14:13:31Z"
+    },
+    {
+        "name": "mcedit/mcedit2",
+        "url": "https://github.com/mcedit/mcedit2.git",
+        "stars": 674,
+        "created_at": "2013-11-09T05:42:10Z"
+    },
+    {
+        "name": "qLab/qLib",
+        "url": "https://github.com/qLab/qLib.git",
+        "stars": 673,
+        "created_at": "2013-02-17T14:23:56Z"
+    },
+    {
+        "name": "rogerbinns/apsw",
+        "url": "https://github.com/rogerbinns/apsw.git",
+        "stars": 670,
+        "created_at": "2013-12-29T02:36:05Z"
+    },
+    {
+        "name": "terryyin/translate-python",
+        "url": "https://github.com/terryyin/translate-python.git",
+        "stars": 669,
+        "created_at": "2013-05-06T00:52:08Z"
+    },
+    {
+        "name": "kushaldas/pym",
+        "url": "https://github.com/kushaldas/pym.git",
+        "stars": 668,
+        "created_at": "2013-07-09T14:23:04Z"
+    },
+    {
+        "name": "larsmans/seqlearn",
+        "url": "https://github.com/larsmans/seqlearn.git",
+        "stars": 666,
+        "created_at": "2013-07-31T18:15:59Z"
+    },
+    {
+        "name": "openstack/keystone",
+        "url": "https://github.com/openstack/keystone.git",
+        "stars": 666,
+        "created_at": "2013-05-30T14:48:39Z"
+    },
+    {
+        "name": "aaugustin/django-c10k-demo",
+        "url": "https://github.com/aaugustin/django-c10k-demo.git",
+        "stars": 666,
+        "created_at": "2013-03-26T22:35:36Z"
+    },
+    {
+        "name": "sindresorhus/sublime-autoprefixer",
+        "url": "https://github.com/sindresorhus/sublime-autoprefixer.git",
+        "stars": 665,
+        "created_at": "2013-04-25T21:21:36Z"
+    },
+    {
+        "name": "pts/pdfsizeopt",
+        "url": "https://github.com/pts/pdfsizeopt.git",
+        "stars": 664,
+        "created_at": "2013-09-24T18:12:19Z"
+    },
+    {
+        "name": "Hawstein/snake-ai",
+        "url": "https://github.com/Hawstein/snake-ai.git",
+        "stars": 663,
+        "created_at": "2013-04-16T10:34:45Z"
+    },
+    {
+        "name": "jrief/django-admin-sortable2",
+        "url": "https://github.com/jrief/django-admin-sortable2.git",
+        "stars": 662,
+        "created_at": "2013-07-07T21:26:56Z"
+    },
+    {
+        "name": "vintasoftware/django-role-permissions",
+        "url": "https://github.com/vintasoftware/django-role-permissions.git",
+        "stars": 659,
+        "created_at": "2013-10-07T16:13:02Z"
+    },
+    {
+        "name": "areski/python-nvd3",
+        "url": "https://github.com/areski/python-nvd3.git",
+        "stars": 658,
+        "created_at": "2013-04-08T10:44:56Z"
+    },
+    {
+        "name": "TeamMsgExtractor/msg-extractor",
+        "url": "https://github.com/TeamMsgExtractor/msg-extractor.git",
+        "stars": 654,
+        "created_at": "2013-07-24T02:18:20Z"
+    },
+    {
+        "name": "CenterForOpenScience/osf.io",
+        "url": "https://github.com/CenterForOpenScience/osf.io.git",
+        "stars": 650,
+        "created_at": "2013-05-21T15:53:37Z"
+    },
+    {
+        "name": "Juniper/py-junos-eznc",
+        "url": "https://github.com/Juniper/py-junos-eznc.git",
+        "stars": 650,
+        "created_at": "2013-10-12T22:21:38Z"
+    },
+    {
+        "name": "makinacorpus/django-safedelete",
+        "url": "https://github.com/makinacorpus/django-safedelete.git",
+        "stars": 649,
+        "created_at": "2013-06-19T13:23:35Z"
+    },
+    {
+        "name": "django-parler/django-parler",
+        "url": "https://github.com/django-parler/django-parler.git",
+        "stars": 649,
+        "created_at": "2013-09-09T19:05:32Z"
+    },
+    {
+        "name": "robbeofficial/spotifyripper",
+        "url": "https://github.com/robbeofficial/spotifyripper.git",
+        "stars": 646,
+        "created_at": "2013-04-01T22:31:41Z"
+    },
+    {
+        "name": "rspeer/wordfreq",
+        "url": "https://github.com/rspeer/wordfreq.git",
+        "stars": 646,
+        "created_at": "2013-10-28T23:28:12Z"
+    },
+    {
+        "name": "reyammer/shellnoob",
+        "url": "https://github.com/reyammer/shellnoob.git",
+        "stars": 643,
+        "created_at": "2013-04-30T00:13:15Z"
+    },
+    {
+        "name": "lkiesow/python-feedgen",
+        "url": "https://github.com/lkiesow/python-feedgen.git",
+        "stars": 643,
+        "created_at": "2013-05-03T15:14:54Z"
+    },
+    {
+        "name": "justdark/dml",
+        "url": "https://github.com/justdark/dml.git",
+        "stars": 638,
+        "created_at": "2013-10-25T05:41:03Z"
+    },
+    {
+        "name": "authlib/example-oauth2-server",
+        "url": "https://github.com/authlib/example-oauth2-server.git",
+        "stars": 638,
+        "created_at": "2013-11-21T08:24:16Z"
+    },
+    {
+        "name": "EarToEarOak/RTLSDR-Scanner",
+        "url": "https://github.com/EarToEarOak/RTLSDR-Scanner.git",
+        "stars": 637,
+        "created_at": "2013-01-08T15:39:56Z"
+    },
+    {
+        "name": "nypl-spacetime/map-vectorizer",
+        "url": "https://github.com/nypl-spacetime/map-vectorizer.git",
+        "stars": 636,
+        "created_at": "2013-07-16T20:42:23Z"
+    },
+    {
+        "name": "esdalmaijer/PyGaze",
+        "url": "https://github.com/esdalmaijer/PyGaze.git",
+        "stars": 634,
+        "created_at": "2013-05-07T08:00:04Z"
+    },
+    {
+        "name": "bradleyg/django-s3direct",
+        "url": "https://github.com/bradleyg/django-s3direct.git",
+        "stars": 633,
+        "created_at": "2013-03-14T17:29:39Z"
+    },
+    {
+        "name": "lzjun567/note",
+        "url": "https://github.com/lzjun567/note.git",
+        "stars": 631,
+        "created_at": "2013-03-19T04:55:39Z"
+    },
+    {
+        "name": "flask-extensions/Flask-GoogleMaps",
+        "url": "https://github.com/flask-extensions/Flask-GoogleMaps.git",
+        "stars": 627,
+        "created_at": "2013-11-21T23:52:29Z"
+    },
+    {
+        "name": "selwin/django-user_agents",
+        "url": "https://github.com/selwin/django-user_agents.git",
+        "stars": 622,
+        "created_at": "2013-01-05T11:31:33Z"
+    },
+    {
+        "name": "toscanini/maestro",
+        "url": "https://github.com/toscanini/maestro.git",
+        "stars": 620,
+        "created_at": "2013-07-24T00:08:08Z"
+    },
+    {
+        "name": "miso-belica/jusText",
+        "url": "https://github.com/miso-belica/jusText.git",
+        "stars": 618,
+        "created_at": "2013-02-10T11:42:20Z"
+    },
+    {
+        "name": "jacebrowning/template-python",
+        "url": "https://github.com/jacebrowning/template-python.git",
+        "stars": 616,
+        "created_at": "2013-10-18T21:51:51Z"
+    },
+    {
+        "name": "moggers87/salmon",
+        "url": "https://github.com/moggers87/salmon.git",
+        "stars": 616,
+        "created_at": "2013-05-07T11:29:42Z"
+    },
+    {
+        "name": "Zulko/easyAI",
+        "url": "https://github.com/Zulko/easyAI.git",
+        "stars": 615,
+        "created_at": "2013-12-21T09:31:29Z"
+    },
+    {
+        "name": "sebdah/dynamic-dynamodb",
+        "url": "https://github.com/sebdah/dynamic-dynamodb.git",
+        "stars": 613,
+        "created_at": "2013-02-19T10:44:06Z"
+    },
+    {
+        "name": "unitedstates/contact-congress",
+        "url": "https://github.com/unitedstates/contact-congress.git",
+        "stars": 611,
+        "created_at": "2013-06-27T15:32:03Z"
+    },
+    {
+        "name": "deeptools/deepTools",
+        "url": "https://github.com/deeptools/deepTools.git",
+        "stars": 609,
+        "created_at": "2013-07-08T12:30:28Z"
+    },
+    {
+        "name": "agschwender/pilbox",
+        "url": "https://github.com/agschwender/pilbox.git",
+        "stars": 609,
+        "created_at": "2013-06-20T14:22:41Z"
+    },
+    {
+        "name": "Blizzard/s2protocol",
+        "url": "https://github.com/Blizzard/s2protocol.git",
+        "stars": 607,
+        "created_at": "2013-05-07T21:15:37Z"
+    },
+    {
+        "name": "pylast/pylast",
+        "url": "https://github.com/pylast/pylast.git",
+        "stars": 603,
+        "created_at": "2013-01-24T17:21:07Z"
+    },
+    {
+        "name": "pmneila/morphsnakes",
+        "url": "https://github.com/pmneila/morphsnakes.git",
+        "stars": 602,
+        "created_at": "2013-05-31T03:20:49Z"
+    },
+    {
+        "name": "GoogleChrome/chromium-dashboard",
+        "url": "https://github.com/GoogleChrome/chromium-dashboard.git",
+        "stars": 601,
+        "created_at": "2013-03-07T18:18:10Z"
+    },
+    {
+        "name": "guillermooo/sublime-undocs",
+        "url": "https://github.com/guillermooo/sublime-undocs.git",
+        "stars": 600,
+        "created_at": "2013-08-23T17:43:58Z"
+    },
+    {
+        "name": "nutti/Magic-UV",
+        "url": "https://github.com/nutti/Magic-UV.git",
+        "stars": 598,
+        "created_at": "2013-12-29T12:54:15Z"
+    },
+    {
+        "name": "PyCQA/mccabe",
+        "url": "https://github.com/PyCQA/mccabe.git",
+        "stars": 597,
+        "created_at": "2013-02-20T22:19:04Z"
+    },
+    {
+        "name": "jordan-wright/dumpmon",
+        "url": "https://github.com/jordan-wright/dumpmon.git",
+        "stars": 594,
+        "created_at": "2013-03-28T13:54:38Z"
+    },
+    {
+        "name": "cudamat/cudamat",
+        "url": "https://github.com/cudamat/cudamat.git",
+        "stars": 594,
+        "created_at": "2013-08-21T19:27:47Z"
+    },
+    {
+        "name": "bastibe/python-soundfile",
+        "url": "https://github.com/bastibe/python-soundfile.git",
+        "stars": 593,
+        "created_at": "2013-08-27T13:36:52Z"
+    },
+    {
+        "name": "torque59/Nosql-Exploitation-Framework",
+        "url": "https://github.com/torque59/Nosql-Exploitation-Framework.git",
+        "stars": 592,
+        "created_at": "2013-12-26T17:46:11Z"
+    },
+    {
+        "name": "kennknowles/python-jsonpath-rw",
+        "url": "https://github.com/kennknowles/python-jsonpath-rw.git",
+        "stars": 592,
+        "created_at": "2013-02-09T05:28:00Z"
+    },
+    {
+        "name": "ozgur/python-firebase",
+        "url": "https://github.com/ozgur/python-firebase.git",
+        "stars": 590,
+        "created_at": "2013-02-20T15:12:33Z"
+    },
+    {
+        "name": "tomekwojcik/envelopes",
+        "url": "https://github.com/tomekwojcik/envelopes.git",
+        "stars": 589,
+        "created_at": "2013-08-06T15:04:04Z"
+    },
+    {
+        "name": "potatolondon/djangae",
+        "url": "https://github.com/potatolondon/djangae.git",
+        "stars": 587,
+        "created_at": "2013-05-22T10:55:55Z"
+    },
+    {
+        "name": "django/django-contrib-comments",
+        "url": "https://github.com/django/django-contrib-comments.git",
+        "stars": 586,
+        "created_at": "2013-03-11T18:27:37Z"
+    },
+    {
+        "name": "ayeowch/bitnodes",
+        "url": "https://github.com/ayeowch/bitnodes.git",
+        "stars": 580,
+        "created_at": "2013-05-09T11:08:52Z"
+    },
+    {
+        "name": "fictivekin/openrecipes",
+        "url": "https://github.com/fictivekin/openrecipes.git",
+        "stars": 579,
+        "created_at": "2013-03-28T14:45:41Z"
+    },
+    {
+        "name": "ipython/traitlets",
+        "url": "https://github.com/ipython/traitlets.git",
+        "stars": 579,
+        "created_at": "2013-12-06T20:45:45Z"
+    },
+    {
+        "name": "dpath-maintainers/dpath-python",
+        "url": "https://github.com/dpath-maintainers/dpath-python.git",
+        "stars": 578,
+        "created_at": "2013-05-07T23:56:22Z"
+    },
+    {
+        "name": "facebookarchive/react-python",
+        "url": "https://github.com/facebookarchive/react-python.git",
+        "stars": 577,
+        "created_at": "2013-08-07T18:43:33Z"
+    },
+    {
+        "name": "richard-better/pushbullet.py",
+        "url": "https://github.com/richard-better/pushbullet.py.git",
+        "stars": 577,
+        "created_at": "2013-02-22T20:44:48Z"
+    },
+    {
+        "name": "josephmisiti/generic-django-project",
+        "url": "https://github.com/josephmisiti/generic-django-project.git",
+        "stars": 576,
+        "created_at": "2013-02-08T20:34:36Z"
+    },
+    {
+        "name": "coddingtonbear/inthe.am",
+        "url": "https://github.com/coddingtonbear/inthe.am.git",
+        "stars": 576,
+        "created_at": "2013-12-30T06:20:44Z"
+    },
+    {
+        "name": "perrygeo/simanneal",
+        "url": "https://github.com/perrygeo/simanneal.git",
+        "stars": 575,
+        "created_at": "2013-04-07T19:42:45Z"
+    },
+    {
+        "name": "Knio/pynmea2",
+        "url": "https://github.com/Knio/pynmea2.git",
+        "stars": 575,
+        "created_at": "2013-07-04T04:49:36Z"
+    },
+    {
+        "name": "iancmcc/ouimeaux",
+        "url": "https://github.com/iancmcc/ouimeaux.git",
+        "stars": 573,
+        "created_at": "2013-02-01T16:36:55Z"
+    },
+    {
+        "name": "wikimedia/pywikibot",
+        "url": "https://github.com/wikimedia/pywikibot.git",
+        "stars": 571,
+        "created_at": "2013-06-19T16:18:45Z"
+    },
+    {
+        "name": "lxc-webpanel/LXC-Web-Panel",
+        "url": "https://github.com/lxc-webpanel/LXC-Web-Panel.git",
+        "stars": 570,
+        "created_at": "2013-03-22T11:17:26Z"
+    },
+    {
+        "name": "milo2012/osintstalker",
+        "url": "https://github.com/milo2012/osintstalker.git",
+        "stars": 570,
+        "created_at": "2013-10-16T09:39:04Z"
+    },
+    {
+        "name": "ics-py/ics-py",
+        "url": "https://github.com/ics-py/ics-py.git",
+        "stars": 568,
+        "created_at": "2013-10-25T11:51:40Z"
+    },
+    {
+        "name": "vbabiy/djangorestframework-camel-case",
+        "url": "https://github.com/vbabiy/djangorestframework-camel-case.git",
+        "stars": 568,
+        "created_at": "2013-12-21T01:39:19Z"
+    },
+    {
+        "name": "pylint-dev/pylint-django",
+        "url": "https://github.com/pylint-dev/pylint-django.git",
+        "stars": 565,
+        "created_at": "2013-10-01T06:35:15Z"
+    },
+    {
+        "name": "kivy/kivent",
+        "url": "https://github.com/kivy/kivent.git",
+        "stars": 564,
+        "created_at": "2013-04-27T02:04:48Z"
+    },
+    {
+        "name": "martomo/SublimeTextXdebug",
+        "url": "https://github.com/martomo/SublimeTextXdebug.git",
+        "stars": 564,
+        "created_at": "2013-04-01T12:48:51Z"
+    },
+    {
+        "name": "rr-/szurubooru",
+        "url": "https://github.com/rr-/szurubooru.git",
+        "stars": 563,
+        "created_at": "2013-10-01T05:26:47Z"
+    },
+    {
+        "name": "ellmetha/django-machina",
+        "url": "https://github.com/ellmetha/django-machina.git",
+        "stars": 562,
+        "created_at": "2013-11-27T23:12:41Z"
+    },
+    {
+        "name": "Mendeley/mrec",
+        "url": "https://github.com/Mendeley/mrec.git",
+        "stars": 561,
+        "created_at": "2013-09-20T15:15:19Z"
+    },
+    {
+        "name": "phracker/HopperScripts",
+        "url": "https://github.com/phracker/HopperScripts.git",
+        "stars": 561,
+        "created_at": "2013-03-30T16:45:26Z"
+    },
+    {
+        "name": "gijzelaerr/python-snap7",
+        "url": "https://github.com/gijzelaerr/python-snap7.git",
+        "stars": 558,
+        "created_at": "2013-10-09T13:06:13Z"
+    },
+    {
+        "name": "tomwalker/django_quiz",
+        "url": "https://github.com/tomwalker/django_quiz.git",
+        "stars": 557,
+        "created_at": "2013-03-12T23:10:23Z"
+    },
+    {
+        "name": "krmaxwell/maltrieve",
+        "url": "https://github.com/krmaxwell/maltrieve.git",
+        "stars": 557,
+        "created_at": "2013-01-29T02:21:53Z"
+    },
+    {
+        "name": "zapier/django-rest-hooks",
+        "url": "https://github.com/zapier/django-rest-hooks.git",
+        "stars": 557,
+        "created_at": "2013-09-05T03:06:07Z"
+    },
+    {
+        "name": "jpadilla/django-dotenv",
+        "url": "https://github.com/jpadilla/django-dotenv.git",
+        "stars": 556,
+        "created_at": "2013-06-13T15:32:20Z"
+    },
+    {
+        "name": "jonathanslenders/asyncio-redis",
+        "url": "https://github.com/jonathanslenders/asyncio-redis.git",
+        "stars": 555,
+        "created_at": "2013-10-13T21:31:36Z"
+    },
+    {
+        "name": "jvns/teeceepee",
+        "url": "https://github.com/jvns/teeceepee.git",
+        "stars": 552,
+        "created_at": "2013-11-06T17:10:57Z"
+    },
+    {
+        "name": "vsbuffalo/bds-files",
+        "url": "https://github.com/vsbuffalo/bds-files.git",
+        "stars": 550,
+        "created_at": "2013-08-14T04:51:00Z"
+    },
+    {
+        "name": "jessevdk/cldoc",
+        "url": "https://github.com/jessevdk/cldoc.git",
+        "stars": 549,
+        "created_at": "2013-02-01T10:01:10Z"
+    },
+    {
+        "name": "asottile/git-code-debt",
+        "url": "https://github.com/asottile/git-code-debt.git",
+        "stars": 548,
+        "created_at": "2013-11-14T16:05:41Z"
+    },
+    {
+        "name": "betamaxpy/betamax",
+        "url": "https://github.com/betamaxpy/betamax.git",
+        "stars": 546,
+        "created_at": "2013-07-16T03:23:22Z"
+    },
+    {
+        "name": "zedshaw/python-lust",
+        "url": "https://github.com/zedshaw/python-lust.git",
+        "stars": 544,
+        "created_at": "2013-02-24T18:51:44Z"
+    },
+    {
+        "name": "realgam3/pymultitor",
+        "url": "https://github.com/realgam3/pymultitor.git",
+        "stars": 543,
+        "created_at": "2013-09-28T15:55:49Z"
+    },
+    {
+        "name": "astrofrog/psrecord",
+        "url": "https://github.com/astrofrog/psrecord.git",
+        "stars": 542,
+        "created_at": "2013-12-05T16:09:18Z"
+    },
+    {
+        "name": "jazzband/django-user-sessions",
+        "url": "https://github.com/jazzband/django-user-sessions.git",
+        "stars": 542,
+        "created_at": "2013-11-13T22:39:25Z"
+    },
+    {
+        "name": "dominis/ansible-shell",
+        "url": "https://github.com/dominis/ansible-shell.git",
+        "stars": 542,
+        "created_at": "2013-05-22T13:36:21Z"
+    },
+    {
+        "name": "genzj/pybingwallpaper",
+        "url": "https://github.com/genzj/pybingwallpaper.git",
+        "stars": 540,
+        "created_at": "2013-09-18T02:57:04Z"
+    },
+    {
+        "name": "vgel/summarize.py",
+        "url": "https://github.com/vgel/summarize.py.git",
+        "stars": 539,
+        "created_at": "2013-08-02T00:07:14Z"
+    },
+    {
+        "name": "gae-init/gae-init",
+        "url": "https://github.com/gae-init/gae-init.git",
+        "stars": 537,
+        "created_at": "2013-03-02T11:58:49Z"
+    },
+    {
+        "name": "Imgur/imgurpython",
+        "url": "https://github.com/Imgur/imgurpython.git",
+        "stars": 537,
+        "created_at": "2013-10-29T23:25:38Z"
+    },
+    {
+        "name": "SohuTech/essay",
+        "url": "https://github.com/SohuTech/essay.git",
+        "stars": 537,
+        "created_at": "2013-11-22T09:44:36Z"
+    },
+    {
+        "name": "fgeek/pyfiscan",
+        "url": "https://github.com/fgeek/pyfiscan.git",
+        "stars": 535,
+        "created_at": "2013-05-22T12:22:28Z"
+    },
+    {
+        "name": "neurokernel/neurokernel",
+        "url": "https://github.com/neurokernel/neurokernel.git",
+        "stars": 535,
+        "created_at": "2013-11-08T21:09:01Z"
+    },
+    {
+        "name": "EducationalTestingService/skll",
+        "url": "https://github.com/EducationalTestingService/skll.git",
+        "stars": 535,
+        "created_at": "2013-08-02T14:31:46Z"
+    },
+    {
+        "name": "secynic/ipwhois",
+        "url": "https://github.com/secynic/ipwhois.git",
+        "stars": 534,
+        "created_at": "2013-09-07T17:35:10Z"
+    },
+    {
+        "name": "myanaloglife/py-kms",
+        "url": "https://github.com/myanaloglife/py-kms.git",
+        "stars": 534,
+        "created_at": "2013-12-15T17:19:11Z"
+    },
+    {
+        "name": "ierror/django-js-reverse",
+        "url": "https://github.com/ierror/django-js-reverse.git",
+        "stars": 532,
+        "created_at": "2013-02-04T19:06:20Z"
+    },
+    {
+        "name": "craffel/mir_eval",
+        "url": "https://github.com/craffel/mir_eval.git",
+        "stars": 532,
+        "created_at": "2013-08-06T17:04:10Z"
+    },
+    {
+        "name": "dclambert/Python-ELM",
+        "url": "https://github.com/dclambert/Python-ELM.git",
+        "stars": 532,
+        "created_at": "2013-03-04T16:30:09Z"
+    },
+    {
+        "name": "jsmidt/QuantPy",
+        "url": "https://github.com/jsmidt/QuantPy.git",
+        "stars": 531,
+        "created_at": "2013-02-16T16:46:18Z"
+    },
+    {
+        "name": "worldveil/deuces",
+        "url": "https://github.com/worldveil/deuces.git",
+        "stars": 531,
+        "created_at": "2013-08-19T02:08:09Z"
+    },
+    {
+        "name": "TheKevJames/coveralls-python",
+        "url": "https://github.com/TheKevJames/coveralls-python.git",
+        "stars": 530,
+        "created_at": "2013-02-06T20:48:39Z"
+    },
+    {
+        "name": "electronut/pp",
+        "url": "https://github.com/electronut/pp.git",
+        "stars": 530,
+        "created_at": "2013-10-28T03:39:16Z"
+    },
+    {
+        "name": "o/simmetrica",
+        "url": "https://github.com/o/simmetrica.git",
+        "stars": 530,
+        "created_at": "2013-03-18T09:53:59Z"
+    },
+    {
+        "name": "Crypt0s/FakeDns",
+        "url": "https://github.com/Crypt0s/FakeDns.git",
+        "stars": 529,
+        "created_at": "2013-05-03T15:21:34Z"
+    },
+    {
+        "name": "celiao/tmdbsimple",
+        "url": "https://github.com/celiao/tmdbsimple.git",
+        "stars": 528,
+        "created_at": "2013-12-05T07:43:50Z"
+    },
+    {
+        "name": "wong2/xiaohuangji",
+        "url": "https://github.com/wong2/xiaohuangji.git",
+        "stars": 527,
+        "created_at": "2013-01-16T14:06:45Z"
+    },
+    {
+        "name": "cgoldberg/ystockquote",
+        "url": "https://github.com/cgoldberg/ystockquote.git",
+        "stars": 527,
+        "created_at": "2013-03-24T20:48:52Z"
+    },
+    {
+        "name": "mozilla/ichnaea",
+        "url": "https://github.com/mozilla/ichnaea.git",
+        "stars": 526,
+        "created_at": "2013-04-18T12:51:09Z"
+    },
+    {
+        "name": "dropbox/pyxl",
+        "url": "https://github.com/dropbox/pyxl.git",
+        "stars": 524,
+        "created_at": "2013-02-24T00:13:50Z"
+    },
+    {
+        "name": "m13253/danmaku2ass",
+        "url": "https://github.com/m13253/danmaku2ass.git",
+        "stars": 524,
+        "created_at": "2013-09-15T05:26:31Z"
+    },
+    {
+        "name": "kvesteri/sqlalchemy-continuum",
+        "url": "https://github.com/kvesteri/sqlalchemy-continuum.git",
+        "stars": 524,
+        "created_at": "2013-05-27T10:30:55Z"
+    },
+    {
+        "name": "PyHDI/Pyverilog",
+        "url": "https://github.com/PyHDI/Pyverilog.git",
+        "stars": 521,
+        "created_at": "2013-12-02T18:53:03Z"
+    },
+    {
+        "name": "XiaoMi/minos",
+        "url": "https://github.com/XiaoMi/minos.git",
+        "stars": 521,
+        "created_at": "2013-06-27T08:37:08Z"
+    },
+    {
+        "name": "wakatime/sublime-wakatime",
+        "url": "https://github.com/wakatime/sublime-wakatime.git",
+        "stars": 520,
+        "created_at": "2013-07-02T05:43:11Z"
+    },
+    {
+        "name": "heroku-python/dj-static",
+        "url": "https://github.com/heroku-python/dj-static.git",
+        "stars": 519,
+        "created_at": "2013-07-12T21:04:59Z"
+    },
+    {
+        "name": "kanzure/pdfparanoia",
+        "url": "https://github.com/kanzure/pdfparanoia.git",
+        "stars": 519,
+        "created_at": "2013-02-05T09:12:51Z"
+    },
+    {
+        "name": "nvbn/django-bower",
+        "url": "https://github.com/nvbn/django-bower.git",
+        "stars": 518,
+        "created_at": "2013-06-11T23:38:18Z"
+    },
+    {
+        "name": "benhoyt/scandir",
+        "url": "https://github.com/benhoyt/scandir.git",
+        "stars": 517,
+        "created_at": "2013-05-13T08:14:57Z"
+    },
+    {
+        "name": "mikeorr/Unipath",
+        "url": "https://github.com/mikeorr/Unipath.git",
+        "stars": 516,
+        "created_at": "2013-01-28T04:38:28Z"
+    },
+    {
+        "name": "xolox/python-coloredlogs",
+        "url": "https://github.com/xolox/python-coloredlogs.git",
+        "stars": 516,
+        "created_at": "2013-05-30T18:57:12Z"
+    },
+    {
+        "name": "rockstor/rockstor-core",
+        "url": "https://github.com/rockstor/rockstor-core.git",
+        "stars": 515,
+        "created_at": "2013-03-31T21:41:57Z"
+    },
+    {
+        "name": "ChrisTruncer/PenTestScripts",
+        "url": "https://github.com/ChrisTruncer/PenTestScripts.git",
+        "stars": 514,
+        "created_at": "2013-09-16T20:31:15Z"
+    },
+    {
+        "name": "EiNSTeiN-/decompiler",
+        "url": "https://github.com/EiNSTeiN-/decompiler.git",
+        "stars": 514,
+        "created_at": "2013-05-16T01:30:47Z"
+    },
+    {
+        "name": "msiemens/PyGitUp",
+        "url": "https://github.com/msiemens/PyGitUp.git",
+        "stars": 514,
+        "created_at": "2013-01-16T19:39:48Z"
+    },
+    {
+        "name": "graphite-project/carbonate",
+        "url": "https://github.com/graphite-project/carbonate.git",
+        "stars": 513,
+        "created_at": "2013-11-22T17:37:43Z"
+    },
+    {
+        "name": "mxgxw/MFRC522-python",
+        "url": "https://github.com/mxgxw/MFRC522-python.git",
+        "stars": 513,
+        "created_at": "2013-07-01T06:14:21Z"
+    },
+    {
+        "name": "lclevy/firepwd",
+        "url": "https://github.com/lclevy/firepwd.git",
+        "stars": 508,
+        "created_at": "2013-08-27T17:58:11Z"
+    },
+    {
+        "name": "nestorsalceda/mamba",
+        "url": "https://github.com/nestorsalceda/mamba.git",
+        "stars": 508,
+        "created_at": "2013-03-12T18:53:42Z"
+    },
+    {
+        "name": "jplana/python-etcd",
+        "url": "https://github.com/jplana/python-etcd.git",
+        "stars": 508,
+        "created_at": "2013-09-17T22:15:41Z"
+    },
+    {
+        "name": "Quotation/LongestCocoa",
+        "url": "https://github.com/Quotation/LongestCocoa.git",
+        "stars": 507,
+        "created_at": "2013-12-24T14:14:19Z"
+    },
+    {
+        "name": "ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework",
+        "url": "https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework.git",
+        "stars": 507,
+        "created_at": "2013-09-05T12:02:03Z"
+    },
+    {
+        "name": "tategallery/collection",
+        "url": "https://github.com/tategallery/collection.git",
+        "stars": 506,
+        "created_at": "2013-09-16T16:05:35Z"
+    },
+    {
+        "name": "ionelmc/python-redis-lock",
+        "url": "https://github.com/ionelmc/python-redis-lock.git",
+        "stars": 505,
+        "created_at": "2013-10-24T17:57:29Z"
+    },
+    {
+        "name": "gluon/AbletonLive9_RemoteScripts",
+        "url": "https://github.com/gluon/AbletonLive9_RemoteScripts.git",
+        "stars": 503,
+        "created_at": "2013-03-03T21:45:28Z"
+    },
+    {
+        "name": "1aN0rmus/TekDefense-Automater",
+        "url": "https://github.com/1aN0rmus/TekDefense-Automater.git",
+        "stars": 503,
+        "created_at": "2013-11-12T03:25:40Z"
+    },
+    {
+        "name": "licenses/lice",
+        "url": "https://github.com/licenses/lice.git",
+        "stars": 502,
+        "created_at": "2013-01-18T20:04:40Z"
+    },
+    {
+        "name": "rm-hull/luma.led_matrix",
+        "url": "https://github.com/rm-hull/luma.led_matrix.git",
+        "stars": 501,
+        "created_at": "2013-06-29T20:38:12Z"
+    },
+    {
+        "name": "pkolt/design_patterns",
+        "url": "https://github.com/pkolt/design_patterns.git",
+        "stars": 500,
+        "created_at": "2013-07-29T16:21:46Z"
+    },
+    {
+        "name": "openeducat/openeducat_erp",
+        "url": "https://github.com/openeducat/openeducat_erp.git",
+        "stars": 499,
+        "created_at": "2013-05-02T17:02:54Z"
+    },
+    {
+        "name": "pyamg/pyamg",
+        "url": "https://github.com/pyamg/pyamg.git",
+        "stars": 499,
+        "created_at": "2013-06-22T14:24:24Z"
+    },
+    {
+        "name": "AlienVault-Labs/AlienVaultLabs",
+        "url": "https://github.com/AlienVault-Labs/AlienVaultLabs.git",
+        "stars": 498,
+        "created_at": "2013-07-25T17:44:22Z"
+    },
+    {
+        "name": "stevearc/pypicloud",
+        "url": "https://github.com/stevearc/pypicloud.git",
+        "stars": 498,
+        "created_at": "2013-09-30T18:22:32Z"
+    },
+    {
+        "name": "druid-io/pydruid",
+        "url": "https://github.com/druid-io/pydruid.git",
+        "stars": 496,
+        "created_at": "2013-08-28T00:52:10Z"
+    },
+    {
+        "name": "linklayer/pyvit",
+        "url": "https://github.com/linklayer/pyvit.git",
+        "stars": 492,
+        "created_at": "2013-11-03T21:37:58Z"
+    },
+    {
+        "name": "perrygeo/python-rasterstats",
+        "url": "https://github.com/perrygeo/python-rasterstats.git",
+        "stars": 491,
+        "created_at": "2013-09-18T06:44:29Z"
+    },
+    {
+        "name": "alecthomas/pawk",
+        "url": "https://github.com/alecthomas/pawk.git",
+        "stars": 490,
+        "created_at": "2013-02-09T23:48:22Z"
+    },
+    {
+        "name": "RDFLib/sparqlwrapper",
+        "url": "https://github.com/RDFLib/sparqlwrapper.git",
+        "stars": 490,
+        "created_at": "2013-10-12T16:45:13Z"
+    },
+    {
+        "name": "fonttools/fontbakery",
+        "url": "https://github.com/fonttools/fontbakery.git",
+        "stars": 490,
+        "created_at": "2013-02-16T07:47:27Z"
+    },
+    {
+        "name": "LindseyB/starwars-dot-gif",
+        "url": "https://github.com/LindseyB/starwars-dot-gif.git",
+        "stars": 489,
+        "created_at": "2013-09-29T04:24:37Z"
+    },
+    {
+        "name": "kz26/PyExcelerate",
+        "url": "https://github.com/kz26/PyExcelerate.git",
+        "stars": 489,
+        "created_at": "2013-04-12T22:48:05Z"
+    },
+    {
+        "name": "djaodjin/djaodjin-saas",
+        "url": "https://github.com/djaodjin/djaodjin-saas.git",
+        "stars": 488,
+        "created_at": "2013-05-06T22:43:32Z"
+    },
+    {
+        "name": "electron/libchromiumcontent",
+        "url": "https://github.com/electron/libchromiumcontent.git",
+        "stars": 486,
+        "created_at": "2013-02-28T13:48:40Z"
+    },
+    {
+        "name": "shannonturner/python-lessons",
+        "url": "https://github.com/shannonturner/python-lessons.git",
+        "stars": 486,
+        "created_at": "2013-10-20T13:15:33Z"
+    },
+    {
+        "name": "tilezen/vector-datasource",
+        "url": "https://github.com/tilezen/vector-datasource.git",
+        "stars": 486,
+        "created_at": "2013-10-09T15:54:45Z"
+    },
+    {
+        "name": "brechtm/rinohtype",
+        "url": "https://github.com/brechtm/rinohtype.git",
+        "stars": 486,
+        "created_at": "2013-10-27T11:36:06Z"
+    },
+    {
+        "name": "bramcohen/DissidentX",
+        "url": "https://github.com/bramcohen/DissidentX.git",
+        "stars": 485,
+        "created_at": "2013-01-14T22:18:09Z"
+    },
+    {
+        "name": "zalando/pg_view",
+        "url": "https://github.com/zalando/pg_view.git",
+        "stars": 485,
+        "created_at": "2013-07-15T15:11:37Z"
+    },
+    {
+        "name": "DexterInd/GrovePi",
+        "url": "https://github.com/DexterInd/GrovePi.git",
+        "stars": 483,
+        "created_at": "2013-10-04T09:12:30Z"
+    },
+    {
+        "name": "executablebooks/sphinx-autobuild",
+        "url": "https://github.com/executablebooks/sphinx-autobuild.git",
+        "stars": 483,
+        "created_at": "2013-12-25T17:09:56Z"
+    },
+    {
+        "name": "not-kennethreitz/elephant",
+        "url": "https://github.com/not-kennethreitz/elephant.git",
+        "stars": 481,
+        "created_at": "2013-03-26T02:17:12Z"
+    },
+    {
+        "name": "jgm/pandocfilters",
+        "url": "https://github.com/jgm/pandocfilters.git",
+        "stars": 481,
+        "created_at": "2013-09-12T02:35:34Z"
+    },
+    {
+        "name": "jasonrbriggs/stomp.py",
+        "url": "https://github.com/jasonrbriggs/stomp.py.git",
+        "stars": 480,
+        "created_at": "2013-09-11T22:38:36Z"
+    },
+    {
+        "name": "codalab/codalab-competitions",
+        "url": "https://github.com/codalab/codalab-competitions.git",
+        "stars": 479,
+        "created_at": "2013-06-07T18:23:37Z"
+    },
+    {
+        "name": "savon-noir/python-libnmap",
+        "url": "https://github.com/savon-noir/python-libnmap.git",
+        "stars": 479,
+        "created_at": "2013-04-08T21:46:31Z"
+    },
+    {
+        "name": "brycedrennan/eulerian-magnification",
+        "url": "https://github.com/brycedrennan/eulerian-magnification.git",
+        "stars": 478,
+        "created_at": "2013-04-07T21:44:20Z"
+    },
+    {
+        "name": "lincolnloop/salmon",
+        "url": "https://github.com/lincolnloop/salmon.git",
+        "stars": 478,
+        "created_at": "2013-04-24T04:19:51Z"
+    },
+    {
+        "name": "tildaslash/RatticWeb",
+        "url": "https://github.com/tildaslash/RatticWeb.git",
+        "stars": 477,
+        "created_at": "2013-02-17T03:05:42Z"
+    },
+    {
+        "name": "voronind/awesome-slugify",
+        "url": "https://github.com/voronind/awesome-slugify.git",
+        "stars": 476,
+        "created_at": "2013-10-19T02:58:27Z"
+    },
+    {
+        "name": "ethereum/tests",
+        "url": "https://github.com/ethereum/tests.git",
+        "stars": 475,
+        "created_at": "2013-12-31T02:09:03Z"
+    },
+    {
+        "name": "pictuga/morss",
+        "url": "https://github.com/pictuga/morss.git",
+        "stars": 471,
+        "created_at": "2013-02-25T15:16:27Z"
+    },
+    {
+        "name": "asciidoc-py/asciidoc-py2",
+        "url": "https://github.com/asciidoc-py/asciidoc-py2.git",
+        "stars": 470,
+        "created_at": "2013-12-21T15:53:11Z"
+    },
+    {
+        "name": "PyCQA/pep8-naming",
+        "url": "https://github.com/PyCQA/pep8-naming.git",
+        "stars": 469,
+        "created_at": "2013-02-09T18:32:52Z"
+    },
+    {
+        "name": "mihaip/readerisdead",
+        "url": "https://github.com/mihaip/readerisdead.git",
+        "stars": 467,
+        "created_at": "2013-03-19T04:33:23Z"
+    },
+    {
+        "name": "daimajia/bleed-baidu-white",
+        "url": "https://github.com/daimajia/bleed-baidu-white.git",
+        "stars": 466,
+        "created_at": "2013-06-07T02:41:11Z"
+    },
+    {
+        "name": "python-acoustics/python-acoustics",
+        "url": "https://github.com/python-acoustics/python-acoustics.git",
+        "stars": 466,
+        "created_at": "2013-11-26T07:41:16Z"
+    },
+    {
+        "name": "amol-mandhane/htmlPy",
+        "url": "https://github.com/amol-mandhane/htmlPy.git",
+        "stars": 464,
+        "created_at": "2013-06-13T16:17:07Z"
+    },
+    {
+        "name": "dit/dit",
+        "url": "https://github.com/dit/dit.git",
+        "stars": 462,
+        "created_at": "2013-09-29T23:03:51Z"
+    },
+    {
+        "name": "SublimeLinter/SublimeLinter-jshint",
+        "url": "https://github.com/SublimeLinter/SublimeLinter-jshint.git",
+        "stars": 462,
+        "created_at": "2013-12-15T21:39:56Z"
+    },
+    {
+        "name": "scalingexcellence/scrapybook",
+        "url": "https://github.com/scalingexcellence/scrapybook.git",
+        "stars": 460,
+        "created_at": "2013-08-29T08:08:11Z"
+    },
+    {
+        "name": "onekey-sec/ubi_reader",
+        "url": "https://github.com/onekey-sec/ubi_reader.git",
+        "stars": 460,
+        "created_at": "2013-11-12T10:23:46Z"
+    },
+    {
+        "name": "datalad/datalad",
+        "url": "https://github.com/datalad/datalad.git",
+        "stars": 459,
+        "created_at": "2013-11-01T19:40:08Z"
+    },
+    {
+        "name": "zedshaw/fuqit",
+        "url": "https://github.com/zedshaw/fuqit.git",
+        "stars": 458,
+        "created_at": "2013-07-13T19:59:08Z"
+    },
+    {
+        "name": "NullHypothesis/exitmap",
+        "url": "https://github.com/NullHypothesis/exitmap.git",
+        "stars": 458,
+        "created_at": "2013-11-21T15:41:22Z"
+    },
+    {
+        "name": "patrys/httmock",
+        "url": "https://github.com/patrys/httmock.git",
+        "stars": 458,
+        "created_at": "2013-03-19T23:35:33Z"
+    },
+    {
+        "name": "Hawstein/PyMinecraft",
+        "url": "https://github.com/Hawstein/PyMinecraft.git",
+        "stars": 456,
+        "created_at": "2013-04-01T06:18:13Z"
+    },
+    {
+        "name": "treyhunner/names",
+        "url": "https://github.com/treyhunner/names.git",
+        "stars": 455,
+        "created_at": "2013-02-15T00:08:37Z"
+    },
+    {
+        "name": "attwad/python-osc",
+        "url": "https://github.com/attwad/python-osc.git",
+        "stars": 455,
+        "created_at": "2013-07-10T11:44:16Z"
+    },
+    {
+        "name": "snwh/moka-icon-theme",
+        "url": "https://github.com/snwh/moka-icon-theme.git",
+        "stars": 453,
+        "created_at": "2013-05-24T04:57:40Z"
+    },
+    {
+        "name": "ajinabraham/Xenotix-Python-Keylogger",
+        "url": "https://github.com/ajinabraham/Xenotix-Python-Keylogger.git",
+        "stars": 453,
+        "created_at": "2013-04-30T14:50:59Z"
+    },
+    {
+        "name": "barrucadu/markov",
+        "url": "https://github.com/barrucadu/markov.git",
+        "stars": 452,
+        "created_at": "2013-12-06T23:04:44Z"
+    },
+    {
+        "name": "Hexxeh/libpebble",
+        "url": "https://github.com/Hexxeh/libpebble.git",
+        "stars": 450,
+        "created_at": "2013-02-06T03:16:16Z"
+    },
+    {
+        "name": "Adastra-thw/pyHacks",
+        "url": "https://github.com/Adastra-thw/pyHacks.git",
+        "stars": 450,
+        "created_at": "2013-12-19T14:28:28Z"
+    },
+    {
+        "name": "Stiivi/bubbles",
+        "url": "https://github.com/Stiivi/bubbles.git",
+        "stars": 449,
+        "created_at": "2013-05-02T16:50:08Z"
+    },
+    {
+        "name": "arthurdejong/python-stdnum",
+        "url": "https://github.com/arthurdejong/python-stdnum.git",
+        "stars": 449,
+        "created_at": "2013-04-26T21:46:00Z"
+    },
+    {
+        "name": "paulgb/runipy",
+        "url": "https://github.com/paulgb/runipy.git",
+        "stars": 448,
+        "created_at": "2013-09-15T16:38:39Z"
+    },
+    {
+        "name": "hjwp/Book-TDD-Web-Dev-Python",
+        "url": "https://github.com/hjwp/Book-TDD-Web-Dev-Python.git",
+        "stars": 448,
+        "created_at": "2013-07-22T07:53:49Z"
+    },
+    {
+        "name": "michaelliao/learn-python",
+        "url": "https://github.com/michaelliao/learn-python.git",
+        "stars": 448,
+        "created_at": "2013-11-28T05:36:42Z"
+    },
+    {
+        "name": "vklochan/python-logstash",
+        "url": "https://github.com/vklochan/python-logstash.git",
+        "stars": 447,
+        "created_at": "2013-05-01T19:29:14Z"
+    },
+    {
+        "name": "noxdafox/pebble",
+        "url": "https://github.com/noxdafox/pebble.git",
+        "stars": 446,
+        "created_at": "2013-10-16T05:56:17Z"
+    },
+    {
+        "name": "openedx/XBlock",
+        "url": "https://github.com/openedx/XBlock.git",
+        "stars": 446,
+        "created_at": "2013-03-11T18:35:36Z"
+    },
+    {
+        "name": "Gifts/Rogue-MySql-Server",
+        "url": "https://github.com/Gifts/Rogue-MySql-Server.git",
+        "stars": 446,
+        "created_at": "2013-09-15T09:50:17Z"
+    },
+    {
+        "name": "UDST/urbansim",
+        "url": "https://github.com/UDST/urbansim.git",
+        "stars": 445,
+        "created_at": "2013-08-15T06:56:02Z"
+    },
+    {
+        "name": "scikit-learn-contrib/py-earth",
+        "url": "https://github.com/scikit-learn-contrib/py-earth.git",
+        "stars": 445,
+        "created_at": "2013-02-11T01:57:22Z"
+    },
+    {
+        "name": "psf/cachecontrol",
+        "url": "https://github.com/psf/cachecontrol.git",
+        "stars": 443,
+        "created_at": "2013-06-18T05:55:43Z"
+    },
+    {
+        "name": "pavlov99/json-rpc",
+        "url": "https://github.com/pavlov99/json-rpc.git",
+        "stars": 442,
+        "created_at": "2013-09-30T09:36:07Z"
+    },
+    {
+        "name": "mkorpela/pabot",
+        "url": "https://github.com/mkorpela/pabot.git",
+        "stars": 442,
+        "created_at": "2013-12-31T13:55:54Z"
+    },
+    {
+        "name": "smiley/steamapi",
+        "url": "https://github.com/smiley/steamapi.git",
+        "stars": 442,
+        "created_at": "2013-09-06T14:16:54Z"
+    },
+    {
+        "name": "enkore/i3pystatus",
+        "url": "https://github.com/enkore/i3pystatus.git",
+        "stars": 440,
+        "created_at": "2013-02-11T01:01:15Z"
+    },
+    {
+        "name": "hendrix/hendrix",
+        "url": "https://github.com/hendrix/hendrix.git",
+        "stars": 439,
+        "created_at": "2013-08-14T21:06:32Z"
+    },
+    {
+        "name": "linsomniac/python-memcached",
+        "url": "https://github.com/linsomniac/python-memcached.git",
+        "stars": 438,
+        "created_at": "2013-03-27T10:51:27Z"
+    },
+    {
+        "name": "foospidy/HoneyPy",
+        "url": "https://github.com/foospidy/HoneyPy.git",
+        "stars": 438,
+        "created_at": "2013-11-17T00:53:04Z"
+    },
+    {
+        "name": "Ghirensics/ghiro",
+        "url": "https://github.com/Ghirensics/ghiro.git",
+        "stars": 437,
+        "created_at": "2013-10-02T09:08:31Z"
+    },
+    {
+        "name": "SintefManufacturing/python-urx",
+        "url": "https://github.com/SintefManufacturing/python-urx.git",
+        "stars": 434,
+        "created_at": "2013-03-23T10:33:39Z"
+    },
+    {
+        "name": "pydanny/cookiecutter-djangopackage",
+        "url": "https://github.com/pydanny/cookiecutter-djangopackage.git",
+        "stars": 433,
+        "created_at": "2013-08-12T12:28:50Z"
+    },
+    {
+        "name": "sdvcrx/pan-baidu-download",
+        "url": "https://github.com/sdvcrx/pan-baidu-download.git",
+        "stars": 433,
+        "created_at": "2013-08-21T14:04:00Z"
+    },
+    {
+        "name": "openstack/ironic",
+        "url": "https://github.com/openstack/ironic.git",
+        "stars": 432,
+        "created_at": "2013-05-14T22:28:24Z"
+    },
+    {
+        "name": "firedrakeproject/firedrake",
+        "url": "https://github.com/firedrakeproject/firedrake.git",
+        "stars": 432,
+        "created_at": "2013-10-07T13:07:44Z"
+    },
+    {
+        "name": "tlocke/pg8000",
+        "url": "https://github.com/tlocke/pg8000.git",
+        "stars": 432,
+        "created_at": "2013-06-18T19:54:47Z"
+    },
+    {
+        "name": "VOLTTRON/volttron",
+        "url": "https://github.com/VOLTTRON/volttron.git",
+        "stars": 431,
+        "created_at": "2013-11-07T02:07:46Z"
+    },
+    {
+        "name": "mpastell/Pweave",
+        "url": "https://github.com/mpastell/Pweave.git",
+        "stars": 431,
+        "created_at": "2013-05-15T06:42:59Z"
+    },
+    {
+        "name": "dcowden/cadquery",
+        "url": "https://github.com/dcowden/cadquery.git",
+        "stars": 431,
+        "created_at": "2013-04-14T22:13:51Z"
+    },
+    {
+        "name": "fbngrm/Matroschka",
+        "url": "https://github.com/fbngrm/Matroschka.git",
+        "stars": 430,
+        "created_at": "2013-12-04T18:15:52Z"
+    },
+    {
+        "name": "zzzeek/alembic",
+        "url": "https://github.com/zzzeek/alembic.git",
+        "stars": 430,
+        "created_at": "2013-05-22T21:37:41Z"
+    },
+    {
+        "name": "mesnilgr/is13",
+        "url": "https://github.com/mesnilgr/is13.git",
+        "stars": 429,
+        "created_at": "2013-09-15T22:10:54Z"
+    },
+    {
+        "name": "shuky19/sublime_debugger",
+        "url": "https://github.com/shuky19/sublime_debugger.git",
+        "stars": 429,
+        "created_at": "2013-12-04T15:45:09Z"
+    },
+    {
+        "name": "andresriancho/nimbostratus",
+        "url": "https://github.com/andresriancho/nimbostratus.git",
+        "stars": 429,
+        "created_at": "2013-08-20T16:53:24Z"
+    },
+    {
+        "name": "vpelletier/pprofile",
+        "url": "https://github.com/vpelletier/pprofile.git",
+        "stars": 427,
+        "created_at": "2013-04-21T13:22:37Z"
+    },
+    {
+        "name": "underyx/flask-redis",
+        "url": "https://github.com/underyx/flask-redis.git",
+        "stars": 427,
+        "created_at": "2013-06-23T11:32:18Z"
+    },
+    {
+        "name": "blinktrade/bitex",
+        "url": "https://github.com/blinktrade/bitex.git",
+        "stars": 426,
+        "created_at": "2013-04-21T06:54:54Z"
+    },
+    {
+        "name": "redhat-openstack/packstack",
+        "url": "https://github.com/redhat-openstack/packstack.git",
+        "stars": 426,
+        "created_at": "2013-01-11T22:25:09Z"
+    },
+    {
+        "name": "MeetMe/newrelic-plugin-agent",
+        "url": "https://github.com/MeetMe/newrelic-plugin-agent.git",
+        "stars": 425,
+        "created_at": "2013-06-18T23:50:20Z"
+    },
+    {
+        "name": "simpeg/simpeg",
+        "url": "https://github.com/simpeg/simpeg.git",
+        "stars": 424,
+        "created_at": "2013-11-26T19:46:36Z"
+    },
+    {
+        "name": "KvasirSecurity/Kvasir",
+        "url": "https://github.com/KvasirSecurity/Kvasir.git",
+        "stars": 424,
+        "created_at": "2013-09-17T22:55:05Z"
+    },
+    {
+        "name": "ZeevG/python-forecast.io",
+        "url": "https://github.com/ZeevG/python-forecast.io.git",
+        "stars": 423,
+        "created_at": "2013-04-24T03:56:59Z"
+    },
+    {
+        "name": "charnley/rmsd",
+        "url": "https://github.com/charnley/rmsd.git",
+        "stars": 422,
+        "created_at": "2013-04-24T22:46:14Z"
+    },
+    {
+        "name": "yuce/pyswip",
+        "url": "https://github.com/yuce/pyswip.git",
+        "stars": 422,
+        "created_at": "2013-11-09T04:39:36Z"
+    },
+    {
+        "name": "CIRCL/Circlean",
+        "url": "https://github.com/CIRCL/Circlean.git",
+        "stars": 421,
+        "created_at": "2013-01-16T14:21:12Z"
+    },
+    {
+        "name": "jorvis/biocode",
+        "url": "https://github.com/jorvis/biocode.git",
+        "stars": 421,
+        "created_at": "2013-08-22T15:37:10Z"
+    },
+    {
+        "name": "JamezQ/Palaver",
+        "url": "https://github.com/JamezQ/Palaver.git",
+        "stars": 421,
+        "created_at": "2013-03-17T09:07:37Z"
+    },
+    {
+        "name": "uqfoundation/mystic",
+        "url": "https://github.com/uqfoundation/mystic.git",
+        "stars": 421,
+        "created_at": "2013-06-28T06:25:23Z"
+    },
+    {
+        "name": "syllog1sm/redshift",
+        "url": "https://github.com/syllog1sm/redshift.git",
+        "stars": 420,
+        "created_at": "2013-01-31T10:24:30Z"
+    },
+    {
+        "name": "isislovecruft/python-gnupg",
+        "url": "https://github.com/isislovecruft/python-gnupg.git",
+        "stars": 419,
+        "created_at": "2013-02-13T19:51:10Z"
+    },
+    {
+        "name": "wrye-bash/wrye-bash",
+        "url": "https://github.com/wrye-bash/wrye-bash.git",
+        "stars": 418,
+        "created_at": "2013-07-04T13:41:00Z"
+    },
+    {
+        "name": "doorstop-dev/doorstop",
+        "url": "https://github.com/doorstop-dev/doorstop.git",
+        "stars": 418,
+        "created_at": "2013-04-01T03:29:26Z"
+    },
+    {
+        "name": "IQAndreas/github-issues-import",
+        "url": "https://github.com/IQAndreas/github-issues-import.git",
+        "stars": 417,
+        "created_at": "2013-09-12T22:26:47Z"
+    },
+    {
+        "name": "spencergibb/battleschool",
+        "url": "https://github.com/spencergibb/battleschool.git",
+        "stars": 417,
+        "created_at": "2013-09-07T00:02:47Z"
+    },
+    {
+        "name": "csu/export-saved-reddit",
+        "url": "https://github.com/csu/export-saved-reddit.git",
+        "stars": 417,
+        "created_at": "2013-08-29T16:53:19Z"
+    },
+    {
+        "name": "sesh/piprot",
+        "url": "https://github.com/sesh/piprot.git",
+        "stars": 416,
+        "created_at": "2013-02-26T04:30:42Z"
+    },
+    {
+        "name": "googlearchive/appengine-flask-skeleton",
+        "url": "https://github.com/googlearchive/appengine-flask-skeleton.git",
+        "stars": 416,
+        "created_at": "2013-11-15T01:50:52Z"
+    },
+    {
+        "name": "mdshw5/pyfaidx",
+        "url": "https://github.com/mdshw5/pyfaidx.git",
+        "stars": 416,
+        "created_at": "2013-09-12T19:02:32Z"
+    },
+    {
+        "name": "southkorea/southkorea-maps",
+        "url": "https://github.com/southkorea/southkorea-maps.git",
+        "stars": 415,
+        "created_at": "2013-02-12T09:44:44Z"
+    },
+    {
+        "name": "areski/django-nvd3",
+        "url": "https://github.com/areski/django-nvd3.git",
+        "stars": 415,
+        "created_at": "2013-04-03T14:26:18Z"
+    },
+    {
+        "name": "fabric-bolt/fabric-bolt",
+        "url": "https://github.com/fabric-bolt/fabric-bolt.git",
+        "stars": 415,
+        "created_at": "2013-09-20T22:25:39Z"
+    },
+    {
+        "name": "anantshri/svn-extractor",
+        "url": "https://github.com/anantshri/svn-extractor.git",
+        "stars": 414,
+        "created_at": "2013-03-25T06:49:52Z"
+    },
+    {
+        "name": "aio-libs/aiozmq",
+        "url": "https://github.com/aio-libs/aiozmq.git",
+        "stars": 414,
+        "created_at": "2013-09-05T05:28:42Z"
+    },
+    {
+        "name": "hpdang/pdfinator",
+        "url": "https://github.com/hpdang/pdfinator.git",
+        "stars": 413,
+        "created_at": "2013-03-18T08:12:50Z"
+    },
+    {
+        "name": "vmware-archive/halite",
+        "url": "https://github.com/vmware-archive/halite.git",
+        "stars": 413,
+        "created_at": "2013-07-26T21:21:43Z"
+    },
+    {
+        "name": "esrlabs/git-repo",
+        "url": "https://github.com/esrlabs/git-repo.git",
+        "stars": 413,
+        "created_at": "2013-03-20T08:29:45Z"
+    },
+    {
+        "name": "mhagger/git-when-merged",
+        "url": "https://github.com/mhagger/git-when-merged.git",
+        "stars": 412,
+        "created_at": "2013-02-02T06:08:12Z"
+    },
+    {
+        "name": "ideoforms/pylive",
+        "url": "https://github.com/ideoforms/pylive.git",
+        "stars": 412,
+        "created_at": "2013-08-08T16:11:26Z"
+    },
+    {
+        "name": "girder/girder",
+        "url": "https://github.com/girder/girder.git",
+        "stars": 411,
+        "created_at": "2013-08-02T23:55:54Z"
+    },
+    {
+        "name": "mattmakai/underwear",
+        "url": "https://github.com/mattmakai/underwear.git",
+        "stars": 411,
+        "created_at": "2013-12-16T17:24:38Z"
+    },
+    {
+        "name": "antonagestam/collectfast",
+        "url": "https://github.com/antonagestam/collectfast.git",
+        "stars": 410,
+        "created_at": "2013-05-14T16:44:26Z"
+    },
+    {
+        "name": "graydon/bors",
+        "url": "https://github.com/graydon/bors.git",
+        "stars": 407,
+        "created_at": "2013-02-02T01:50:21Z"
+    },
+    {
+        "name": "skoczen/will",
+        "url": "https://github.com/skoczen/will.git",
+        "stars": 406,
+        "created_at": "2013-12-03T17:08:08Z"
+    },
+    {
+        "name": "fablabnbg/inkscape-silhouette",
+        "url": "https://github.com/fablabnbg/inkscape-silhouette.git",
+        "stars": 406,
+        "created_at": "2013-05-09T18:36:25Z"
+    },
+    {
+        "name": "xmindltd/xmind-sdk-python",
+        "url": "https://github.com/xmindltd/xmind-sdk-python.git",
+        "stars": 405,
+        "created_at": "2013-07-04T07:58:07Z"
+    },
+    {
+        "name": "qgis/QGIS-Documentation",
+        "url": "https://github.com/qgis/QGIS-Documentation.git",
+        "stars": 403,
+        "created_at": "2013-02-27T21:54:56Z"
+    },
+    {
+        "name": "recamshak/django-debug-panel",
+        "url": "https://github.com/recamshak/django-debug-panel.git",
+        "stars": 403,
+        "created_at": "2013-06-04T11:45:35Z"
+    },
+    {
+        "name": "termius/termius-cli",
+        "url": "https://github.com/termius/termius-cli.git",
+        "stars": 402,
+        "created_at": "2013-06-24T11:00:03Z"
+    },
+    {
+        "name": "erickrf/nlpnet",
+        "url": "https://github.com/erickrf/nlpnet.git",
+        "stars": 402,
+        "created_at": "2013-02-26T03:36:22Z"
+    },
+    {
+        "name": "csscomb/sublime-csscomb",
+        "url": "https://github.com/csscomb/sublime-csscomb.git",
+        "stars": 399,
+        "created_at": "2013-12-31T13:13:30Z"
+    },
+    {
+        "name": "pixelb/crudini",
+        "url": "https://github.com/pixelb/crudini.git",
+        "stars": 399,
+        "created_at": "2013-01-26T00:39:08Z"
+    },
+    {
+        "name": "JiYou/openstack",
+        "url": "https://github.com/JiYou/openstack.git",
+        "stars": 398,
+        "created_at": "2013-12-16T09:23:15Z"
+    },
+    {
+        "name": "caseman/noise",
+        "url": "https://github.com/caseman/noise.git",
+        "stars": 397,
+        "created_at": "2013-02-10T06:09:50Z"
+    },
+    {
+        "name": "morepath/morepath",
+        "url": "https://github.com/morepath/morepath.git",
+        "stars": 396,
+        "created_at": "2013-10-12T12:00:05Z"
+    },
+    {
+        "name": "mnick/scikit-tensor",
+        "url": "https://github.com/mnick/scikit-tensor.git",
+        "stars": 396,
+        "created_at": "2013-09-18T10:31:38Z"
+    },
+    {
+        "name": "ggcarrots/django-carrots",
+        "url": "https://github.com/ggcarrots/django-carrots.git",
+        "stars": 396,
+        "created_at": "2013-05-14T09:45:50Z"
+    },
+    {
+        "name": "mnooner256/pyqrcode",
+        "url": "https://github.com/mnooner256/pyqrcode.git",
+        "stars": 396,
+        "created_at": "2013-06-07T14:33:38Z"
+    },
+    {
+        "name": "progrium/keychain.io",
+        "url": "https://github.com/progrium/keychain.io.git",
+        "stars": 395,
+        "created_at": "2013-01-03T03:55:04Z"
+    },
+    {
+        "name": "gnuradio/pybombs",
+        "url": "https://github.com/gnuradio/pybombs.git",
+        "stars": 395,
+        "created_at": "2013-06-03T14:47:47Z"
+    },
+    {
+        "name": "stephenmcd/drum",
+        "url": "https://github.com/stephenmcd/drum.git",
+        "stars": 394,
+        "created_at": "2013-04-08T08:18:50Z"
+    },
+    {
+        "name": "dedupeio/csvdedupe",
+        "url": "https://github.com/dedupeio/csvdedupe.git",
+        "stars": 394,
+        "created_at": "2013-07-11T14:23:33Z"
+    },
+    {
+        "name": "PMEAL/OpenPNM",
+        "url": "https://github.com/PMEAL/OpenPNM.git",
+        "stars": 394,
+        "created_at": "2013-07-25T20:32:47Z"
+    },
+    {
+        "name": "joepie91/python-whois",
+        "url": "https://github.com/joepie91/python-whois.git",
+        "stars": 394,
+        "created_at": "2013-01-30T15:34:02Z"
+    },
+    {
+        "name": "hakanzy/django-system-monitor",
+        "url": "https://github.com/hakanzy/django-system-monitor.git",
+        "stars": 393,
+        "created_at": "2013-05-28T06:46:21Z"
+    },
+    {
+        "name": "smiley-debugger/smiley",
+        "url": "https://github.com/smiley-debugger/smiley.git",
+        "stars": 391,
+        "created_at": "2013-05-25T14:25:37Z"
+    },
+    {
+        "name": "danthedeckie/simpleeval",
+        "url": "https://github.com/danthedeckie/simpleeval.git",
+        "stars": 391,
+        "created_at": "2013-12-03T01:02:54Z"
+    },
+    {
+        "name": "mgrouchy/django-stronghold",
+        "url": "https://github.com/mgrouchy/django-stronghold.git",
+        "stars": 391,
+        "created_at": "2013-01-29T02:30:21Z"
+    },
+    {
+        "name": "sciunto-org/python-bibtexparser",
+        "url": "https://github.com/sciunto-org/python-bibtexparser.git",
+        "stars": 391,
+        "created_at": "2013-01-05T22:07:21Z"
+    },
+    {
+        "name": "jamesoff/simplemonitor",
+        "url": "https://github.com/jamesoff/simplemonitor.git",
+        "stars": 390,
+        "created_at": "2013-07-30T12:27:25Z"
+    },
+    {
+        "name": "grow/grow",
+        "url": "https://github.com/grow/grow.git",
+        "stars": 389,
+        "created_at": "2013-09-17T15:51:40Z"
+    },
+    {
+        "name": "cloudtools/awacs",
+        "url": "https://github.com/cloudtools/awacs.git",
+        "stars": 389,
+        "created_at": "2013-03-27T20:16:27Z"
+    },
+    {
+        "name": "karan/HackerNewsAPI",
+        "url": "https://github.com/karan/HackerNewsAPI.git",
+        "stars": 388,
+        "created_at": "2013-08-18T04:00:52Z"
+    },
+    {
+        "name": "QTodoTxt/QTodoTxt",
+        "url": "https://github.com/QTodoTxt/QTodoTxt.git",
+        "stars": 388,
+        "created_at": "2013-05-20T06:56:51Z"
+    },
+    {
+        "name": "steeve/xbmctorrent",
+        "url": "https://github.com/steeve/xbmctorrent.git",
+        "stars": 387,
+        "created_at": "2013-08-18T00:16:24Z"
+    },
+    {
+        "name": "zTrix/zio",
+        "url": "https://github.com/zTrix/zio.git",
+        "stars": 386,
+        "created_at": "2013-11-25T10:19:33Z"
+    },
+    {
+        "name": "vitorfs/parsifal",
+        "url": "https://github.com/vitorfs/parsifal.git",
+        "stars": 386,
+        "created_at": "2013-07-25T00:27:21Z"
+    },
+    {
+        "name": "obfuscurity/synthesize",
+        "url": "https://github.com/obfuscurity/synthesize.git",
+        "stars": 384,
+        "created_at": "2013-10-21T01:00:21Z"
+    },
+    {
+        "name": "toxinu/pyhn",
+        "url": "https://github.com/toxinu/pyhn.git",
+        "stars": 384,
+        "created_at": "2013-01-03T14:33:17Z"
+    },
+    {
+        "name": "ckoepp/TwitterSearch",
+        "url": "https://github.com/ckoepp/TwitterSearch.git",
+        "stars": 383,
+        "created_at": "2013-02-20T20:45:05Z"
+    },
+    {
+        "name": "jcgregorio/httplib2",
+        "url": "https://github.com/jcgregorio/httplib2.git",
+        "stars": 383,
+        "created_at": "2013-02-26T22:04:09Z"
+    },
+    {
+        "name": "PyFR/PyFR",
+        "url": "https://github.com/PyFR/PyFR.git",
+        "stars": 382,
+        "created_at": "2013-01-16T19:53:24Z"
+    },
+    {
+        "name": "barseghyanartur/django-dash",
+        "url": "https://github.com/barseghyanartur/django-dash.git",
+        "stars": 381,
+        "created_at": "2013-10-30T01:19:13Z"
+    },
+    {
+        "name": "MarkHedleyJones/dmenu-extended",
+        "url": "https://github.com/MarkHedleyJones/dmenu-extended.git",
+        "stars": 381,
+        "created_at": "2013-11-28T18:37:01Z"
+    },
+    {
+        "name": "tonysimpson/nanomsg-python",
+        "url": "https://github.com/tonysimpson/nanomsg-python.git",
+        "stars": 379,
+        "created_at": "2013-08-21T12:52:49Z"
+    },
+    {
+        "name": "tomakehurst/saboteur",
+        "url": "https://github.com/tomakehurst/saboteur.git",
+        "stars": 378,
+        "created_at": "2013-12-01T22:26:53Z"
+    },
+    {
+        "name": "argilo/sdr-examples",
+        "url": "https://github.com/argilo/sdr-examples.git",
+        "stars": 377,
+        "created_at": "2013-12-30T17:56:45Z"
+    },
+    {
+        "name": "adrienverge/PhotoCollage",
+        "url": "https://github.com/adrienverge/PhotoCollage.git",
+        "stars": 376,
+        "created_at": "2013-11-21T03:32:32Z"
+    },
+    {
+        "name": "hebruce110/BashShell",
+        "url": "https://github.com/hebruce110/BashShell.git",
+        "stars": 376,
+        "created_at": "2013-12-19T03:23:42Z"
+    },
+    {
+        "name": "jazzband/django-embed-video",
+        "url": "https://github.com/jazzband/django-embed-video.git",
+        "stars": 374,
+        "created_at": "2013-06-01T13:03:00Z"
+    },
+    {
+        "name": "novoid/lazyblorg",
+        "url": "https://github.com/novoid/lazyblorg.git",
+        "stars": 374,
+        "created_at": "2013-10-19T16:59:49Z"
+    },
+    {
+        "name": "jvns/git-workflow",
+        "url": "https://github.com/jvns/git-workflow.git",
+        "stars": 373,
+        "created_at": "2013-11-15T18:52:22Z"
+    },
+    {
+        "name": "princehaku/pyrailgun",
+        "url": "https://github.com/princehaku/pyrailgun.git",
+        "stars": 373,
+        "created_at": "2013-02-25T15:56:54Z"
+    },
+    {
+        "name": "benoitc/offset",
+        "url": "https://github.com/benoitc/offset.git",
+        "stars": 373,
+        "created_at": "2013-08-28T13:06:08Z"
+    },
+    {
+        "name": "0x0d/dhtfck",
+        "url": "https://github.com/0x0d/dhtfck.git",
+        "stars": 373,
+        "created_at": "2013-04-01T06:49:27Z"
+    },
+    {
+        "name": "cholcombe973/autodock",
+        "url": "https://github.com/cholcombe973/autodock.git",
+        "stars": 371,
+        "created_at": "2013-11-10T19:37:35Z"
+    },
+    {
+        "name": "faucamp/python-gsmmodem",
+        "url": "https://github.com/faucamp/python-gsmmodem.git",
+        "stars": 371,
+        "created_at": "2013-02-13T13:59:34Z"
+    },
+    {
+        "name": "pysimplesoap/pysimplesoap",
+        "url": "https://github.com/pysimplesoap/pysimplesoap.git",
+        "stars": 371,
+        "created_at": "2013-06-02T11:09:05Z"
+    },
+    {
+        "name": "xbmc-adult/xbmc-adult",
+        "url": "https://github.com/xbmc-adult/xbmc-adult.git",
+        "stars": 370,
+        "created_at": "2013-05-02T15:11:49Z"
+    },
+    {
+        "name": "GoogleCloudPlatform/compute-image-packages",
+        "url": "https://github.com/GoogleCloudPlatform/compute-image-packages.git",
+        "stars": 369,
+        "created_at": "2013-08-02T20:52:04Z"
+    },
+    {
+        "name": "meibenjin/GoogleSearchCrawler",
+        "url": "https://github.com/meibenjin/GoogleSearchCrawler.git",
+        "stars": 368,
+        "created_at": "2013-03-29T15:35:49Z"
+    },
+    {
+        "name": "ellisonleao/pyshorteners",
+        "url": "https://github.com/ellisonleao/pyshorteners.git",
+        "stars": 368,
+        "created_at": "2013-09-30T18:33:24Z"
+    },
+    {
+        "name": "fusionbox/django-authtools",
+        "url": "https://github.com/fusionbox/django-authtools.git",
+        "stars": 368,
+        "created_at": "2013-05-20T23:19:33Z"
+    },
+    {
+        "name": "leeroybrun/glacier-vault-remove",
+        "url": "https://github.com/leeroybrun/glacier-vault-remove.git",
+        "stars": 368,
+        "created_at": "2013-07-02T05:59:20Z"
+    },
+    {
+        "name": "cedricbonhomme/newspipe",
+        "url": "https://github.com/cedricbonhomme/newspipe.git",
+        "stars": 367,
+        "created_at": "2013-12-02T20:24:52Z"
+    },
+    {
+        "name": "lavr/python-emails",
+        "url": "https://github.com/lavr/python-emails.git",
+        "stars": 367,
+        "created_at": "2013-08-14T18:53:57Z"
+    },
+    {
+        "name": "lilydjwg/nvchecker",
+        "url": "https://github.com/lilydjwg/nvchecker.git",
+        "stars": 367,
+        "created_at": "2013-05-26T07:02:08Z"
+    },
+    {
+        "name": "vertica/vertica-python",
+        "url": "https://github.com/vertica/vertica-python.git",
+        "stars": 366,
+        "created_at": "2013-08-07T18:25:15Z"
+    },
+    {
+        "name": "sciguy14/Remote-Wake-Sleep-On-LAN-Server",
+        "url": "https://github.com/sciguy14/Remote-Wake-Sleep-On-LAN-Server.git",
+        "stars": 366,
+        "created_at": "2013-07-14T02:56:08Z"
+    },
+    {
+        "name": "jenskutilek/sudo-font",
+        "url": "https://github.com/jenskutilek/sudo-font.git",
+        "stars": 366,
+        "created_at": "2013-09-11T18:27:15Z"
+    },
+    {
+        "name": "LibreOffice/dictionaries",
+        "url": "https://github.com/LibreOffice/dictionaries.git",
+        "stars": 365,
+        "created_at": "2013-10-31T16:54:54Z"
+    },
+    {
+        "name": "benknight/hue-alfred-workflow",
+        "url": "https://github.com/benknight/hue-alfred-workflow.git",
+        "stars": 365,
+        "created_at": "2013-06-18T18:33:32Z"
+    },
+    {
+        "name": "ansible/tower-cli",
+        "url": "https://github.com/ansible/tower-cli.git",
+        "stars": 364,
+        "created_at": "2013-08-24T15:19:04Z"
+    },
+    {
+        "name": "debugger22/Jarvis",
+        "url": "https://github.com/debugger22/Jarvis.git",
+        "stars": 363,
+        "created_at": "2013-09-28T12:58:22Z"
+    },
+    {
+        "name": "g2p/blocks",
+        "url": "https://github.com/g2p/blocks.git",
+        "stars": 363,
+        "created_at": "2013-03-15T21:54:49Z"
+    },
+    {
+        "name": "miguelgrinberg/Flask-Moment",
+        "url": "https://github.com/miguelgrinberg/Flask-Moment.git",
+        "stars": 363,
+        "created_at": "2013-10-24T04:17:57Z"
+    },
+    {
+        "name": "typemytype/drawbot",
+        "url": "https://github.com/typemytype/drawbot.git",
+        "stars": 363,
+        "created_at": "2013-04-24T14:08:44Z"
+    },
+    {
+        "name": "dabapps/django-log-request-id",
+        "url": "https://github.com/dabapps/django-log-request-id.git",
+        "stars": 361,
+        "created_at": "2013-04-14T16:44:56Z"
+    },
+    {
+        "name": "virantha/pypdfocr",
+        "url": "https://github.com/virantha/pypdfocr.git",
+        "stars": 361,
+        "created_at": "2013-07-22T19:38:18Z"
+    },
+    {
+        "name": "guoguo12/billboard-charts",
+        "url": "https://github.com/guoguo12/billboard-charts.git",
+        "stars": 360,
+        "created_at": "2013-12-08T20:30:48Z"
+    },
+    {
+        "name": "pytest-dev/pytest-qt",
+        "url": "https://github.com/pytest-dev/pytest-qt.git",
+        "stars": 360,
+        "created_at": "2013-02-26T23:33:46Z"
+    },
+    {
+        "name": "neithere/argh",
+        "url": "https://github.com/neithere/argh.git",
+        "stars": 360,
+        "created_at": "2013-08-20T11:13:32Z"
+    },
+    {
+        "name": "openmm/pdbfixer",
+        "url": "https://github.com/openmm/pdbfixer.git",
+        "stars": 360,
+        "created_at": "2013-08-29T22:29:24Z"
+    },
+    {
+        "name": "powerline/fontpatcher",
+        "url": "https://github.com/powerline/fontpatcher.git",
+        "stars": 358,
+        "created_at": "2013-03-08T17:09:40Z"
+    },
+    {
+        "name": "the4thdoctor/pg_chameleon",
+        "url": "https://github.com/the4thdoctor/pg_chameleon.git",
+        "stars": 357,
+        "created_at": "2013-08-03T13:34:13Z"
+    },
+    {
+        "name": "josiahcarlson/rom",
+        "url": "https://github.com/josiahcarlson/rom.git",
+        "stars": 357,
+        "created_at": "2013-04-22T03:58:15Z"
+    },
+    {
+        "name": "gwpy/gwpy",
+        "url": "https://github.com/gwpy/gwpy.git",
+        "stars": 357,
+        "created_at": "2013-05-10T10:11:04Z"
+    },
+    {
+        "name": "globocom/database-as-a-service",
+        "url": "https://github.com/globocom/database-as-a-service.git",
+        "stars": 356,
+        "created_at": "2013-08-29T18:03:40Z"
+    },
+    {
+        "name": "asciimoo/ListOfGithubLists",
+        "url": "https://github.com/asciimoo/ListOfGithubLists.git",
+        "stars": 356,
+        "created_at": "2013-12-31T17:32:54Z"
+    },
+    {
+        "name": "ionelmc/python-manhole",
+        "url": "https://github.com/ionelmc/python-manhole.git",
+        "stars": 356,
+        "created_at": "2013-06-26T21:49:34Z"
+    },
+    {
+        "name": "Widdershin/flask-desktop",
+        "url": "https://github.com/Widdershin/flask-desktop.git",
+        "stars": 355,
+        "created_at": "2013-09-06T06:31:21Z"
+    },
+    {
+        "name": "lovelylain/pyctp",
+        "url": "https://github.com/lovelylain/pyctp.git",
+        "stars": 355,
+        "created_at": "2013-04-04T19:36:37Z"
+    },
+    {
+        "name": "jaimeMF/youtube-dl-api-server",
+        "url": "https://github.com/jaimeMF/youtube-dl-api-server.git",
+        "stars": 355,
+        "created_at": "2013-03-24T13:16:37Z"
+    },
+    {
+        "name": "xiaomi-sa/smartdns",
+        "url": "https://github.com/xiaomi-sa/smartdns.git",
+        "stars": 354,
+        "created_at": "2013-08-03T03:40:33Z"
+    },
+    {
+        "name": "malthe/pq",
+        "url": "https://github.com/malthe/pq.git",
+        "stars": 353,
+        "created_at": "2013-08-31T16:18:40Z"
+    },
+    {
+        "name": "gmdfalk/blockify",
+        "url": "https://github.com/gmdfalk/blockify.git",
+        "stars": 353,
+        "created_at": "2013-12-19T21:52:58Z"
+    },
+    {
+        "name": "sebdah/scrapy-mongodb",
+        "url": "https://github.com/sebdah/scrapy-mongodb.git",
+        "stars": 353,
+        "created_at": "2013-01-06T12:26:40Z"
+    },
+    {
+        "name": "Crypto-Expert/stratum-mining",
+        "url": "https://github.com/Crypto-Expert/stratum-mining.git",
+        "stars": 352,
+        "created_at": "2013-11-20T11:30:39Z"
+    },
+    {
+        "name": "seanliang/Codecs33",
+        "url": "https://github.com/seanliang/Codecs33.git",
+        "stars": 352,
+        "created_at": "2013-02-21T14:27:11Z"
+    },
+    {
+        "name": "nucleic/atom",
+        "url": "https://github.com/nucleic/atom.git",
+        "stars": 351,
+        "created_at": "2013-03-06T03:20:53Z"
+    },
+    {
+        "name": "ADVTOOLS/ADVTrustStore",
+        "url": "https://github.com/ADVTOOLS/ADVTrustStore.git",
+        "stars": 351,
+        "created_at": "2013-02-11T10:41:45Z"
+    },
+    {
+        "name": "andelf/PyAIML",
+        "url": "https://github.com/andelf/PyAIML.git",
+        "stars": 351,
+        "created_at": "2013-03-09T16:14:36Z"
+    },
+    {
+        "name": "mjumbewu/django-rest-framework-csv",
+        "url": "https://github.com/mjumbewu/django-rest-framework-csv.git",
+        "stars": 350,
+        "created_at": "2013-01-14T16:21:56Z"
+    },
+    {
+        "name": "ceph/calamari",
+        "url": "https://github.com/ceph/calamari.git",
+        "stars": 350,
+        "created_at": "2013-06-12T23:32:33Z"
+    },
+    {
+        "name": "govtrack/govtrack.us-web",
+        "url": "https://github.com/govtrack/govtrack.us-web.git",
+        "stars": 349,
+        "created_at": "2013-02-06T12:58:54Z"
+    },
+    {
+        "name": "internetarchive/warcprox",
+        "url": "https://github.com/internetarchive/warcprox.git",
+        "stars": 348,
+        "created_at": "2013-10-25T23:27:02Z"
+    },
+    {
+        "name": "googleglass/mirror-quickstart-python",
+        "url": "https://github.com/googleglass/mirror-quickstart-python.git",
+        "stars": 347,
+        "created_at": "2013-04-15T16:18:27Z"
+    },
+    {
+        "name": "skariel/webalchemy",
+        "url": "https://github.com/skariel/webalchemy.git",
+        "stars": 346,
+        "created_at": "2013-08-14T07:23:40Z"
+    },
+    {
+        "name": "terrible-ideas/butterdb",
+        "url": "https://github.com/terrible-ideas/butterdb.git",
+        "stars": 345,
+        "created_at": "2013-12-10T03:18:02Z"
+    },
+    {
+        "name": "smathot/academicmarkdown",
+        "url": "https://github.com/smathot/academicmarkdown.git",
+        "stars": 344,
+        "created_at": "2013-10-18T15:14:25Z"
+    },
+    {
+        "name": "sethmlarson/virtualbox-python",
+        "url": "https://github.com/sethmlarson/virtualbox-python.git",
+        "stars": 343,
+        "created_at": "2013-05-25T03:06:25Z"
+    },
+    {
+        "name": "zopefoundation/RestrictedPython",
+        "url": "https://github.com/zopefoundation/RestrictedPython.git",
+        "stars": 340,
+        "created_at": "2013-02-28T14:29:45Z"
+    },
+    {
+        "name": "django-oscar/django-oscar-api",
+        "url": "https://github.com/django-oscar/django-oscar-api.git",
+        "stars": 340,
+        "created_at": "2013-03-13T20:05:58Z"
+    },
+    {
+        "name": "jboone/tpms",
+        "url": "https://github.com/jboone/tpms.git",
+        "stars": 339,
+        "created_at": "2013-10-20T19:40:02Z"
+    },
+    {
+        "name": "pirobot/rbx1",
+        "url": "https://github.com/pirobot/rbx1.git",
+        "stars": 339,
+        "created_at": "2013-04-01T23:35:37Z"
+    },
+    {
+        "name": "pydy/pydy",
+        "url": "https://github.com/pydy/pydy.git",
+        "stars": 338,
+        "created_at": "2013-08-16T18:16:29Z"
+    },
+    {
+        "name": "tomheon/diffscuss",
+        "url": "https://github.com/tomheon/diffscuss.git",
+        "stars": 338,
+        "created_at": "2013-03-08T05:18:43Z"
+    },
+    {
+        "name": "wzchen/stock_market_prediction",
+        "url": "https://github.com/wzchen/stock_market_prediction.git",
+        "stars": 338,
+        "created_at": "2013-11-11T03:59:14Z"
+    },
+    {
+        "name": "noirblancrouge/YoungSerif",
+        "url": "https://github.com/noirblancrouge/YoungSerif.git",
+        "stars": 338,
+        "created_at": "2013-05-07T06:15:03Z"
+    },
+    {
+        "name": "facebookarchive/pyaib",
+        "url": "https://github.com/facebookarchive/pyaib.git",
+        "stars": 337,
+        "created_at": "2013-09-26T23:06:25Z"
+    },
+    {
+        "name": "aaasen/github_globe",
+        "url": "https://github.com/aaasen/github_globe.git",
+        "stars": 337,
+        "created_at": "2013-05-08T01:24:51Z"
+    },
+    {
+        "name": "openedx/codejail",
+        "url": "https://github.com/openedx/codejail.git",
+        "stars": 336,
+        "created_at": "2013-04-26T20:48:06Z"
+    },
+    {
+        "name": "ahkab/ahkab",
+        "url": "https://github.com/ahkab/ahkab.git",
+        "stars": 335,
+        "created_at": "2013-08-20T21:18:54Z"
+    },
+    {
+        "name": "FMMT666/launchpad.py",
+        "url": "https://github.com/FMMT666/launchpad.py.git",
+        "stars": 335,
+        "created_at": "2013-07-31T23:30:04Z"
+    },
+    {
+        "name": "OskarPersson/django-nested-inline",
+        "url": "https://github.com/OskarPersson/django-nested-inline.git",
+        "stars": 335,
+        "created_at": "2013-03-27T15:03:25Z"
+    },
+    {
+        "name": "tsroten/zhon",
+        "url": "https://github.com/tsroten/zhon.git",
+        "stars": 335,
+        "created_at": "2013-05-03T13:03:40Z"
+    },
+    {
+        "name": "lukerosiak/pysec",
+        "url": "https://github.com/lukerosiak/pysec.git",
+        "stars": 335,
+        "created_at": "2013-05-04T23:03:02Z"
+    },
+    {
+        "name": "jcartledge/sublime-worksheet",
+        "url": "https://github.com/jcartledge/sublime-worksheet.git",
+        "stars": 334,
+        "created_at": "2013-05-31T13:28:49Z"
+    },
+    {
+        "name": "rcmdnk/homebrew-file",
+        "url": "https://github.com/rcmdnk/homebrew-file.git",
+        "stars": 333,
+        "created_at": "2013-09-13T10:06:29Z"
+    },
+    {
+        "name": "elasticluster/elasticluster",
+        "url": "https://github.com/elasticluster/elasticluster.git",
+        "stars": 333,
+        "created_at": "2013-03-20T10:13:21Z"
+    },
+    {
+        "name": "zopefoundation/Zope",
+        "url": "https://github.com/zopefoundation/Zope.git",
+        "stars": 332,
+        "created_at": "2013-02-26T16:13:23Z"
+    },
+    {
+        "name": "olemartinorg/i3-alternating-layout",
+        "url": "https://github.com/olemartinorg/i3-alternating-layout.git",
+        "stars": 330,
+        "created_at": "2013-12-16T17:15:16Z"
+    },
+    {
+        "name": "inclement/kivycrashcourse",
+        "url": "https://github.com/inclement/kivycrashcourse.git",
+        "stars": 330,
+        "created_at": "2013-12-11T00:47:37Z"
+    },
+    {
+        "name": "webcompat/webcompat.com",
+        "url": "https://github.com/webcompat/webcompat.com.git",
+        "stars": 330,
+        "created_at": "2013-12-13T21:44:40Z"
+    },
+    {
+        "name": "geany/geany-themes",
+        "url": "https://github.com/geany/geany-themes.git",
+        "stars": 328,
+        "created_at": "2013-06-15T22:50:48Z"
+    },
+    {
+        "name": "mcs07/PubChemPy",
+        "url": "https://github.com/mcs07/PubChemPy.git",
+        "stars": 327,
+        "created_at": "2013-01-06T02:35:45Z"
+    },
+    {
+        "name": "andrewshilliday/garage-door-controller",
+        "url": "https://github.com/andrewshilliday/garage-door-controller.git",
+        "stars": 327,
+        "created_at": "2013-09-24T13:11:25Z"
+    },
+    {
+        "name": "ArchiveTeam/ArchiveBot",
+        "url": "https://github.com/ArchiveTeam/ArchiveBot.git",
+        "stars": 326,
+        "created_at": "2013-09-06T05:13:57Z"
+    },
+    {
+        "name": "jakevdp/sklearn_scipy2013",
+        "url": "https://github.com/jakevdp/sklearn_scipy2013.git",
+        "stars": 326,
+        "created_at": "2013-06-14T17:40:13Z"
+    },
+    {
+        "name": "mailgun/expiringdict",
+        "url": "https://github.com/mailgun/expiringdict.git",
+        "stars": 326,
+        "created_at": "2013-07-08T21:17:50Z"
+    },
+    {
+        "name": "dyn4mik3/OrderBook",
+        "url": "https://github.com/dyn4mik3/OrderBook.git",
+        "stars": 325,
+        "created_at": "2013-12-31T07:54:04Z"
+    },
+    {
+        "name": "rizsotto/scan-build",
+        "url": "https://github.com/rizsotto/scan-build.git",
+        "stars": 324,
+        "created_at": "2013-09-30T21:02:20Z"
+    },
+    {
+        "name": "PyCQA/modernize",
+        "url": "https://github.com/PyCQA/modernize.git",
+        "stars": 324,
+        "created_at": "2013-08-29T02:53:54Z"
+    },
+    {
+        "name": "yueyoum/social-oauth",
+        "url": "https://github.com/yueyoum/social-oauth.git",
+        "stars": 324,
+        "created_at": "2013-03-14T13:27:35Z"
+    },
+    {
+        "name": "maptiler/epsg.io",
+        "url": "https://github.com/maptiler/epsg.io.git",
+        "stars": 324,
+        "created_at": "2013-12-19T09:28:30Z"
+    },
+    {
+        "name": "Dan-in-CA/SIP",
+        "url": "https://github.com/Dan-in-CA/SIP.git",
+        "stars": 323,
+        "created_at": "2013-08-25T22:59:53Z"
+    },
+    {
+        "name": "lxneng/alipay",
+        "url": "https://github.com/lxneng/alipay.git",
+        "stars": 323,
+        "created_at": "2013-11-11T08:51:07Z"
+    },
+    {
+        "name": "openresty/openresty-gdb-utils",
+        "url": "https://github.com/openresty/openresty-gdb-utils.git",
+        "stars": 323,
+        "created_at": "2013-07-10T23:21:37Z"
+    },
+    {
+        "name": "menpo/menpo",
+        "url": "https://github.com/menpo/menpo.git",
+        "stars": 322,
+        "created_at": "2013-04-28T14:52:38Z"
+    },
+    {
+        "name": "probcomp/crosscat",
+        "url": "https://github.com/probcomp/crosscat.git",
+        "stars": 321,
+        "created_at": "2013-09-12T18:12:52Z"
+    },
+    {
+        "name": "openstack/rally",
+        "url": "https://github.com/openstack/rally.git",
+        "stars": 321,
+        "created_at": "2013-09-06T13:58:01Z"
+    },
+    {
+        "name": "dropbox/hydra",
+        "url": "https://github.com/dropbox/hydra.git",
+        "stars": 319,
+        "created_at": "2013-09-09T22:58:52Z"
+    },
+    {
+        "name": "futapi/fut",
+        "url": "https://github.com/futapi/fut.git",
+        "stars": 319,
+        "created_at": "2013-09-28T18:36:24Z"
+    },
+    {
+        "name": "PiStuffing/Quadcopter",
+        "url": "https://github.com/PiStuffing/Quadcopter.git",
+        "stars": 319,
+        "created_at": "2013-10-16T17:27:53Z"
+    },
+    {
+        "name": "Xen0ph0n/YaraGenerator",
+        "url": "https://github.com/Xen0ph0n/YaraGenerator.git",
+        "stars": 318,
+        "created_at": "2013-05-04T16:55:13Z"
+    },
+    {
+        "name": "cyverse/atmosphere",
+        "url": "https://github.com/cyverse/atmosphere.git",
+        "stars": 318,
+        "created_at": "2013-02-18T23:54:07Z"
+    },
+    {
+        "name": "jcugat/django-custom-user",
+        "url": "https://github.com/jcugat/django-custom-user.git",
+        "stars": 318,
+        "created_at": "2013-04-09T11:08:02Z"
+    },
+    {
+        "name": "rancavil/tornado-rest",
+        "url": "https://github.com/rancavil/tornado-rest.git",
+        "stars": 318,
+        "created_at": "2013-02-16T05:07:56Z"
+    },
+    {
+        "name": "hausdorff/snapchat-fs",
+        "url": "https://github.com/hausdorff/snapchat-fs.git",
+        "stars": 318,
+        "created_at": "2013-12-09T09:41:58Z"
+    },
+    {
+        "name": "yceruto/django-ajax",
+        "url": "https://github.com/yceruto/django-ajax.git",
+        "stars": 318,
+        "created_at": "2013-07-16T00:16:20Z"
+    },
+    {
+        "name": "wunki/django-salted",
+        "url": "https://github.com/wunki/django-salted.git",
+        "stars": 318,
+        "created_at": "2013-06-12T08:16:48Z"
+    },
+    {
+        "name": "dictation-toolbox/Caster",
+        "url": "https://github.com/dictation-toolbox/Caster.git",
+        "stars": 317,
+        "created_at": "2013-11-06T02:27:35Z"
+    },
+    {
+        "name": "yaoli/GSN",
+        "url": "https://github.com/yaoli/GSN.git",
+        "stars": 317,
+        "created_at": "2013-06-16T23:58:46Z"
+    },
+    {
+        "name": "rob-mccann/Pi-Voice",
+        "url": "https://github.com/rob-mccann/Pi-Voice.git",
+        "stars": 317,
+        "created_at": "2013-04-01T19:23:12Z"
+    },
+    {
+        "name": "pyeve/events",
+        "url": "https://github.com/pyeve/events.git",
+        "stars": 317,
+        "created_at": "2013-03-09T11:46:04Z"
+    },
+    {
+        "name": "eliben/pss",
+        "url": "https://github.com/eliben/pss.git",
+        "stars": 316,
+        "created_at": "2013-05-28T13:10:57Z"
+    },
+    {
+        "name": "myint/language-check",
+        "url": "https://github.com/myint/language-check.git",
+        "stars": 316,
+        "created_at": "2013-05-12T22:05:43Z"
+    },
+    {
+        "name": "jcrobak/parquet-python",
+        "url": "https://github.com/jcrobak/parquet-python.git",
+        "stars": 316,
+        "created_at": "2013-09-02T19:17:29Z"
+    },
+    {
+        "name": "int3h/SublimeFixMacPath",
+        "url": "https://github.com/int3h/SublimeFixMacPath.git",
+        "stars": 316,
+        "created_at": "2013-07-09T21:10:48Z"
+    },
+    {
+        "name": "pret/pokemon-reverse-engineering-tools",
+        "url": "https://github.com/pret/pokemon-reverse-engineering-tools.git",
+        "stars": 314,
+        "created_at": "2013-08-03T18:29:09Z"
+    },
+    {
+        "name": "opps/opps",
+        "url": "https://github.com/opps/opps.git",
+        "stars": 313,
+        "created_at": "2013-01-20T03:56:15Z"
+    },
+    {
+        "name": "angr/pyvex",
+        "url": "https://github.com/angr/pyvex.git",
+        "stars": 313,
+        "created_at": "2013-09-23T05:02:20Z"
+    },
+    {
+        "name": "gmusicproxy/gmusicproxy",
+        "url": "https://github.com/gmusicproxy/gmusicproxy.git",
+        "stars": 312,
+        "created_at": "2013-09-15T17:16:31Z"
+    },
+    {
+        "name": "rabbitmq/tls-gen",
+        "url": "https://github.com/rabbitmq/tls-gen.git",
+        "stars": 312,
+        "created_at": "2013-06-21T16:59:12Z"
+    },
+    {
+        "name": "mixcloud/django-speedbar",
+        "url": "https://github.com/mixcloud/django-speedbar.git",
+        "stars": 312,
+        "created_at": "2013-10-06T15:42:31Z"
+    },
+    {
+        "name": "SublimeGit/SublimeGit",
+        "url": "https://github.com/SublimeGit/SublimeGit.git",
+        "stars": 311,
+        "created_at": "2013-07-11T07:50:41Z"
+    },
+    {
+        "name": "tancredi/python-console-snake",
+        "url": "https://github.com/tancredi/python-console-snake.git",
+        "stars": 311,
+        "created_at": "2013-10-06T03:35:46Z"
+    },
+    {
+        "name": "SDXorg/pysd",
+        "url": "https://github.com/SDXorg/pysd.git",
+        "stars": 310,
+        "created_at": "2013-12-16T14:43:20Z"
+    },
+    {
+        "name": "emre/kaptan",
+        "url": "https://github.com/emre/kaptan.git",
+        "stars": 310,
+        "created_at": "2013-05-13T12:31:30Z"
+    },
+    {
+        "name": "kjkjava/garmin-connect-export",
+        "url": "https://github.com/kjkjava/garmin-connect-export.git",
+        "stars": 309,
+        "created_at": "2013-05-27T16:59:02Z"
+    },
+    {
+        "name": "pjkundert/cpppo",
+        "url": "https://github.com/pjkundert/cpppo.git",
+        "stars": 309,
+        "created_at": "2013-03-15T17:22:16Z"
+    },
+    {
+        "name": "feliam/pysymemu",
+        "url": "https://github.com/feliam/pysymemu.git",
+        "stars": 309,
+        "created_at": "2013-09-26T18:46:01Z"
+    },
+    {
+        "name": "mandatoryprogrammer/xssless",
+        "url": "https://github.com/mandatoryprogrammer/xssless.git",
+        "stars": 308,
+        "created_at": "2013-12-19T02:27:06Z"
+    },
+    {
+        "name": "eliangcs/pystock-crawler",
+        "url": "https://github.com/eliangcs/pystock-crawler.git",
+        "stars": 308,
+        "created_at": "2013-08-31T14:10:02Z"
+    },
+    {
+        "name": "fdemmer/django-weasyprint",
+        "url": "https://github.com/fdemmer/django-weasyprint.git",
+        "stars": 308,
+        "created_at": "2013-01-11T14:38:37Z"
+    },
+    {
+        "name": "vladris/tinkerer",
+        "url": "https://github.com/vladris/tinkerer.git",
+        "stars": 306,
+        "created_at": "2013-05-18T10:18:28Z"
+    },
+    {
+        "name": "paylogic/pip-accel",
+        "url": "https://github.com/paylogic/pip-accel.git",
+        "stars": 306,
+        "created_at": "2013-04-18T14:56:15Z"
+    },
+    {
+        "name": "tomgenoni/cssdig",
+        "url": "https://github.com/tomgenoni/cssdig.git",
+        "stars": 305,
+        "created_at": "2013-05-24T04:21:23Z"
+    },
+    {
+        "name": "lightos/Panoptic",
+        "url": "https://github.com/lightos/Panoptic.git",
+        "stars": 305,
+        "created_at": "2013-03-06T22:59:35Z"
+    },
+    {
+        "name": "jeffkit/wechat",
+        "url": "https://github.com/jeffkit/wechat.git",
+        "stars": 304,
+        "created_at": "2013-04-01T07:50:10Z"
+    },
+    {
+        "name": "nyghtowl/Interview_Problems",
+        "url": "https://github.com/nyghtowl/Interview_Problems.git",
+        "stars": 304,
+        "created_at": "2013-06-17T22:40:32Z"
+    },
+    {
+        "name": "dolph/dictionary",
+        "url": "https://github.com/dolph/dictionary.git",
+        "stars": 303,
+        "created_at": "2013-01-27T17:31:25Z"
+    },
+    {
+        "name": "chyikwei/recommend",
+        "url": "https://github.com/chyikwei/recommend.git",
+        "stars": 303,
+        "created_at": "2013-09-01T18:34:13Z"
+    },
+    {
+        "name": "bianjiang/tweetf0rm",
+        "url": "https://github.com/bianjiang/tweetf0rm.git",
+        "stars": 302,
+        "created_at": "2013-10-18T18:11:41Z"
+    },
+    {
+        "name": "stoq/stoq",
+        "url": "https://github.com/stoq/stoq.git",
+        "stars": 301,
+        "created_at": "2013-02-25T17:15:21Z"
+    },
+    {
+        "name": "furlongm/patchman",
+        "url": "https://github.com/furlongm/patchman.git",
+        "stars": 301,
+        "created_at": "2013-01-31T00:07:03Z"
+    },
+    {
+        "name": "xolox/python-humanfriendly",
+        "url": "https://github.com/xolox/python-humanfriendly.git",
+        "stars": 300,
+        "created_at": "2013-06-26T22:07:32Z"
+    },
+    {
+        "name": "corelan/windbglib",
+        "url": "https://github.com/corelan/windbglib.git",
+        "stars": 300,
+        "created_at": "2013-12-20T12:06:14Z"
+    },
+    {
+        "name": "idpaterson/alfred-wunderlist-workflow",
+        "url": "https://github.com/idpaterson/alfred-wunderlist-workflow.git",
+        "stars": 299,
+        "created_at": "2013-08-25T18:23:49Z"
+    },
+    {
+        "name": "zopefoundation/zope.interface",
+        "url": "https://github.com/zopefoundation/zope.interface.git",
+        "stars": 299,
+        "created_at": "2013-01-07T22:25:00Z"
+    },
+    {
+        "name": "crosbymichael/Dockerfiles",
+        "url": "https://github.com/crosbymichael/Dockerfiles.git",
+        "stars": 299,
+        "created_at": "2013-06-26T13:20:39Z"
+    },
+    {
+        "name": "naokazuterada/MarkdownTOC",
+        "url": "https://github.com/naokazuterada/MarkdownTOC.git",
+        "stars": 299,
+        "created_at": "2013-04-04T17:33:24Z"
+    },
+    {
+        "name": "ushuz/weixin-simulator",
+        "url": "https://github.com/ushuz/weixin-simulator.git",
+        "stars": 296,
+        "created_at": "2013-03-08T15:56:34Z"
+    },
+    {
+        "name": "docker-archive/openstack-docker",
+        "url": "https://github.com/docker-archive/openstack-docker.git",
+        "stars": 296,
+        "created_at": "2013-05-30T01:14:44Z"
+    },
+    {
+        "name": "Antergos/Cnchi",
+        "url": "https://github.com/Antergos/Cnchi.git",
+        "stars": 296,
+        "created_at": "2013-01-25T21:15:39Z"
+    },
+    {
+        "name": "materialsproject/fireworks",
+        "url": "https://github.com/materialsproject/fireworks.git",
+        "stars": 295,
+        "created_at": "2013-01-08T19:18:02Z"
+    },
+    {
+        "name": "hanul93/kicomav",
+        "url": "https://github.com/hanul93/kicomav.git",
+        "stars": 295,
+        "created_at": "2013-05-15T22:16:05Z"
+    },
+    {
+        "name": "skuroda/PackageResourceViewer",
+        "url": "https://github.com/skuroda/PackageResourceViewer.git",
+        "stars": 294,
+        "created_at": "2013-02-19T07:48:58Z"
+    },
+    {
+        "name": "pierce403/keyhunter",
+        "url": "https://github.com/pierce403/keyhunter.git",
+        "stars": 293,
+        "created_at": "2013-12-18T01:51:09Z"
+    },
+    {
+        "name": "salty-horse/ibus-uniemoji",
+        "url": "https://github.com/salty-horse/ibus-uniemoji.git",
+        "stars": 293,
+        "created_at": "2013-01-13T15:44:08Z"
+    },
+    {
+        "name": "thomasvs/morituri",
+        "url": "https://github.com/thomasvs/morituri.git",
+        "stars": 293,
+        "created_at": "2013-01-07T09:32:44Z"
+    },
+    {
+        "name": "markstory/lint-review",
+        "url": "https://github.com/markstory/lint-review.git",
+        "stars": 293,
+        "created_at": "2013-01-21T00:43:26Z"
+    },
+    {
+        "name": "mkeeter/kokopelli",
+        "url": "https://github.com/mkeeter/kokopelli.git",
+        "stars": 293,
+        "created_at": "2013-05-20T23:42:34Z"
+    },
+    {
+        "name": "Kill-Console/PythonShootGame",
+        "url": "https://github.com/Kill-Console/PythonShootGame.git",
+        "stars": 293,
+        "created_at": "2013-09-12T03:40:07Z"
+    },
+    {
+        "name": "ratanakvlun/deluge-ltconfig",
+        "url": "https://github.com/ratanakvlun/deluge-ltconfig.git",
+        "stars": 293,
+        "created_at": "2013-02-19T05:52:54Z"
+    },
+    {
+        "name": "orf/django-debug-toolbar-template-timings",
+        "url": "https://github.com/orf/django-debug-toolbar-template-timings.git",
+        "stars": 292,
+        "created_at": "2013-04-18T16:01:05Z"
+    },
+    {
+        "name": "archlinux/archweb",
+        "url": "https://github.com/archlinux/archweb.git",
+        "stars": 292,
+        "created_at": "2013-06-11T20:39:57Z"
+    },
+    {
+        "name": "circuits/circuits",
+        "url": "https://github.com/circuits/circuits.git",
+        "stars": 292,
+        "created_at": "2013-08-29T03:05:42Z"
+    },
+    {
+        "name": "kirang89/bootstrapy",
+        "url": "https://github.com/kirang89/bootstrapy.git",
+        "stars": 291,
+        "created_at": "2013-09-09T09:37:44Z"
+    },
+    {
+        "name": "grundic/zabbix-disk-performance",
+        "url": "https://github.com/grundic/zabbix-disk-performance.git",
+        "stars": 291,
+        "created_at": "2013-08-23T11:55:38Z"
+    },
+    {
+        "name": "chorsley/python-Wappalyzer",
+        "url": "https://github.com/chorsley/python-Wappalyzer.git",
+        "stars": 291,
+        "created_at": "2013-05-10T18:25:46Z"
+    },
+    {
+        "name": "fqrouter/qiang",
+        "url": "https://github.com/fqrouter/qiang.git",
+        "stars": 291,
+        "created_at": "2013-03-27T10:59:53Z"
+    },
+    {
+        "name": "mwilliamson/jq.py",
+        "url": "https://github.com/mwilliamson/jq.py.git",
+        "stars": 290,
+        "created_at": "2013-06-18T22:36:05Z"
+    },
+    {
+        "name": "hmason/botomatic",
+        "url": "https://github.com/hmason/botomatic.git",
+        "stars": 289,
+        "created_at": "2013-07-06T03:28:42Z"
+    },
+    {
+        "name": "mwaterfall/alfred-datetime-format-converter",
+        "url": "https://github.com/mwaterfall/alfred-datetime-format-converter.git",
+        "stars": 289,
+        "created_at": "2013-03-27T22:06:03Z"
+    },
+    {
+        "name": "Ecogenomics/CheckM",
+        "url": "https://github.com/Ecogenomics/CheckM.git",
+        "stars": 289,
+        "created_at": "2013-02-20T00:43:38Z"
+    },
+    {
+        "name": "stephenmcd/hot-redis",
+        "url": "https://github.com/stephenmcd/hot-redis.git",
+        "stars": 288,
+        "created_at": "2013-10-22T10:15:34Z"
+    },
+    {
+        "name": "f-prime/MatchBox",
+        "url": "https://github.com/f-prime/MatchBox.git",
+        "stars": 288,
+        "created_at": "2013-02-28T02:23:50Z"
+    },
+    {
+        "name": "dhammack/Word2VecExample",
+        "url": "https://github.com/dhammack/Word2VecExample.git",
+        "stars": 287,
+        "created_at": "2013-08-18T18:43:09Z"
+    },
+    {
+        "name": "openstack/trove",
+        "url": "https://github.com/openstack/trove.git",
+        "stars": 286,
+        "created_at": "2013-06-14T21:58:08Z"
+    },
+    {
+        "name": "ciscorn/ldoce5viewer",
+        "url": "https://github.com/ciscorn/ldoce5viewer.git",
+        "stars": 286,
+        "created_at": "2013-08-31T10:21:30Z"
+    },
+    {
+        "name": "cclib/cclib",
+        "url": "https://github.com/cclib/cclib.git",
+        "stars": 285,
+        "created_at": "2013-12-29T20:59:14Z"
+    },
+    {
+        "name": "openaddresses/pyesridump",
+        "url": "https://github.com/openaddresses/pyesridump.git",
+        "stars": 285,
+        "created_at": "2013-12-06T15:03:55Z"
+    },
+    {
+        "name": "tomopy/tomopy",
+        "url": "https://github.com/tomopy/tomopy.git",
+        "stars": 285,
+        "created_at": "2013-11-07T01:29:42Z"
+    },
+    {
+        "name": "pyga/parsley",
+        "url": "https://github.com/pyga/parsley.git",
+        "stars": 284,
+        "created_at": "2013-02-19T15:06:48Z"
+    },
+    {
+        "name": "larose/utt",
+        "url": "https://github.com/larose/utt.git",
+        "stars": 283,
+        "created_at": "2013-07-08T01:24:30Z"
+    },
+    {
+        "name": "Scarygami/mirror-api",
+        "url": "https://github.com/Scarygami/mirror-api.git",
+        "stars": 283,
+        "created_at": "2013-04-02T12:53:54Z"
+    },
+    {
+        "name": "rhiever/reddit-analysis",
+        "url": "https://github.com/rhiever/reddit-analysis.git",
+        "stars": 283,
+        "created_at": "2013-03-02T01:30:25Z"
+    },
+    {
+        "name": "dhylands/python_lcd",
+        "url": "https://github.com/dhylands/python_lcd.git",
+        "stars": 282,
+        "created_at": "2013-12-14T03:35:12Z"
+    },
+    {
+        "name": "peakwinter/python-nginx",
+        "url": "https://github.com/peakwinter/python-nginx.git",
+        "stars": 282,
+        "created_at": "2013-11-24T04:32:12Z"
+    },
+    {
+        "name": "mgedmin/check-manifest",
+        "url": "https://github.com/mgedmin/check-manifest.git",
+        "stars": 282,
+        "created_at": "2013-03-05T15:27:20Z"
+    },
+    {
+        "name": "thliebig/openEMS-Project",
+        "url": "https://github.com/thliebig/openEMS-Project.git",
+        "stars": 282,
+        "created_at": "2013-09-03T14:58:49Z"
+    },
+    {
+        "name": "PyCQA/baron",
+        "url": "https://github.com/PyCQA/baron.git",
+        "stars": 282,
+        "created_at": "2013-03-21T12:19:00Z"
+    },
+    {
+        "name": "Grokzen/pykwalify",
+        "url": "https://github.com/Grokzen/pykwalify.git",
+        "stars": 282,
+        "created_at": "2013-01-17T09:20:37Z"
+    },
+    {
+        "name": "streed/simpleRaft",
+        "url": "https://github.com/streed/simpleRaft.git",
+        "stars": 280,
+        "created_at": "2013-11-03T20:41:46Z"
+    },
+    {
+        "name": "zeroepoch/plotbitrate",
+        "url": "https://github.com/zeroepoch/plotbitrate.git",
+        "stars": 280,
+        "created_at": "2013-11-17T20:47:55Z"
+    },
+    {
+        "name": "barseghyanartur/transliterate",
+        "url": "https://github.com/barseghyanartur/transliterate.git",
+        "stars": 279,
+        "created_at": "2013-07-11T17:39:06Z"
+    },
+    {
+        "name": "aaren/wavelets",
+        "url": "https://github.com/aaren/wavelets.git",
+        "stars": 279,
+        "created_at": "2013-08-12T07:44:34Z"
+    },
+    {
+        "name": "FineUploader/server-examples",
+        "url": "https://github.com/FineUploader/server-examples.git",
+        "stars": 279,
+        "created_at": "2013-03-25T22:43:25Z"
+    },
+    {
+        "name": "hvdwolf/pyExifToolGUI",
+        "url": "https://github.com/hvdwolf/pyExifToolGUI.git",
+        "stars": 278,
+        "created_at": "2013-08-24T15:34:52Z"
+    },
+    {
+        "name": "cernceph/ceph-scripts",
+        "url": "https://github.com/cernceph/ceph-scripts.git",
+        "stars": 278,
+        "created_at": "2013-10-02T09:33:55Z"
+    }
+]
